@@ -32,17 +32,17 @@ The system aims to:
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
 
 IntelligentSpeechTherapy_NLP/
 ├── data/
-│ └── sentences.txt # Assessment sentences
+│ └── sentences.txt
 ├── metadata/
-│ └── sentence_phonemes.json # G2P phoneme mappings (Day 1 output)
+│ └── sentence_phonemes.json
 ├── scripts/
-│ └── prepare_phonemes.py # G2P extraction script
-├── venv/ # Virtual environment
-└── requirements.txt # Python dependencies
+│ └── prepare_phonemes.py
+├── venv/
+└── requirements.txt
 
 
 
