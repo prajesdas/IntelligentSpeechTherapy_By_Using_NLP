@@ -9,7 +9,7 @@ This repository contains the **NLP module** of the Intelligent Speech Therapy Pl
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The Intelligent Speech Therapy Platform functions like an automated speech coach.  
 It listens to user speech, analyzes phoneme-level pronunciation, identifies errors, and recommends targeted exercises.
 
@@ -21,7 +21,7 @@ The system aims to:
 
 ---
 
-## 🧠 Core Features (NLP Side)
+##  Core Features (NLP Side)
 - **Speech-to-Text (STT)** using WhisperX  
 - **Forced Alignment** to match audio → phonemes  
 - **Phoneme Extraction** using g2p-en  
@@ -44,12 +44,9 @@ IntelligentSpeechTherapy_NLP/
 ├── venv/ # Virtual environment
 └── requirements.txt # Python dependencies
 
-yaml
-Copy code
 
----
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the project or create the folder
 ```bash
