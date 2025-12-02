@@ -32,8 +32,7 @@ The system aims to:
 
 ---
 
-##  Project Structure
-
+## Project Structure
 IntelligentSpeechTherapy_NLP/
 ├── data/
 │ └── sentences.txt
