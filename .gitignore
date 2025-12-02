@@ -1,0 +1,29 @@
+@"
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+
+# Audio temp
+data/reference_audio/phonemes_tmp/
+data/tmp/
+
+# Large ML artifacts
+models/
+*.pt
+*.pth
+*.npy
+reference_embeddings.npy
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+"@ | Out-File -FilePath .gitignore -Encoding utf8
