@@ -1,8 +1,6 @@
 # IntelligentSpeechTherapy_By_Using_NLP
 The Intelligent Speech Therapy Platform is an AI-powered system that evaluates users’ spoken English by analyzing recorded sentences for pronunciation accuracy, fluency, and phoneme-level errors.
 
-# NLP
-# Intelligent Speech Therapy Platform (NLP Module)
 An AI-powered pronunciation improvement system that analyzes spoken English, detects phoneme-level errors, and provides personalized feedback and practice recommendations.
 
 This repository contains the **NLP module** of the Intelligent Speech Therapy Platform, including phoneme extraction, alignment preparation, reference audio processing, and pronunciation scoring components.
