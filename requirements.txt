@@ -1,20 +1,31 @@
+# -------------------------------
 # Core NLP + Text Processing
+# -------------------------------
 g2p-en==2.1.0
 nltk==3.8.1
 numpy==1.26.4
 
-# Speech + Audio Processing (for next tasks)
+# -------------------------------
+# Speech + Audio Processing
+# -------------------------------
 pyttsx3==2.90
 torch==2.1.2
 torchaudio==2.1.2
-transformers==4.35.0
 soundfile==0.12.1
-
-# Optional: For forced alignment using WhisperX
-whisperx==3.1.1
-
-# Optional: Audio utilities
 librosa==0.10.1
 
-# Backend (for upcoming integration)
+# -------------------------------
+# HuggingFace Transformers (for wav2vec2)
+# -------------------------------
+transformers==4.35.0
+datasets==2.14.6
+
+# -------------------------------
+# Optional Tools (used for forced alignment in future tasks)
+# -------------------------------
+whisperx==3.1.1
+
+# -------------------------------
+# Backend Framework (later integration)
+# -------------------------------
 Flask==3.0.0
