@@ -1,0 +1,380 @@
+{
+  "AA1": {
+    "example_word": "bought",
+    "audio_file": "data\\reference_audio\\phonemes\\AA1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.079,
+    "min_duration_s": 0.647,
+    "max_duration_s": 1.511,
+    "embedding_index": 0
+  },
+  "AE1": {
+    "example_word": "cat",
+    "audio_file": "data\\reference_audio\\phonemes\\AE1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.079,
+    "min_duration_s": 0.647,
+    "max_duration_s": 1.511,
+    "embedding_index": 1
+  },
+  "AH0": {
+    "example_word": "about",
+    "audio_file": "data\\reference_audio\\phonemes\\AH0.wav",
+    "sr": 16000,
+    "base_duration_s": 1.139,
+    "min_duration_s": 0.683,
+    "max_duration_s": 1.595,
+    "embedding_index": 2
+  },
+  "AH1": {
+    "example_word": "comma",
+    "audio_file": "data\\reference_audio\\phonemes\\AH1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.129,
+    "min_duration_s": 0.677,
+    "max_duration_s": 1.581,
+    "embedding_index": 3
+  },
+  "AO1": {
+    "example_word": "saw",
+    "audio_file": "data\\reference_audio\\phonemes\\AO1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.039,
+    "min_duration_s": 0.623,
+    "max_duration_s": 1.455,
+    "embedding_index": 4
+  },
+  "AW1": {
+    "example_word": "house",
+    "audio_file": "data\\reference_audio\\phonemes\\AW1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.174,
+    "min_duration_s": 0.704,
+    "max_duration_s": 1.644,
+    "embedding_index": 5
+  },
+  "AY1": {
+    "example_word": "like",
+    "audio_file": "data\\reference_audio\\phonemes\\AY1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.114,
+    "min_duration_s": 0.668,
+    "max_duration_s": 1.56,
+    "embedding_index": 6
+  },
+  "B": {
+    "example_word": "bat",
+    "audio_file": "data\\reference_audio\\phonemes\\B.wav",
+    "sr": 16000,
+    "base_duration_s": 1.089,
+    "min_duration_s": 0.653,
+    "max_duration_s": 1.525,
+    "embedding_index": 7
+  },
+  "CH": {
+    "example_word": "church",
+    "audio_file": "data\\reference_audio\\phonemes\\CH.wav",
+    "sr": 16000,
+    "base_duration_s": 1.224,
+    "min_duration_s": 0.734,
+    "max_duration_s": 1.714,
+    "embedding_index": 8
+  },
+  "D": {
+    "example_word": "dog",
+    "audio_file": "data\\reference_audio\\phonemes\\D.wav",
+    "sr": 16000,
+    "base_duration_s": 1.159,
+    "min_duration_s": 0.695,
+    "max_duration_s": 1.623,
+    "embedding_index": 9
+  },
+  "DH": {
+    "example_word": "the",
+    "audio_file": "data\\reference_audio\\phonemes\\DH.wav",
+    "sr": 16000,
+    "base_duration_s": 0.969,
+    "min_duration_s": 0.581,
+    "max_duration_s": 1.357,
+    "embedding_index": 10
+  },
+  "EH0": {
+    "example_word": "taken",
+    "audio_file": "data\\reference_audio\\phonemes\\EH0.wav",
+    "sr": 16000,
+    "base_duration_s": 1.164,
+    "min_duration_s": 0.698,
+    "max_duration_s": 1.63,
+    "embedding_index": 11
+  },
+  "EH1": {
+    "example_word": "bed",
+    "audio_file": "data\\reference_audio\\phonemes\\EH1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.094,
+    "min_duration_s": 0.656,
+    "max_duration_s": 1.532,
+    "embedding_index": 12
+  },
+  "ER0": {
+    "example_word": "father",
+    "audio_file": "data\\reference_audio\\phonemes\\ER0.wav",
+    "sr": 16000,
+    "base_duration_s": 1.194,
+    "min_duration_s": 0.716,
+    "max_duration_s": 1.672,
+    "embedding_index": 13
+  },
+  "ER1": {
+    "example_word": "bird",
+    "audio_file": "data\\reference_audio\\phonemes\\ER1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.129,
+    "min_duration_s": 0.677,
+    "max_duration_s": 1.581,
+    "embedding_index": 14
+  },
+  "F": {
+    "example_word": "fan",
+    "audio_file": "data\\reference_audio\\phonemes\\F.wav",
+    "sr": 16000,
+    "base_duration_s": 1.209,
+    "min_duration_s": 0.725,
+    "max_duration_s": 1.693,
+    "embedding_index": 15
+  },
+  "G": {
+    "example_word": "go",
+    "audio_file": "data\\reference_audio\\phonemes\\G.wav",
+    "sr": 16000,
+    "base_duration_s": 0.999,
+    "min_duration_s": 0.599,
+    "max_duration_s": 1.399,
+    "embedding_index": 16
+  },
+  "HH": {
+    "example_word": "hat",
+    "audio_file": "data\\reference_audio\\phonemes\\HH.wav",
+    "sr": 16000,
+    "base_duration_s": 1.069,
+    "min_duration_s": 0.641,
+    "max_duration_s": 1.497,
+    "embedding_index": 17
+  },
+  "IH0": {
+    "example_word": "cousin",
+    "audio_file": "data\\reference_audio\\phonemes\\IH0.wav",
+    "sr": 16000,
+    "base_duration_s": 1.174,
+    "min_duration_s": 0.704,
+    "max_duration_s": 1.644,
+    "embedding_index": 18
+  },
+  "IH1": {
+    "example_word": "sit",
+    "audio_file": "data\\reference_audio\\phonemes\\IH1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.099,
+    "min_duration_s": 0.659,
+    "max_duration_s": 1.539,
+    "embedding_index": 19
+  },
+  "IY0": {
+    "example_word": "happy",
+    "audio_file": "data\\reference_audio\\phonemes\\IY0.wav",
+    "sr": 16000,
+    "base_duration_s": 1.149,
+    "min_duration_s": 0.689,
+    "max_duration_s": 1.609,
+    "embedding_index": 20
+  },
+  "IY1": {
+    "example_word": "she",
+    "audio_file": "data\\reference_audio\\phonemes\\IY1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.039,
+    "min_duration_s": 0.623,
+    "max_duration_s": 1.455,
+    "embedding_index": 21
+  },
+  "JH": {
+    "example_word": "judge",
+    "audio_file": "data\\reference_audio\\phonemes\\JH.wav",
+    "sr": 16000,
+    "base_duration_s": 1.154,
+    "min_duration_s": 0.692,
+    "max_duration_s": 1.616,
+    "embedding_index": 22
+  },
+  "K": {
+    "example_word": "cat",
+    "audio_file": "data\\reference_audio\\phonemes\\K.wav",
+    "sr": 16000,
+    "base_duration_s": 1.079,
+    "min_duration_s": 0.647,
+    "max_duration_s": 1.511,
+    "embedding_index": 23
+  },
+  "L": {
+    "example_word": "let",
+    "audio_file": "data\\reference_audio\\phonemes\\L.wav",
+    "sr": 16000,
+    "base_duration_s": 1.054,
+    "min_duration_s": 0.632,
+    "max_duration_s": 1.476,
+    "embedding_index": 24
+  },
+  "M": {
+    "example_word": "man",
+    "audio_file": "data\\reference_audio\\phonemes\\M.wav",
+    "sr": 16000,
+    "base_duration_s": 1.154,
+    "min_duration_s": 0.692,
+    "max_duration_s": 1.616,
+    "embedding_index": 25
+  },
+  "N": {
+    "example_word": "no",
+    "audio_file": "data\\reference_audio\\phonemes\\N.wav",
+    "sr": 16000,
+    "base_duration_s": 0.999,
+    "min_duration_s": 0.599,
+    "max_duration_s": 1.399,
+    "embedding_index": 26
+  },
+  "NG": {
+    "example_word": "sing",
+    "audio_file": "data\\reference_audio\\phonemes\\NG.wav",
+    "sr": 16000,
+    "base_duration_s": 1.174,
+    "min_duration_s": 0.704,
+    "max_duration_s": 1.644,
+    "embedding_index": 27
+  },
+  "OY1": {
+    "example_word": "boy",
+    "audio_file": "data\\reference_audio\\phonemes\\OY1.wav",
+    "sr": 16000,
+    "base_duration_s": 0.999,
+    "min_duration_s": 0.599,
+    "max_duration_s": 1.399,
+    "embedding_index": 28
+  },
+  "P": {
+    "example_word": "pen",
+    "audio_file": "data\\reference_audio\\phonemes\\P.wav",
+    "sr": 16000,
+    "base_duration_s": 1.119,
+    "min_duration_s": 0.671,
+    "max_duration_s": 1.567,
+    "embedding_index": 29
+  },
+  "R": {
+    "example_word": "red",
+    "audio_file": "data\\reference_audio\\phonemes\\R.wav",
+    "sr": 16000,
+    "base_duration_s": 1.069,
+    "min_duration_s": 0.641,
+    "max_duration_s": 1.497,
+    "embedding_index": 30
+  },
+  "S": {
+    "example_word": "sit",
+    "audio_file": "data\\reference_audio\\phonemes\\S.wav",
+    "sr": 16000,
+    "base_duration_s": 1.099,
+    "min_duration_s": 0.659,
+    "max_duration_s": 1.539,
+    "embedding_index": 31
+  },
+  "SH": {
+    "example_word": "she",
+    "audio_file": "data\\reference_audio\\phonemes\\SH.wav",
+    "sr": 16000,
+    "base_duration_s": 1.039,
+    "min_duration_s": 0.623,
+    "max_duration_s": 1.455,
+    "embedding_index": 32
+  },
+  "T": {
+    "example_word": "top",
+    "audio_file": "data\\reference_audio\\phonemes\\T.wav",
+    "sr": 16000,
+    "base_duration_s": 1.129,
+    "min_duration_s": 0.677,
+    "max_duration_s": 1.581,
+    "embedding_index": 33
+  },
+  "TH": {
+    "example_word": "think",
+    "audio_file": "data\\reference_audio\\phonemes\\TH.wav",
+    "sr": 16000,
+    "base_duration_s": 1.219,
+    "min_duration_s": 0.731,
+    "max_duration_s": 1.707,
+    "embedding_index": 34
+  },
+  "UH1": {
+    "example_word": "put",
+    "audio_file": "data\\reference_audio\\phonemes\\UH1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.06,
+    "min_duration_s": 0.636,
+    "max_duration_s": 1.484,
+    "embedding_index": 35
+  },
+  "UW1": {
+    "example_word": "you",
+    "audio_file": "data\\reference_audio\\phonemes\\UW1.wav",
+    "sr": 16000,
+    "base_duration_s": 1.049,
+    "min_duration_s": 0.629,
+    "max_duration_s": 1.469,
+    "embedding_index": 36
+  },
+  "V": {
+    "example_word": "van",
+    "audio_file": "data\\reference_audio\\phonemes\\V.wav",
+    "sr": 16000,
+    "base_duration_s": 1.159,
+    "min_duration_s": 0.695,
+    "max_duration_s": 1.623,
+    "embedding_index": 37
+  },
+  "W": {
+    "example_word": "we",
+    "audio_file": "data\\reference_audio\\phonemes\\W.wav",
+    "sr": 16000,
+    "base_duration_s": 1.014,
+    "min_duration_s": 0.608,
+    "max_duration_s": 1.42,
+    "embedding_index": 38
+  },
+  "Y": {
+    "example_word": "yes",
+    "audio_file": "data\\reference_audio\\phonemes\\Y.wav",
+    "sr": 16000,
+    "base_duration_s": 1.129,
+    "min_duration_s": 0.677,
+    "max_duration_s": 1.581,
+    "embedding_index": 39
+  },
+  "Z": {
+    "example_word": "zoo",
+    "audio_file": "data\\reference_audio\\phonemes\\Z.wav",
+    "sr": 16000,
+    "base_duration_s": 1.004,
+    "min_duration_s": 0.602,
+    "max_duration_s": 1.406,
+    "embedding_index": 40
+  },
+  "ZH": {
+    "example_word": "measure",
+    "audio_file": "data\\reference_audio\\phonemes\\ZH.wav",
+    "sr": 16000,
+    "base_duration_s": 1.144,
+    "min_duration_s": 0.686,
+    "max_duration_s": 1.602,
+    "embedding_index": 41
+  }
+}

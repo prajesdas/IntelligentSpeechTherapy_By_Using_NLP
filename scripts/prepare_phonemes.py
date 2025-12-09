@@ -1,47 +1,66 @@
-import json
+# scripts/prepare_phonemes.py
+
 from pathlib import Path
-#import nltk
-#nltk.download('averaged_perceptron_tagger_eng', quiet=True)
+import json
+
+import nltk
 from g2p_en import G2p
 
-# paths
-ROOT = Path(__file__).resolve().parent.parent   # project root
-SENTENCE_FILE = ROOT / "data" / "sentences.txt"
-OUTPUT_FILE = ROOT / "metadata" / "sentence_phonemes.json"
+# Make sure NLTK resources are available
+nltk.download("averaged_perceptron_tagger", quiet=True)
+nltk.download("averaged_perceptron_tagger_eng", quiet=True)
+nltk.download("cmudict", quiet=True)
 
-def load_sentences(path):
-    with open(path, "r", encoding="utf-8") as f:
-        lines = [line.strip() for line in f.readlines()]
-    # remove empty lines
-    return [s for s in lines if s]
+ROOT = Path(__file__).resolve().parent.parent
+OUT_FILE = ROOT / "metadata" / "sentence_phonemes.json"
+
+# You can change / extend these sentences later
+SENTENCES = [
+    "The red rabbit ran around the river.",
+    "She sells thick shells on the shore.",
+    "They think these things are easy.",
+    "Please bring the blue glass bottle.",
+    "The cat caught a tiny mouse.",
+    "I would like a cup of coffee today.",
+    "The boy bought a brown ball.",
+    "We usually watch television at night.",
+    "My father works in a farm far away.",
+    "This zebra lives in a busy zoo.",
+    "The queen quickly questioned the guard.",
+    "He enjoys reading English every evening.",
+]
+
+g2p = G2p()
+
 
 def extract_phonemes(sentences):
-    g2p = G2p()
-    result = []
-
+    data = []
     for i, sent in enumerate(sentences, start=1):
         raw = g2p(sent)
-        # g2p-en returns spaces as ' ' → filter them out
-        phonemes = [p for p in raw if p.strip()]
+        # g2p_en returns mix of chars + phonemes; keep uppercase-like tokens as phonemes
+        phonemes = [tok for tok in raw if tok.isalpha() and tok.upper() == tok]
+        data.append(
+            {
+                "sentence_id": i,
+                "text": sent,
+                "phonemes": phonemes,
+            }
+        )
+    return data
 
-        result.append({
-            "sentence_id": i,
-            "text": sent,
-            "phonemes": phonemes
-        })
-    return result
 
 def main():
-    sentences = load_sentences(SENTENCE_FILE)
-    print(f"Loaded {len(sentences)} sentences")
+    ROOT.mkdir(parents=True, exist_ok=True)
+    OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-    data = extract_phonemes(sentences)
+    print(f"Loaded {len(SENTENCES)} sentences")
+    data = extract_phonemes(SENTENCES)
 
-    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
 
-    print(f"Saved phoneme data to {OUTPUT_FILE}")
+    print("Saved phoneme data to", OUT_FILE)
+
 
 if __name__ == "__main__":
     main()

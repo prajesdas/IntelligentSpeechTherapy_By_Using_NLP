@@ -1,31 +1,36 @@
-# -------------------------------
-# Core NLP + Text Processing
-# -------------------------------
+# ---------- Core / NLP ----------
 g2p-en==2.1.0
-nltk==3.8.1
-numpy==1.26.4
+nltk==3.9.2
+numpy==2.0.2
+scipy==1.12.0
 
-# -------------------------------
-# Speech + Audio Processing
-# -------------------------------
+# ---------- Audio / TTS ----------
 pyttsx3==2.90
-torch==2.1.2
-torchaudio==2.1.2
-soundfile==0.12.1
+soundfile==0.13.1
 librosa==0.10.1
+pydub==0.25.1
 
-# -------------------------------
-# HuggingFace Transformers (for wav2vec2)
-# -------------------------------
-transformers==4.35.0
-datasets==2.14.6
+# ---------- Torch (Windows CPU-safe) ----------
+# Install these via the PyTorch cpu index (see steps). Pinned to versions known to work on Win + stable_whisper
 
-# -------------------------------
-# Optional Tools (used for forced alignment in future tasks)
-# -------------------------------
-whisperx==3.1.1
 
-# -------------------------------
-# Backend Framework (later integration)
-# -------------------------------
-Flask==3.0.0
+# ---------- HuggingFace / Embeddings ----------
+transformers==4.37.0
+huggingface_hub==0.22.0
+tokenizers==0.13.3
+
+# ---------- Forced-alignment / STT ----------
+stable-ts==2.19.1
+stable-whisper==0.9.0   # (if you used stable_whisper; adjust if your package name differs)
+whisperx==3.7.4         # optional — keep but may need version alignment with torch
+
+# ---------- Faster alternatives / optional ----------
+faster-whisper==1.2.1
+ctranslate2==4.6.2
+onnxruntime==1.23.2
+
+# ---------- Utilities ----------
+tqdm==4.67.1
+requests==2.31.0
+pyyaml==6.0.1
+coloredlogs==15.0.1

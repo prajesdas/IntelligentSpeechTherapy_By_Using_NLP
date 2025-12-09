@@ -1,0 +1,158 @@
+[
+  {
+    "index": 0,
+    "word": "Hello",
+    "start": 0.288,
+    "end": 0.44,
+    "phonemes": [
+      "HH",
+      "AH0",
+      "L",
+      "OW1"
+    ]
+  },
+  {
+    "index": 1,
+    "word": "everyone,",
+    "start": 0.44,
+    "end": 0.96,
+    "phonemes": [
+      "EH1",
+      "V",
+      "R",
+      "IY0",
+      "W",
+      "AH2",
+      "N",
+      ","
+    ]
+  },
+  {
+    "index": 2,
+    "word": "my",
+    "start": 1.3,
+    "end": 1.38,
+    "phonemes": [
+      "M",
+      "AY1"
+    ]
+  },
+  {
+    "index": 3,
+    "word": "name",
+    "start": 1.38,
+    "end": 1.54,
+    "phonemes": [
+      "N",
+      "EY1",
+      "M"
+    ]
+  },
+  {
+    "index": 4,
+    "word": "is",
+    "start": 1.54,
+    "end": 1.74,
+    "phonemes": [
+      "IH1",
+      "Z"
+    ]
+  },
+  {
+    "index": 5,
+    "word": "Harshit.",
+    "start": 1.74,
+    "end": 2.14,
+    "phonemes": [
+      "HH",
+      "AA1",
+      "R",
+      "SH",
+      "AH0",
+      "T",
+      "."
+    ]
+  },
+  {
+    "index": 6,
+    "word": "I",
+    "start": 2.22,
+    "end": 2.34,
+    "phonemes": [
+      "AY1"
+    ]
+  },
+  {
+    "index": 7,
+    "word": "am",
+    "start": 2.34,
+    "end": 2.48,
+    "phonemes": [
+      "AE1",
+      "M"
+    ]
+  },
+  {
+    "index": 8,
+    "word": "currently",
+    "start": 2.48,
+    "end": 2.84,
+    "phonemes": [
+      "K",
+      "ER1",
+      "AH0",
+      "N",
+      "T",
+      "L",
+      "IY0"
+    ]
+  },
+  {
+    "index": 9,
+    "word": "studying",
+    "start": 2.84,
+    "end": 3.12,
+    "phonemes": [
+      "S",
+      "T",
+      "AH1",
+      "D",
+      "IY0",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "index": 10,
+    "word": "in",
+    "start": 3.12,
+    "end": 3.44,
+    "phonemes": [
+      "IH0",
+      "N"
+    ]
+  },
+  {
+    "index": 11,
+    "word": "third",
+    "start": 3.44,
+    "end": 3.62,
+    "phonemes": [
+      "TH",
+      "ER1",
+      "D"
+    ]
+  },
+  {
+    "index": 12,
+    "word": "year.",
+    "start": 3.62,
+    "end": 3.82,
+    "phonemes": [
+      "Y",
+      "IH1",
+      "R",
+      "."
+    ]
+  }
+]

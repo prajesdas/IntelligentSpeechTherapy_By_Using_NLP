@@ -1,19 +1,32 @@
+# scripts/verify_phoneme_audio.py
+
 from pathlib import Path
-import os
 import soundfile as sf
+import os
 
 ROOT = Path(__file__).resolve().parent.parent
-AUDIO_DIR = ROOT / "data" / "reference_audio" / "phonemes"
+PHONEME_DIR = ROOT / "data" / "reference_audio" / "phonemes"
 
-def verify():
-    files = sorted([f for f in os.listdir(AUDIO_DIR) if f.endswith(".wav")])
-    print("Found", len(files), "phoneme files.")
-    for f in files:
-        p = AUDIO_DIR / f
-        data, sr = sf.read(p, dtype='float32')
-        dur = data.shape[0] / sr
-        channels = 1 if data.ndim == 1 else data.shape[1]
-        print(f"{f}: sr={sr}, duration={dur:.3f}s, channels={channels}")
+
+def main():
+    if not PHONEME_DIR.is_dir():
+        print("Phoneme dir not found:", PHONEME_DIR)
+        return
+
+    files = sorted(f for f in os.listdir(PHONEME_DIR) if f.lower().endswith(".wav"))
+    print(f"Found {len(files)} phoneme files.")
+    for name in files:
+        path = PHONEME_DIR / name
+        data, sr = sf.read(str(path), dtype="float32")
+        if data.ndim > 1:
+            channels = data.shape[1]
+            length = data.shape[0]
+        else:
+            channels = 1
+            length = data.shape[0]
+        dur = length / sr
+        print(f"{name}: sr={sr}, duration={dur:.3f}s, channels={channels}")
+
 
 if __name__ == "__main__":
-    verify()
+    main()
