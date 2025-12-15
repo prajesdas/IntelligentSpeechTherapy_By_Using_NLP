@@ -1,254 +1,416 @@
 {
+  "AA0": {
+    "file": "data\\reference_audio\\phonemes\\AA0.wav",
+    "example_word": "odd",
+    "duration_s": 0.544,
+    "sr": 16000
+  },
   "AA1": {
     "file": "data\\reference_audio\\phonemes\\AA1.wav",
-    "example_word": "bought",
-    "duration_s": 1.079,
+    "example_word": "father",
+    "duration_s": 0.512,
+    "sr": 16000
+  },
+  "AA2": {
+    "file": "data\\reference_audio\\phonemes\\AA2.wav",
+    "example_word": "odd",
+    "duration_s": 0.544,
+    "sr": 16000
+  },
+  "AE0": {
+    "file": "data\\reference_audio\\phonemes\\AE0.wav",
+    "example_word": "at",
+    "duration_s": 0.48,
     "sr": 16000
   },
   "AE1": {
     "file": "data\\reference_audio\\phonemes\\AE1.wav",
     "example_word": "cat",
-    "duration_s": 1.079,
+    "duration_s": 0.544,
+    "sr": 16000
+  },
+  "AE2": {
+    "file": "data\\reference_audio\\phonemes\\AE2.wav",
+    "example_word": "at",
+    "duration_s": 0.48,
     "sr": 16000
   },
   "AH0": {
     "file": "data\\reference_audio\\phonemes\\AH0.wav",
     "example_word": "about",
-    "duration_s": 1.139,
+    "duration_s": 0.512,
     "sr": 16000
   },
   "AH1": {
     "file": "data\\reference_audio\\phonemes\\AH1.wav",
-    "example_word": "comma",
-    "duration_s": 1.129,
+    "example_word": "hut",
+    "duration_s": 0.448,
+    "sr": 16000
+  },
+  "AH2": {
+    "file": "data\\reference_audio\\phonemes\\AH2.wav",
+    "example_word": "about",
+    "duration_s": 0.512,
+    "sr": 16000
+  },
+  "AO0": {
+    "file": "data\\reference_audio\\phonemes\\AO0.wav",
+    "example_word": "off",
+    "duration_s": 0.384,
     "sr": 16000
   },
   "AO1": {
     "file": "data\\reference_audio\\phonemes\\AO1.wav",
-    "example_word": "saw",
-    "duration_s": 1.039,
+    "example_word": "dog",
+    "duration_s": 0.544,
+    "sr": 16000
+  },
+  "AO2": {
+    "file": "data\\reference_audio\\phonemes\\AO2.wav",
+    "example_word": "off",
+    "duration_s": 0.384,
+    "sr": 16000
+  },
+  "AW0": {
+    "file": "data\\reference_audio\\phonemes\\AW0.wav",
+    "example_word": "out",
+    "duration_s": 0.544,
     "sr": 16000
   },
   "AW1": {
     "file": "data\\reference_audio\\phonemes\\AW1.wav",
-    "example_word": "house",
-    "duration_s": 1.174,
+    "example_word": "cow",
+    "duration_s": 0.48,
+    "sr": 16000
+  },
+  "AW2": {
+    "file": "data\\reference_audio\\phonemes\\AW2.wav",
+    "example_word": "out",
+    "duration_s": 0.544,
+    "sr": 16000
+  },
+  "AY0": {
+    "file": "data\\reference_audio\\phonemes\\AY0.wav",
+    "example_word": "hide",
+    "duration_s": 0.544,
     "sr": 16000
   },
   "AY1": {
     "file": "data\\reference_audio\\phonemes\\AY1.wav",
-    "example_word": "like",
-    "duration_s": 1.114,
+    "example_word": "my",
+    "duration_s": 0.448,
     "sr": 16000
   },
-  "B": {
-    "file": "data\\reference_audio\\phonemes\\B.wav",
-    "example_word": "bat",
-    "duration_s": 1.089,
-    "sr": 16000
-  },
-  "CH": {
-    "file": "data\\reference_audio\\phonemes\\CH.wav",
-    "example_word": "church",
-    "duration_s": 1.224,
-    "sr": 16000
-  },
-  "D": {
-    "file": "data\\reference_audio\\phonemes\\D.wav",
-    "example_word": "dog",
-    "duration_s": 1.159,
-    "sr": 16000
-  },
-  "DH": {
-    "file": "data\\reference_audio\\phonemes\\DH.wav",
-    "example_word": "the",
-    "duration_s": 0.969,
+  "AY2": {
+    "file": "data\\reference_audio\\phonemes\\AY2.wav",
+    "example_word": "hide",
+    "duration_s": 0.544,
     "sr": 16000
   },
   "EH0": {
     "file": "data\\reference_audio\\phonemes\\EH0.wav",
-    "example_word": "taken",
-    "duration_s": 1.164,
+    "example_word": "ed",
+    "duration_s": 0.512,
     "sr": 16000
   },
   "EH1": {
     "file": "data\\reference_audio\\phonemes\\EH1.wav",
-    "example_word": "bed",
-    "duration_s": 1.094,
+    "example_word": "red",
+    "duration_s": 0.576,
+    "sr": 16000
+  },
+  "EH2": {
+    "file": "data\\reference_audio\\phonemes\\EH2.wav",
+    "example_word": "ed",
+    "duration_s": 0.512,
     "sr": 16000
   },
   "ER0": {
     "file": "data\\reference_audio\\phonemes\\ER0.wav",
-    "example_word": "father",
-    "duration_s": 1.194,
+    "example_word": "letter",
+    "duration_s": 0.608,
     "sr": 16000
   },
   "ER1": {
     "file": "data\\reference_audio\\phonemes\\ER1.wav",
     "example_word": "bird",
-    "duration_s": 1.129,
+    "duration_s": 0.576,
     "sr": 16000
   },
-  "F": {
-    "file": "data\\reference_audio\\phonemes\\F.wav",
-    "example_word": "fan",
-    "duration_s": 1.209,
+  "ER2": {
+    "file": "data\\reference_audio\\phonemes\\ER2.wav",
+    "example_word": "letter",
+    "duration_s": 0.608,
     "sr": 16000
   },
-  "G": {
-    "file": "data\\reference_audio\\phonemes\\G.wav",
-    "example_word": "go",
-    "duration_s": 0.999,
+  "EY0": {
+    "file": "data\\reference_audio\\phonemes\\EY0.wav",
+    "example_word": "okay",
+    "duration_s": 0.64,
     "sr": 16000
   },
-  "HH": {
-    "file": "data\\reference_audio\\phonemes\\HH.wav",
-    "example_word": "hat",
-    "duration_s": 1.069,
+  "EY1": {
+    "file": "data\\reference_audio\\phonemes\\EY1.wav",
+    "example_word": "say",
+    "duration_s": 0.544,
+    "sr": 16000
+  },
+  "EY2": {
+    "file": "data\\reference_audio\\phonemes\\EY2.wav",
+    "example_word": "okay",
+    "duration_s": 0.64,
     "sr": 16000
   },
   "IH0": {
     "file": "data\\reference_audio\\phonemes\\IH0.wav",
-    "example_word": "cousin",
-    "duration_s": 1.174,
+    "example_word": "it",
+    "duration_s": 0.448,
     "sr": 16000
   },
   "IH1": {
     "file": "data\\reference_audio\\phonemes\\IH1.wav",
     "example_word": "sit",
-    "duration_s": 1.099,
+    "duration_s": 0.576,
+    "sr": 16000
+  },
+  "IH2": {
+    "file": "data\\reference_audio\\phonemes\\IH2.wav",
+    "example_word": "it",
+    "duration_s": 0.448,
     "sr": 16000
   },
   "IY0": {
     "file": "data\\reference_audio\\phonemes\\IY0.wav",
     "example_word": "happy",
-    "duration_s": 1.149,
+    "duration_s": 0.608,
     "sr": 16000
   },
   "IY1": {
     "file": "data\\reference_audio\\phonemes\\IY1.wav",
-    "example_word": "she",
-    "duration_s": 1.039,
+    "example_word": "see",
+    "duration_s": 0.544,
     "sr": 16000
   },
-  "JH": {
-    "file": "data\\reference_audio\\phonemes\\JH.wav",
-    "example_word": "judge",
-    "duration_s": 1.154,
+  "IY2": {
+    "file": "data\\reference_audio\\phonemes\\IY2.wav",
+    "example_word": "happy",
+    "duration_s": 0.608,
     "sr": 16000
   },
-  "K": {
-    "file": "data\\reference_audio\\phonemes\\K.wav",
-    "example_word": "cat",
-    "duration_s": 1.079,
+  "OW0": {
+    "file": "data\\reference_audio\\phonemes\\OW0.wav",
+    "example_word": "go",
+    "duration_s": 0.544,
     "sr": 16000
   },
-  "L": {
-    "file": "data\\reference_audio\\phonemes\\L.wav",
-    "example_word": "let",
-    "duration_s": 1.054,
+  "OW1": {
+    "file": "data\\reference_audio\\phonemes\\OW1.wav",
+    "example_word": "go",
+    "duration_s": 0.544,
     "sr": 16000
   },
-  "M": {
-    "file": "data\\reference_audio\\phonemes\\M.wav",
-    "example_word": "man",
-    "duration_s": 1.154,
+  "OW2": {
+    "file": "data\\reference_audio\\phonemes\\OW2.wav",
+    "example_word": "go",
+    "duration_s": 0.544,
     "sr": 16000
   },
-  "N": {
-    "file": "data\\reference_audio\\phonemes\\N.wav",
-    "example_word": "no",
-    "duration_s": 0.999,
-    "sr": 16000
-  },
-  "NG": {
-    "file": "data\\reference_audio\\phonemes\\NG.wav",
-    "example_word": "sing",
-    "duration_s": 1.174,
+  "OY0": {
+    "file": "data\\reference_audio\\phonemes\\OY0.wav",
+    "example_word": "toy",
+    "duration_s": 0.512,
     "sr": 16000
   },
   "OY1": {
     "file": "data\\reference_audio\\phonemes\\OY1.wav",
     "example_word": "boy",
-    "duration_s": 0.999,
+    "duration_s": 0.608,
+    "sr": 16000
+  },
+  "OY2": {
+    "file": "data\\reference_audio\\phonemes\\OY2.wav",
+    "example_word": "toy",
+    "duration_s": 0.512,
+    "sr": 16000
+  },
+  "UH0": {
+    "file": "data\\reference_audio\\phonemes\\UH0.wav",
+    "example_word": "book",
+    "duration_s": 0.352,
+    "sr": 16000
+  },
+  "UH1": {
+    "file": "data\\reference_audio\\phonemes\\UH1.wav",
+    "example_word": "book",
+    "duration_s": 0.352,
+    "sr": 16000
+  },
+  "UH2": {
+    "file": "data\\reference_audio\\phonemes\\UH2.wav",
+    "example_word": "book",
+    "duration_s": 0.352,
+    "sr": 16000
+  },
+  "UW0": {
+    "file": "data\\reference_audio\\phonemes\\UW0.wav",
+    "example_word": "you",
+    "duration_s": 0.512,
+    "sr": 16000
+  },
+  "UW1": {
+    "file": "data\\reference_audio\\phonemes\\UW1.wav",
+    "example_word": "too",
+    "duration_s": 0.48,
+    "sr": 16000
+  },
+  "UW2": {
+    "file": "data\\reference_audio\\phonemes\\UW2.wav",
+    "example_word": "you",
+    "duration_s": 0.512,
+    "sr": 16000
+  },
+  "B": {
+    "file": "data\\reference_audio\\phonemes\\B.wav",
+    "example_word": "bad",
+    "duration_s": 0.608,
+    "sr": 16000
+  },
+  "CH": {
+    "file": "data\\reference_audio\\phonemes\\CH.wav",
+    "example_word": "cheese",
+    "duration_s": 0.672,
+    "sr": 16000
+  },
+  "D": {
+    "file": "data\\reference_audio\\phonemes\\D.wav",
+    "example_word": "dog",
+    "duration_s": 0.544,
+    "sr": 16000
+  },
+  "DH": {
+    "file": "data\\reference_audio\\phonemes\\DH.wav",
+    "example_word": "the",
+    "duration_s": 0.416,
+    "sr": 16000
+  },
+  "F": {
+    "file": "data\\reference_audio\\phonemes\\F.wav",
+    "example_word": "fan",
+    "duration_s": 0.608,
+    "sr": 16000
+  },
+  "G": {
+    "file": "data\\reference_audio\\phonemes\\G.wav",
+    "example_word": "go",
+    "duration_s": 0.544,
+    "sr": 16000
+  },
+  "HH": {
+    "file": "data\\reference_audio\\phonemes\\HH.wav",
+    "example_word": "hat",
+    "duration_s": 0.512,
+    "sr": 16000
+  },
+  "JH": {
+    "file": "data\\reference_audio\\phonemes\\JH.wav",
+    "example_word": "judge",
+    "duration_s": 0.704,
+    "sr": 16000
+  },
+  "K": {
+    "file": "data\\reference_audio\\phonemes\\K.wav",
+    "example_word": "cat",
+    "duration_s": 0.544,
+    "sr": 16000
+  },
+  "L": {
+    "file": "data\\reference_audio\\phonemes\\L.wav",
+    "example_word": "live",
+    "duration_s": 0.608,
+    "sr": 16000
+  },
+  "M": {
+    "file": "data\\reference_audio\\phonemes\\M.wav",
+    "example_word": "man",
+    "duration_s": 0.608,
+    "sr": 16000
+  },
+  "N": {
+    "file": "data\\reference_audio\\phonemes\\N.wav",
+    "example_word": "no",
+    "duration_s": 0.512,
+    "sr": 16000
+  },
+  "NG": {
+    "file": "data\\reference_audio\\phonemes\\NG.wav",
+    "example_word": "sing",
+    "duration_s": 0.608,
     "sr": 16000
   },
   "P": {
     "file": "data\\reference_audio\\phonemes\\P.wav",
     "example_word": "pen",
-    "duration_s": 1.119,
+    "duration_s": 0.48,
     "sr": 16000
   },
   "R": {
     "file": "data\\reference_audio\\phonemes\\R.wav",
     "example_word": "red",
-    "duration_s": 1.069,
+    "duration_s": 0.576,
     "sr": 16000
   },
   "S": {
     "file": "data\\reference_audio\\phonemes\\S.wav",
     "example_word": "sit",
-    "duration_s": 1.099,
+    "duration_s": 0.576,
     "sr": 16000
   },
   "SH": {
     "file": "data\\reference_audio\\phonemes\\SH.wav",
     "example_word": "she",
-    "duration_s": 1.039,
+    "duration_s": 0.608,
     "sr": 16000
   },
   "T": {
     "file": "data\\reference_audio\\phonemes\\T.wav",
     "example_word": "top",
-    "duration_s": 1.129,
+    "duration_s": 0.352,
     "sr": 16000
   },
   "TH": {
     "file": "data\\reference_audio\\phonemes\\TH.wav",
     "example_word": "think",
-    "duration_s": 1.219,
-    "sr": 16000
-  },
-  "UH1": {
-    "file": "data\\reference_audio\\phonemes\\UH1.wav",
-    "example_word": "put",
-    "duration_s": 1.06,
-    "sr": 16000
-  },
-  "UW1": {
-    "file": "data\\reference_audio\\phonemes\\UW1.wav",
-    "example_word": "you",
-    "duration_s": 1.049,
+    "duration_s": 0.352,
     "sr": 16000
   },
   "V": {
     "file": "data\\reference_audio\\phonemes\\V.wav",
     "example_word": "van",
-    "duration_s": 1.159,
+    "duration_s": 0.672,
     "sr": 16000
   },
   "W": {
     "file": "data\\reference_audio\\phonemes\\W.wav",
     "example_word": "we",
-    "duration_s": 1.014,
+    "duration_s": 0.448,
     "sr": 16000
   },
   "Y": {
     "file": "data\\reference_audio\\phonemes\\Y.wav",
     "example_word": "yes",
-    "duration_s": 1.129,
+    "duration_s": 0.704,
     "sr": 16000
   },
   "Z": {
     "file": "data\\reference_audio\\phonemes\\Z.wav",
     "example_word": "zoo",
-    "duration_s": 1.004,
+    "duration_s": 0.576,
     "sr": 16000
   },
   "ZH": {
     "file": "data\\reference_audio\\phonemes\\ZH.wav",
     "example_word": "measure",
-    "duration_s": 1.144,
+    "duration_s": 0.64,
     "sr": 16000
   }
 }

@@ -1,66 +1,66 @@
 [
   {
-    "word": "Hello",
+    "word": " Hello",
     "start": 0.288,
     "end": 0.44
   },
   {
-    "word": "everyone,",
+    "word": " everyone,",
     "start": 0.44,
     "end": 0.96
   },
   {
-    "word": "my",
+    "word": " my",
     "start": 1.3,
     "end": 1.38
   },
   {
-    "word": "name",
+    "word": " name",
     "start": 1.38,
     "end": 1.54
   },
   {
-    "word": "is",
+    "word": " is",
     "start": 1.54,
     "end": 1.74
   },
   {
-    "word": "Harshit.",
+    "word": " Harshit.",
     "start": 1.74,
     "end": 2.14
   },
   {
-    "word": "I",
+    "word": " I",
     "start": 2.22,
     "end": 2.34
   },
   {
-    "word": "am",
+    "word": " am",
     "start": 2.34,
     "end": 2.48
   },
   {
-    "word": "currently",
+    "word": " currently",
     "start": 2.48,
     "end": 2.84
   },
   {
-    "word": "studying",
+    "word": " studying",
     "start": 2.84,
     "end": 3.12
   },
   {
-    "word": "in",
+    "word": " in",
     "start": 3.12,
     "end": 3.44
   },
   {
-    "word": "third",
+    "word": " third",
     "start": 3.44,
     "end": 3.62
   },
   {
-    "word": "year.",
+    "word": " year.",
     "start": 3.62,
     "end": 3.82
   }

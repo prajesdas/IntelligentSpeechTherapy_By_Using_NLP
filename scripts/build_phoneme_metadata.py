@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import json
 from pathlib import Path
 
@@ -55,7 +55,7 @@ def main():
 
 if _name_ == "_main_":
     main()
-=======
+
 import json
 from pathlib import Path
 
@@ -112,4 +112,4 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 654c855 (day-6)
+

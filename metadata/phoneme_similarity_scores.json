@@ -1,262 +1,280 @@
 {
   "per_slice": [
     {
-      "file": "data\\user_audio_slices\\phonemes\\0000_hello_HH.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0000_hello_HH.wav",
       "phoneme": "HH",
-      "similarity": -0.0412
+      "similarity": 0.4196
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0001_hello_AH0.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0001_hello_AH0.wav",
       "phoneme": "AH0",
-      "similarity": -0.0429
+      "similarity": 0.1183
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0002_hello_L.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0002_hello_L.wav",
       "phoneme": "L",
-      "similarity": -0.0804
+      "similarity": 0.5906
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0004_everyone_EH1.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0003_hello_OW1.wav",
+      "phoneme": "OW1",
+      "similarity": 0.2749
+    },
+    {
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0004_everyone_EH1.wav",
       "phoneme": "EH1",
-      "similarity": -0.0266
+      "similarity": 0.1213
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0005_everyone_V.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0005_everyone_V.wav",
       "phoneme": "V",
-      "similarity": -0.1284
+      "similarity": 0.1309
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0006_everyone_R.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0006_everyone_R.wav",
       "phoneme": "R",
-      "similarity": -0.0036
+      "similarity": 0.4066
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0007_everyone_IY0.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0007_everyone_IY0.wav",
       "phoneme": "IY0",
-      "similarity": -0.0388
+      "similarity": 0.4842
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0008_everyone_W.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0008_everyone_W.wav",
       "phoneme": "W",
-      "similarity": 0.0118
+      "similarity": 0.3388
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0010_everyone_N.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0009_everyone_AH2.wav",
+      "phoneme": "AH2",
+      "similarity": 0.6339
+    },
+    {
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0010_everyone_N.wav",
       "phoneme": "N",
-      "similarity": -0.0419
+      "similarity": 0.5562
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0012_my_M.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0011_my_M.wav",
       "phoneme": "M",
-      "similarity": -0.0273
+      "similarity": 0.1686
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0013_my_AY1.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0012_my_AY1.wav",
       "phoneme": "AY1",
-      "similarity": -0.0369
+      "similarity": 0.1688
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0014_name_N.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0013_name_N.wav",
       "phoneme": "N",
-      "similarity": -0.0727
+      "similarity": 0.2159
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0016_name_M.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0014_name_EY1.wav",
+      "phoneme": "EY1",
+      "similarity": 0.2092
+    },
+    {
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0015_name_M.wav",
       "phoneme": "M",
-      "similarity": -0.0613
+      "similarity": 0.1407
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0017_is_IH1.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0016_is_IH1.wav",
       "phoneme": "IH1",
-      "similarity": 0.007
+      "similarity": 0.1641
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0018_is_Z.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0017_is_Z.wav",
       "phoneme": "Z",
-      "similarity": 0.0036
+      "similarity": 0.347
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0019_harshit_HH.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0018_harshit_HH.wav",
       "phoneme": "HH",
-      "similarity": -0.0525
+      "similarity": 0.2593
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0020_harshit_AA1.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0019_harshit_AA1.wav",
       "phoneme": "AA1",
-      "similarity": -0.0113
+      "similarity": 0.1386
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0021_harshit_R.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0020_harshit_R.wav",
       "phoneme": "R",
-      "similarity": -0.0638
+      "similarity": 0.2179
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0022_harshit_SH.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0021_harshit_SH.wav",
       "phoneme": "SH",
-      "similarity": -0.0731
+      "similarity": 0.3595
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0023_harshit_AH0.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0022_harshit_AH0.wav",
       "phoneme": "AH0",
-      "similarity": -0.0496
+      "similarity": 0.4895
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0024_harshit_T.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0023_harshit_T.wav",
       "phoneme": "T",
-      "similarity": -0.0719
+      "similarity": 0.0994
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0026_i_AY1.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0024_i_AY1.wav",
       "phoneme": "AY1",
-      "similarity": -0.0397
+      "similarity": 0.7949
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0027_am_AE1.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0025_am_AE1.wav",
       "phoneme": "AE1",
-      "similarity": -0.033
+      "similarity": 0.2081
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0028_am_M.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0026_am_M.wav",
       "phoneme": "M",
-      "similarity": -0.027
+      "similarity": 0.554
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0029_currently_K.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0027_currently_K.wav",
       "phoneme": "K",
-      "similarity": -0.0543
+      "similarity": 0.1109
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0030_currently_ER1.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0028_currently_ER1.wav",
       "phoneme": "ER1",
-      "similarity": -0.0871
+      "similarity": 0.2559
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0031_currently_AH0.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0029_currently_AH0.wav",
       "phoneme": "AH0",
-      "similarity": -0.0745
+      "similarity": 0.1422
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0032_currently_N.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0030_currently_N.wav",
       "phoneme": "N",
-      "similarity": -0.0099
+      "similarity": 0.152
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0033_currently_T.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0031_currently_T.wav",
       "phoneme": "T",
-      "similarity": -0.0736
+      "similarity": 0.0862
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0034_currently_L.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0032_currently_L.wav",
       "phoneme": "L",
-      "similarity": -0.0307
+      "similarity": 0.3356
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0035_currently_IY0.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0033_currently_IY0.wav",
       "phoneme": "IY0",
-      "similarity": 0.0541
+      "similarity": 0.439
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0036_studying_S.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0034_studying_S.wav",
       "phoneme": "S",
-      "similarity": -0.1077
+      "similarity": 0.1404
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0037_studying_T.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0035_studying_T.wav",
       "phoneme": "T",
-      "similarity": 0.0457
+      "similarity": 0.0846
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0038_studying_AH1.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0036_studying_AH1.wav",
       "phoneme": "AH1",
-      "similarity": -0.0606
+      "similarity": 0.1639
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0039_studying_D.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0037_studying_D.wav",
       "phoneme": "D",
-      "similarity": -0.0259
+      "similarity": 0.384
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0040_studying_IY0.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0038_studying_IY0.wav",
       "phoneme": "IY0",
-      "similarity": -0.0274
+      "similarity": 0.1408
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0041_studying_IH0.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0039_studying_IH0.wav",
       "phoneme": "IH0",
-      "similarity": -0.075
+      "similarity": 0.0853
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0042_studying_NG.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0040_studying_NG.wav",
       "phoneme": "NG",
-      "similarity": -0.0572
+      "similarity": 0.12
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0043_in_IH0.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0041_in_IH0.wav",
       "phoneme": "IH0",
-      "similarity": -0.0776
+      "similarity": 0.2709
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0044_in_N.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0042_in_N.wav",
       "phoneme": "N",
-      "similarity": -0.1066
+      "similarity": 0.0711
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0045_third_TH.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0043_third_TH.wav",
       "phoneme": "TH",
-      "similarity": -0.0497
+      "similarity": 0.2144
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0046_third_ER1.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0044_third_ER1.wav",
       "phoneme": "ER1",
-      "similarity": -0.0838
+      "similarity": 0.3425
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0047_third_D.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0045_third_D.wav",
       "phoneme": "D",
-      "similarity": -0.0173
+      "similarity": 0.1923
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0048_year_Y.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0046_year_Y.wav",
       "phoneme": "Y",
-      "similarity": 0.0153
+      "similarity": 0.1584
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0049_year_IH1.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0047_year_IH1.wav",
       "phoneme": "IH1",
-      "similarity": -0.0804
+      "similarity": -0.0039
     },
     {
-      "file": "data\\user_audio_slices\\phonemes\\0050_year_R.wav",
+      "file": "H:\\IntelligentSpeechTherapy_NLP\\data\\user_audio_slices\\phonemes\\0048_year_R.wav",
       "phoneme": "R",
-      "similarity": -0.0094
+      "similarity": 0.1633
     }
   ],
   "per_phoneme_avg": {
-    "HH": -0.0469,
-    "AH0": -0.0556,
-    "L": -0.0556,
-    "EH1": -0.0266,
-    "V": -0.1284,
-    "R": -0.0256,
-    "IY0": -0.004,
-    "W": 0.0118,
-    "N": -0.0578,
-    "M": -0.0385,
-    "AY1": -0.0383,
-    "IH1": -0.0367,
-    "Z": 0.0036,
-    "AA1": -0.0113,
-    "SH": -0.0731,
-    "T": -0.0333,
-    "AE1": -0.033,
-    "K": -0.0543,
-    "ER1": -0.0855,
-    "S": -0.1077,
-    "AH1": -0.0606,
-    "D": -0.0216,
-    "IH0": -0.0763,
-    "NG": -0.0572,
-    "TH": -0.0497,
-    "Y": 0.0153
+    "HH": 0.3394,
+    "AH0": 0.25,
+    "L": 0.4631,
+    "OW1": 0.2749,
+    "EH1": 0.1213,
+    "V": 0.1309,
+    "R": 0.2626,
+    "IY0": 0.3547,
+    "W": 0.3388,
+    "AH2": 0.6339,
+    "N": 0.2488,
+    "M": 0.2878,
+    "AY1": 0.4818,
+    "EY1": 0.2092,
+    "IH1": 0.0801,
+    "Z": 0.347,
+    "AA1": 0.1386,
+    "SH": 0.3595,
+    "T": 0.0901,
+    "AE1": 0.2081,
+    "K": 0.1109,
+    "ER1": 0.2992,
+    "S": 0.1404,
+    "AH1": 0.1639,
+    "D": 0.2881,
+    "IH0": 0.1781,
+    "NG": 0.12,
+    "TH": 0.2144,
+    "Y": 0.1584
   }
 }
