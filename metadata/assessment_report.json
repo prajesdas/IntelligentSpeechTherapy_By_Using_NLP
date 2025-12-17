@@ -1,14 +1,14 @@
 {
-  "overall_score": 40,
+  "overall_score": 58,
   "details": [
     {
       "word": " Hello",
-      "word_score": 47,
+      "word_score": 48,
       "phonemes": [
         {
           "phoneme": "HH",
-          "raw_similarity": 0.4196,
-          "score": 53,
+          "raw_similarity": 0.273,
+          "score": 48,
           "grade": "Average",
           "color": "yellow",
           "start": 0.288,
@@ -16,8 +16,8 @@
         },
         {
           "phoneme": "AH0",
-          "raw_similarity": 0.1183,
-          "score": 29,
+          "raw_similarity": 0.1442,
+          "score": 34,
           "grade": "Needs Improvement",
           "color": "red",
           "start": 0.326,
@@ -25,8 +25,8 @@
         },
         {
           "phoneme": "L",
-          "raw_similarity": 0.5906,
-          "score": 67,
+          "raw_similarity": 0.3345,
+          "score": 54,
           "grade": "Average",
           "color": "yellow",
           "start": 0.364,
@@ -34,8 +34,8 @@
         },
         {
           "phoneme": "OW1",
-          "raw_similarity": 0.2749,
-          "score": 41,
+          "raw_similarity": 0.3557,
+          "score": 56,
           "grade": "Average",
           "color": "yellow",
           "start": 0.402,
@@ -47,39 +47,39 @@
     },
     {
       "word": " everyone,",
-      "word_score": 50,
+      "word_score": 60,
       "phonemes": [
         {
           "phoneme": "EH1",
-          "raw_similarity": 0.1213,
-          "score": 29,
-          "grade": "Needs Improvement",
-          "color": "red",
+          "raw_similarity": 0.4564,
+          "score": 64,
+          "grade": "Average",
+          "color": "yellow",
           "start": 0.44,
           "end": 0.48
         },
         {
           "phoneme": "V",
-          "raw_similarity": 0.1309,
-          "score": 36,
-          "grade": "Needs Improvement",
-          "color": "red",
+          "raw_similarity": 0.1581,
+          "score": 47,
+          "grade": "Average",
+          "color": "yellow",
           "start": 0.48,
           "end": 0.52
         },
         {
           "phoneme": "R",
-          "raw_similarity": 0.4066,
-          "score": 52,
-          "grade": "Average",
-          "color": "yellow",
+          "raw_similarity": 0.5445,
+          "score": 71,
+          "grade": "Good",
+          "color": "green",
           "start": 0.52,
           "end": 0.56
         },
         {
           "phoneme": "IY0",
-          "raw_similarity": 0.4842,
-          "score": 58,
+          "raw_similarity": 0.5084,
+          "score": 68,
           "grade": "Average",
           "color": "yellow",
           "start": 0.56,
@@ -87,29 +87,29 @@
         },
         {
           "phoneme": "W",
-          "raw_similarity": 0.3388,
-          "score": 47,
+          "raw_similarity": 0.3302,
+          "score": 54,
           "grade": "Average",
           "color": "yellow",
           "start": 0.6,
-          "end": 0.69
+          "end": 0.7
         },
         {
           "phoneme": "AH2",
-          "raw_similarity": 0.6339,
-          "score": 70,
-          "grade": "Good",
-          "color": "green",
-          "start": 0.69,
-          "end": 0.83
+          "raw_similarity": 0.1605,
+          "score": 36,
+          "grade": "Needs Improvement",
+          "color": "red",
+          "start": 0.7,
+          "end": 0.81
         },
         {
           "phoneme": "N",
-          "raw_similarity": 0.5562,
-          "score": 64,
-          "grade": "Average",
-          "color": "yellow",
-          "start": 0.83,
+          "raw_similarity": 0.6833,
+          "score": 81,
+          "grade": "Good",
+          "color": "green",
+          "start": 0.81,
           "end": 0.96
         }
       ],
@@ -118,147 +118,147 @@
     },
     {
       "word": " my",
-      "word_score": 33,
+      "word_score": 41,
       "phonemes": [
         {
           "phoneme": "M",
-          "raw_similarity": 0.1686,
-          "score": 33,
-          "grade": "Needs Improvement",
-          "color": "red",
+          "raw_similarity": 0.214,
+          "score": 42,
+          "grade": "Average",
+          "color": "yellow",
           "start": 1.3,
           "end": 1.34
         },
         {
           "phoneme": "AY1",
-          "raw_similarity": 0.1688,
-          "score": 33,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 1.34,
-          "end": 1.38
-        }
-      ],
-      "grade": "Needs Improvement",
-      "color": "red"
-    },
-    {
-      "word": " name",
-      "word_score": 34,
-      "phonemes": [
-        {
-          "phoneme": "N",
-          "raw_similarity": 0.2159,
-          "score": 37,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 1.38,
-          "end": 1.46
-        },
-        {
-          "phoneme": "EY1",
-          "raw_similarity": 0.2092,
-          "score": 36,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 1.46,
-          "end": 1.5
-        },
-        {
-          "phoneme": "M",
-          "raw_similarity": 0.1407,
-          "score": 31,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 1.5,
-          "end": 1.54
-        }
-      ],
-      "grade": "Needs Improvement",
-      "color": "red"
-    },
-    {
-      "word": " is",
-      "word_score": 45,
-      "phonemes": [
-        {
-          "phoneme": "IH1",
-          "raw_similarity": 0.1641,
-          "score": 33,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 1.54,
-          "end": 1.59
-        },
-        {
-          "phoneme": "Z",
-          "raw_similarity": 0.347,
-          "score": 58,
+          "raw_similarity": 0.1962,
+          "score": 40,
           "grade": "Average",
           "color": "yellow",
-          "start": 1.59,
-          "end": 1.74
+          "start": 1.34,
+          "end": 1.38
         }
       ],
       "grade": "Average",
       "color": "yellow"
     },
     {
+      "word": " name",
+      "word_score": 57,
+      "phonemes": [
+        {
+          "phoneme": "N",
+          "raw_similarity": 0.5609,
+          "score": 72,
+          "grade": "Good",
+          "color": "green",
+          "start": 1.38,
+          "end": 1.479
+        },
+        {
+          "phoneme": "EY1",
+          "raw_similarity": 0.1241,
+          "score": 31,
+          "grade": "Needs Improvement",
+          "color": "red",
+          "start": 1.479,
+          "end": 1.5095
+        },
+        {
+          "phoneme": "M",
+          "raw_similarity": 0.5189,
+          "score": 69,
+          "grade": "Average",
+          "color": "yellow",
+          "start": 1.5095,
+          "end": 1.54
+        }
+      ],
+      "grade": "Average",
+      "color": "yellow"
+    },
+    {
+      "word": " is",
+      "word_score": 70,
+      "phonemes": [
+        {
+          "phoneme": "IH1",
+          "raw_similarity": 0.4979,
+          "score": 68,
+          "grade": "Average",
+          "color": "yellow",
+          "start": 1.54,
+          "end": 1.62
+        },
+        {
+          "phoneme": "Z",
+          "raw_similarity": 0.4688,
+          "score": 73,
+          "grade": "Good",
+          "color": "green",
+          "start": 1.62,
+          "end": 1.74
+        }
+      ],
+      "grade": "Good",
+      "color": "green"
+    },
+    {
       "word": " Harshit.",
-      "word_score": 42,
+      "word_score": 56,
       "phonemes": [
         {
           "phoneme": "HH",
-          "raw_similarity": 0.2593,
-          "score": 40,
-          "grade": "Average",
-          "color": "yellow",
+          "raw_similarity": 0.1113,
+          "score": 29,
+          "grade": "Needs Improvement",
+          "color": "red",
           "start": 1.74,
-          "end": 1.88
+          "end": 1.87
         },
         {
           "phoneme": "AA1",
-          "raw_similarity": 0.1386,
-          "score": 31,
+          "raw_similarity": 0.1736,
+          "score": 38,
           "grade": "Needs Improvement",
           "color": "red",
-          "start": 1.88,
-          "end": 1.92
+          "start": 1.87,
+          "end": 1.91
         },
         {
           "phoneme": "R",
-          "raw_similarity": 0.2179,
-          "score": 37,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 1.92,
-          "end": 1.96
+          "raw_similarity": 0.4894,
+          "score": 67,
+          "grade": "Average",
+          "color": "yellow",
+          "start": 1.91,
+          "end": 1.95
         },
         {
           "phoneme": "SH",
-          "raw_similarity": 0.3595,
-          "score": 59,
-          "grade": "Average",
-          "color": "yellow",
-          "start": 1.96,
-          "end": 2.0
+          "raw_similarity": 0.594,
+          "score": 81,
+          "grade": "Good",
+          "color": "green",
+          "start": 1.95,
+          "end": 1.99
         },
         {
           "phoneme": "AH0",
-          "raw_similarity": 0.4895,
-          "score": 59,
+          "raw_similarity": 0.5032,
+          "score": 68,
           "grade": "Average",
           "color": "yellow",
-          "start": 2.0,
-          "end": 2.09
+          "start": 1.99,
+          "end": 2.03
         },
         {
           "phoneme": "T",
-          "raw_similarity": 0.0994,
-          "score": 31,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 2.09,
+          "raw_similarity": 0.2455,
+          "score": 57,
+          "grade": "Average",
+          "color": "yellow",
+          "start": 2.03,
           "end": 2.14
         }
       ],
@@ -267,12 +267,12 @@
     },
     {
       "word": " I",
-      "word_score": 83,
+      "word_score": 73,
       "phonemes": [
         {
           "phoneme": "AY1",
-          "raw_similarity": 0.7949,
-          "score": 83,
+          "raw_similarity": 0.5735,
+          "score": 73,
           "grade": "Good",
           "color": "green",
           "start": 2.22,
@@ -284,47 +284,47 @@
     },
     {
       "word": " am",
-      "word_score": 50,
+      "word_score": 76,
       "phonemes": [
         {
           "phoneme": "AE1",
-          "raw_similarity": 0.2081,
-          "score": 36,
-          "grade": "Needs Improvement",
-          "color": "red",
+          "raw_similarity": 0.899,
+          "score": 94,
+          "grade": "Good",
+          "color": "green",
           "start": 2.34,
-          "end": 2.43
+          "end": 2.44
         },
         {
           "phoneme": "M",
-          "raw_similarity": 0.554,
-          "score": 64,
+          "raw_similarity": 0.3745,
+          "score": 58,
           "grade": "Average",
           "color": "yellow",
-          "start": 2.43,
+          "start": 2.44,
           "end": 2.48
         }
       ],
-      "grade": "Average",
-      "color": "yellow"
+      "grade": "Good",
+      "color": "green"
     },
     {
       "word": " currently",
-      "word_score": 38,
+      "word_score": 61,
       "phonemes": [
         {
           "phoneme": "K",
-          "raw_similarity": 0.1109,
-          "score": 33,
-          "grade": "Needs Improvement",
-          "color": "red",
+          "raw_similarity": 0.7647,
+          "score": 89,
+          "grade": "Good",
+          "color": "green",
           "start": 2.48,
           "end": 2.52
         },
         {
           "phoneme": "ER1",
-          "raw_similarity": 0.2559,
-          "score": 40,
+          "raw_similarity": 0.3991,
+          "score": 60,
           "grade": "Average",
           "color": "yellow",
           "start": 2.52,
@@ -332,8 +332,8 @@
         },
         {
           "phoneme": "AH0",
-          "raw_similarity": 0.1422,
-          "score": 31,
+          "raw_similarity": 0.1557,
+          "score": 35,
           "grade": "Needs Improvement",
           "color": "red",
           "start": 2.56,
@@ -341,8 +341,8 @@
         },
         {
           "phoneme": "N",
-          "raw_similarity": 0.152,
-          "score": 32,
+          "raw_similarity": 0.1606,
+          "score": 36,
           "grade": "Needs Improvement",
           "color": "red",
           "start": 2.6,
@@ -350,140 +350,140 @@
         },
         {
           "phoneme": "T",
-          "raw_similarity": 0.0862,
-          "score": 29,
-          "grade": "Needs Improvement",
-          "color": "red",
+          "raw_similarity": 0.5699,
+          "score": 79,
+          "grade": "Good",
+          "color": "green",
           "start": 2.64,
-          "end": 2.68
+          "end": 2.7
         },
         {
           "phoneme": "L",
-          "raw_similarity": 0.3356,
-          "score": 46,
-          "grade": "Average",
-          "color": "yellow",
-          "start": 2.68,
-          "end": 2.72
+          "raw_similarity": 0.6811,
+          "score": 80,
+          "grade": "Good",
+          "color": "green",
+          "start": 2.7,
+          "end": 2.78
         },
         {
           "phoneme": "IY0",
-          "raw_similarity": 0.439,
-          "score": 55,
+          "raw_similarity": 0.2725,
+          "score": 48,
           "grade": "Average",
           "color": "yellow",
-          "start": 2.72,
+          "start": 2.78,
           "end": 2.84
         }
       ],
-      "grade": "Needs Improvement",
-      "color": "red"
+      "grade": "Average",
+      "color": "yellow"
     },
     {
       "word": " studying",
-      "word_score": 32,
+      "word_score": 57,
       "phonemes": [
         {
           "phoneme": "S",
-          "raw_similarity": 0.1404,
-          "score": 37,
-          "grade": "Needs Improvement",
-          "color": "red",
+          "raw_similarity": 0.4516,
+          "score": 72,
+          "grade": "Good",
+          "color": "green",
           "start": 2.84,
-          "end": 2.9032
+          "end": 2.896
         },
         {
           "phoneme": "T",
-          "raw_similarity": 0.0846,
-          "score": 29,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 2.9032,
-          "end": 2.9394
+          "raw_similarity": 0.2355,
+          "score": 56,
+          "grade": "Average",
+          "color": "yellow",
+          "start": 2.896,
+          "end": 2.9333
         },
         {
           "phoneme": "AH1",
-          "raw_similarity": 0.1639,
-          "score": 33,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 2.9394,
-          "end": 2.9755
+          "raw_similarity": 0.2651,
+          "score": 48,
+          "grade": "Average",
+          "color": "yellow",
+          "start": 2.9333,
+          "end": 2.9707
         },
         {
           "phoneme": "D",
-          "raw_similarity": 0.384,
-          "score": 61,
+          "raw_similarity": 0.2076,
+          "score": 53,
           "grade": "Average",
           "color": "yellow",
-          "start": 2.9755,
-          "end": 3.0116
+          "start": 2.9707,
+          "end": 3.008
         },
         {
           "phoneme": "IY0",
-          "raw_similarity": 0.1408,
-          "score": 31,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 3.0116,
-          "end": 3.0477
+          "raw_similarity": 0.3079,
+          "score": 52,
+          "grade": "Average",
+          "color": "yellow",
+          "start": 3.008,
+          "end": 3.0453
         },
         {
           "phoneme": "IH0",
-          "raw_similarity": 0.0853,
-          "score": 8,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 3.0477,
-          "end": 3.0839
+          "raw_similarity": 0.5425,
+          "score": 71,
+          "grade": "Good",
+          "color": "green",
+          "start": 3.0453,
+          "end": 3.0827
         },
         {
           "phoneme": "NG",
-          "raw_similarity": 0.12,
-          "score": 29,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 3.0839,
+          "raw_similarity": 0.3048,
+          "score": 52,
+          "grade": "Average",
+          "color": "yellow",
+          "start": 3.0827,
           "end": 3.12
         }
       ],
-      "grade": "Needs Improvement",
-      "color": "red"
+      "grade": "Average",
+      "color": "yellow"
     },
     {
       "word": " in",
-      "word_score": 24,
+      "word_score": 67,
       "phonemes": [
         {
           "phoneme": "IH0",
-          "raw_similarity": 0.2709,
-          "score": 41,
-          "grade": "Average",
-          "color": "yellow",
+          "raw_similarity": 0.6397,
+          "score": 78,
+          "grade": "Good",
+          "color": "green",
           "start": 3.12,
-          "end": 3.27
+          "end": 3.26
         },
         {
           "phoneme": "N",
-          "raw_similarity": 0.0711,
-          "score": 7,
-          "grade": "Needs Improvement",
-          "color": "red",
-          "start": 3.27,
+          "raw_similarity": 0.3576,
+          "score": 56,
+          "grade": "Average",
+          "color": "yellow",
+          "start": 3.26,
           "end": 3.44
         }
       ],
-      "grade": "Needs Improvement",
-      "color": "red"
+      "grade": "Average",
+      "color": "yellow"
     },
     {
       "word": " third",
-      "word_score": 45,
+      "word_score": 55,
       "phonemes": [
         {
           "phoneme": "TH",
-          "raw_similarity": 0.2144,
-          "score": 46,
+          "raw_similarity": 0.1184,
+          "score": 42,
           "grade": "Average",
           "color": "yellow",
           "start": 3.44,
@@ -491,8 +491,8 @@
         },
         {
           "phoneme": "ER1",
-          "raw_similarity": 0.3425,
-          "score": 47,
+          "raw_similarity": 0.3879,
+          "score": 59,
           "grade": "Average",
           "color": "yellow",
           "start": 3.48,
@@ -500,8 +500,8 @@
         },
         {
           "phoneme": "D",
-          "raw_similarity": 0.1923,
-          "score": 43,
+          "raw_similarity": 0.3658,
+          "score": 66,
           "grade": "Average",
           "color": "yellow",
           "start": 3.52,
@@ -513,38 +513,38 @@
     },
     {
       "word": " year.",
-      "word_score": 21,
+      "word_score": 59,
       "phonemes": [
         {
           "phoneme": "Y",
-          "raw_similarity": 0.1584,
-          "score": 32,
-          "grade": "Needs Improvement",
-          "color": "red",
+          "raw_similarity": 0.4381,
+          "score": 63,
+          "grade": "Average",
+          "color": "yellow",
           "start": 3.62,
           "end": 3.66
         },
         {
           "phoneme": "IH1",
-          "raw_similarity": -0.0039,
-          "score": 0,
-          "grade": "Needs Improvement",
-          "color": "red",
+          "raw_similarity": 0.3415,
+          "score": 55,
+          "grade": "Average",
+          "color": "yellow",
           "start": 3.66,
           "end": 3.7
         },
         {
           "phoneme": "R",
-          "raw_similarity": 0.1633,
-          "score": 33,
-          "grade": "Needs Improvement",
-          "color": "red",
+          "raw_similarity": 0.3895,
+          "score": 59,
+          "grade": "Average",
+          "color": "yellow",
           "start": 3.7,
           "end": 3.82
         }
       ],
-      "grade": "Needs Improvement",
-      "color": "red"
+      "grade": "Average",
+      "color": "yellow"
     }
   ]
 }

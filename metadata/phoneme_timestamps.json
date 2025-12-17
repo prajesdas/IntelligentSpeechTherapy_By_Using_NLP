@@ -60,20 +60,20 @@
     "word": " everyone,",
     "phoneme": "W",
     "start": 0.6,
-    "end": 0.69
+    "end": 0.7
   },
   {
     "word_index": 1,
     "word": " everyone,",
     "phoneme": "AH2",
-    "start": 0.69,
-    "end": 0.83
+    "start": 0.7,
+    "end": 0.81
   },
   {
     "word_index": 1,
     "word": " everyone,",
     "phoneme": "N",
-    "start": 0.83,
+    "start": 0.81,
     "end": 0.96
   },
   {
@@ -95,20 +95,20 @@
     "word": " name",
     "phoneme": "N",
     "start": 1.38,
-    "end": 1.46
+    "end": 1.479
   },
   {
     "word_index": 3,
     "word": " name",
     "phoneme": "EY1",
-    "start": 1.46,
-    "end": 1.5
+    "start": 1.479,
+    "end": 1.5095
   },
   {
     "word_index": 3,
     "word": " name",
     "phoneme": "M",
-    "start": 1.5,
+    "start": 1.5095,
     "end": 1.54
   },
   {
@@ -116,13 +116,13 @@
     "word": " is",
     "phoneme": "IH1",
     "start": 1.54,
-    "end": 1.59
+    "end": 1.62
   },
   {
     "word_index": 4,
     "word": " is",
     "phoneme": "Z",
-    "start": 1.59,
+    "start": 1.62,
     "end": 1.74
   },
   {
@@ -130,41 +130,41 @@
     "word": " Harshit.",
     "phoneme": "HH",
     "start": 1.74,
-    "end": 1.88
+    "end": 1.87
   },
   {
     "word_index": 5,
     "word": " Harshit.",
     "phoneme": "AA1",
-    "start": 1.88,
-    "end": 1.92
+    "start": 1.87,
+    "end": 1.91
   },
   {
     "word_index": 5,
     "word": " Harshit.",
     "phoneme": "R",
-    "start": 1.92,
-    "end": 1.96
+    "start": 1.91,
+    "end": 1.95
   },
   {
     "word_index": 5,
     "word": " Harshit.",
     "phoneme": "SH",
-    "start": 1.96,
-    "end": 2.0
+    "start": 1.95,
+    "end": 1.99
   },
   {
     "word_index": 5,
     "word": " Harshit.",
     "phoneme": "AH0",
-    "start": 2.0,
-    "end": 2.09
+    "start": 1.99,
+    "end": 2.03
   },
   {
     "word_index": 5,
     "word": " Harshit.",
     "phoneme": "T",
-    "start": 2.09,
+    "start": 2.03,
     "end": 2.14
   },
   {
@@ -179,13 +179,13 @@
     "word": " am",
     "phoneme": "AE1",
     "start": 2.34,
-    "end": 2.43
+    "end": 2.44
   },
   {
     "word_index": 7,
     "word": " am",
     "phoneme": "M",
-    "start": 2.43,
+    "start": 2.44,
     "end": 2.48
   },
   {
@@ -221,20 +221,20 @@
     "word": " currently",
     "phoneme": "T",
     "start": 2.64,
-    "end": 2.68
+    "end": 2.7
   },
   {
     "word_index": 8,
     "word": " currently",
     "phoneme": "L",
-    "start": 2.68,
-    "end": 2.72
+    "start": 2.7,
+    "end": 2.78
   },
   {
     "word_index": 8,
     "word": " currently",
     "phoneme": "IY0",
-    "start": 2.72,
+    "start": 2.78,
     "end": 2.84
   },
   {
@@ -242,48 +242,48 @@
     "word": " studying",
     "phoneme": "S",
     "start": 2.84,
-    "end": 2.9032
+    "end": 2.896
   },
   {
     "word_index": 9,
     "word": " studying",
     "phoneme": "T",
-    "start": 2.9032,
-    "end": 2.9394
+    "start": 2.896,
+    "end": 2.9333
   },
   {
     "word_index": 9,
     "word": " studying",
     "phoneme": "AH1",
-    "start": 2.9394,
-    "end": 2.9755
+    "start": 2.9333,
+    "end": 2.9707
   },
   {
     "word_index": 9,
     "word": " studying",
     "phoneme": "D",
-    "start": 2.9755,
-    "end": 3.0116
+    "start": 2.9707,
+    "end": 3.008
   },
   {
     "word_index": 9,
     "word": " studying",
     "phoneme": "IY0",
-    "start": 3.0116,
-    "end": 3.0477
+    "start": 3.008,
+    "end": 3.0453
   },
   {
     "word_index": 9,
     "word": " studying",
     "phoneme": "IH0",
-    "start": 3.0477,
-    "end": 3.0839
+    "start": 3.0453,
+    "end": 3.0827
   },
   {
     "word_index": 9,
     "word": " studying",
     "phoneme": "NG",
-    "start": 3.0839,
+    "start": 3.0827,
     "end": 3.12
   },
   {
@@ -291,13 +291,13 @@
     "word": " in",
     "phoneme": "IH0",
     "start": 3.12,
-    "end": 3.27
+    "end": 3.26
   },
   {
     "word_index": 10,
     "word": " in",
     "phoneme": "N",
-    "start": 3.27,
+    "start": 3.26,
     "end": 3.44
   },
   {

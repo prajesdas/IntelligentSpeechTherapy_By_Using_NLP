@@ -18,31 +18,58 @@ def get_grade(score):
     if score >= 40: return "Average", "yellow"
     return "Needs Improvement", "red"
 
+# def normalize_score(raw_sim, phoneme):
+#     """
+#     Calibrated Teacher Logic for Non-Native Speakers.
+#     """
+#     # 1. Clamp negative to 0
+#     score = max(0.0, raw_sim)
+    
+#     # 2. Stronger Boost for Consonants
+#     # "Strict Math" sees 0.40 as bad. "Human Teacher" sees 0.40 as Good for 'K' or 'T'.
+#     if phoneme in SHORT_SOUNDS:
+#         # Formula: y = x^0.5 (Square Root Curve) - Very forgiving for low numbers
+#         # 0.10 -> 0.31
+#         # 0.25 -> 0.50
+#         # 0.40 -> 0.63 (Green)
+#         score = np.power(score, 0.5)
+#     else:
+#         # Vowels: Linear scaling but boosted 
+#         # 0.60 -> 0.76
+#         # 0.70 -> 0.85
+#         score = (score * 0.8) + 0.2 if score > 0.1 else score
+
+#     # 3. Scale to 0-100
+#     final_score = int(score * 100)
+    
+#     # Cap at 100
+#     return min(100, final_score)
+
 def normalize_score(raw_sim, phoneme):
     """
-    Calibrated Teacher Logic for Non-Native Speakers.
+    Calibrated for SILERO TTS (Open Source).
+    Silero is strict. A raw score of 0.25 is actually 'Average'.
+    A raw score of 0.45 is 'Perfect'.
     """
-    # 1. Clamp negative to 0
+    # 1. Clamp to 0
     score = max(0.0, raw_sim)
     
-    # 2. Stronger Boost for Consonants
-    # "Strict Math" sees 0.40 as bad. "Human Teacher" sees 0.40 as Good for 'K' or 'T'.
+    # 2. Boost Logic
     if phoneme in SHORT_SOUNDS:
-        # Formula: y = x^0.5 (Square Root Curve) - Very forgiving for low numbers
-        # 0.10 -> 0.31
-        # 0.25 -> 0.50
-        # 0.40 -> 0.63 (Green)
-        score = np.power(score, 0.5)
+        # Curve for Consonants (T, K, P, etc.)
+        # If raw is 0.15 -> Boost to ~0.50 (Yellow)
+        # Formula: y = x^0.4
+        score = np.power(score, 0.4)
     else:
-        # Vowels: Linear scaling but boosted 
-        # 0.60 -> 0.76
-        # 0.70 -> 0.85
-        score = (score * 0.8) + 0.2 if score > 0.1 else score
+        # Curve for Vowels
+        # If raw is 0.30 -> Boost to ~0.65 (Yellow/Green boundary)
+        # Formula: y = x^0.55
+        score = np.power(score, 0.55)
 
-    # 3. Scale to 0-100
+    # 3. Scale 0-100
     final_score = int(score * 100)
     
-    # Cap at 100
+    # Safety cap
     return min(100, final_score)
 
 def main():
