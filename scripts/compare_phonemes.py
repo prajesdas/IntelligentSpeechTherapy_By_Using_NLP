@@ -1,17 +1,5 @@
 #!/usr/bin/env python3
 # scripts/compare_phonemes.py  (patched)
-"""
-Compare user phoneme slices with reference phoneme embeddings (preferred: precomputed .npy).
-Usage:
-  python scripts/compare_phonemes.py --slices "data/user_audio_slices/phonemes" --ref "models/embeddings"
-Notes:
- - Reference dir should contain per-phoneme .npy files, e.g. AH0.npy, B.npy, etc.
- - If a slice has a matching .npy (slice.wav.npy) that will be used.
- - If no slice .npy and a user extractor exists (scripts.extract_embeddings.extract_embedding),
-   it will be called. If neither exist and torch+transformers are present then a fallback wav2vec2 extractor is used.
- - If fallback dependencies are missing, slice will be skipped (and reported).
-"""
-
 from pathlib import Path
 import argparse
 import json

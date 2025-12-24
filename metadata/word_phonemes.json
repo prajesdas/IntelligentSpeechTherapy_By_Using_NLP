@@ -2,29 +2,28 @@
   {
     "index": 0,
     "word": "Hello",
-    "start": 0.288,
+    "start": 0.28,
     "end": 0.44,
     "phonemes": [
       "HH",
-      "AH0",
+      "AH",
       "L",
-      "OW1"
+      "OW"
     ]
   },
   {
     "index": 1,
-    "word": "everyone,",
+    "word": "everyone",
     "start": 0.44,
-    "end": 0.96,
+    "end": 0.9,
     "phonemes": [
-      "EH1",
+      "EH",
       "V",
       "R",
-      "IY0",
+      "IY",
       "W",
-      "AH2",
-      "N",
-      ","
+      "AH",
+      "N"
     ]
   },
   {
@@ -34,7 +33,7 @@
     "end": 1.38,
     "phonemes": [
       "M",
-      "AY1"
+      "AY"
     ]
   },
   {
@@ -44,7 +43,7 @@
     "end": 1.54,
     "phonemes": [
       "N",
-      "EY1",
+      "EY",
       "M"
     ]
   },
@@ -54,23 +53,22 @@
     "start": 1.54,
     "end": 1.74,
     "phonemes": [
-      "IH1",
+      "IH",
       "Z"
     ]
   },
   {
     "index": 5,
-    "word": "Harshit.",
+    "word": "Harshit",
     "start": 1.74,
-    "end": 2.14,
+    "end": 2.02,
     "phonemes": [
       "HH",
-      "AA1",
+      "AA",
       "R",
       "SH",
-      "AH0",
-      "T",
-      "."
+      "AH",
+      "T"
     ]
   },
   {
@@ -79,7 +77,7 @@
     "start": 2.22,
     "end": 2.34,
     "phonemes": [
-      "AY1"
+      "AY"
     ]
   },
   {
@@ -88,7 +86,7 @@
     "start": 2.34,
     "end": 2.48,
     "phonemes": [
-      "AE1",
+      "AE",
       "M"
     ]
   },
@@ -99,12 +97,12 @@
     "end": 2.84,
     "phonemes": [
       "K",
-      "ER1",
-      "AH0",
+      "ER",
+      "AH",
       "N",
       "T",
       "L",
-      "IY0"
+      "IY"
     ]
   },
   {
@@ -115,20 +113,20 @@
     "phonemes": [
       "S",
       "T",
-      "AH1",
+      "AH",
       "D",
-      "IY0",
-      "IH0",
+      "IY",
+      "IH",
       "NG"
     ]
   },
   {
     "index": 10,
     "word": "in",
-    "start": 3.12,
+    "start": 3.18,
     "end": 3.44,
     "phonemes": [
-      "IH0",
+      "IH",
       "N"
     ]
   },
@@ -139,20 +137,19 @@
     "end": 3.62,
     "phonemes": [
       "TH",
-      "ER1",
+      "ER",
       "D"
     ]
   },
   {
     "index": 12,
-    "word": "year.",
+    "word": "year",
     "start": 3.62,
     "end": 3.82,
     "phonemes": [
       "Y",
-      "IH1",
-      "R",
-      "."
+      "IH",
+      "R"
     ]
   }
 ]

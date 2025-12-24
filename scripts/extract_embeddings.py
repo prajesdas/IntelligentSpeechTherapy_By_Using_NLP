@@ -5,52 +5,51 @@ import soundfile as sf
 import numpy as np
 import librosa
 
-# 1. Setup Device
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
-# 2. Load the Model (Same as you used for reference generation)
-# We load this once so we don't reload it for every file
-bundle = torchaudio.pipelines.WAV2VEC2_BASE
-model = bundle.get_model().to(DEVICE)
-model.eval()
-
-def load_audio(path, target_sr=16000):
-    """Load audio and resample to 16k to match the model."""
-    data, sr = sf.read(path, dtype="float32")
-    
-    # Handle multi-channel (convert to mono)
-    if data.ndim > 1:
-        data = data.mean(axis=1)
-        
-    # Resample if necessary
-    if sr != target_sr:
-        data = librosa.resample(data, orig_sr=sr, target_sr=target_sr)
-        
-    return data
+model = None
+try:
+    bundle = torchaudio.pipelines.WAV2VEC2_BASE
+    model = bundle.get_model().to(DEVICE)
+    model.eval()
+except Exception as e:
+    print(f"[Extractor] Warning: Could not load model: {e}")
 
 def extract_embedding(audio_path: str) -> np.ndarray:
-    """
-    Reads a WAV file and returns a 1D numpy embedding.
-    This function is called automatically by compare_phonemes.py
-    """
+    if model is None: return None
+    
     try:
-        # Load audio
-        waveform_np = load_audio(audio_path)
-        
-        # Convert to Tensor [1, T]
-        tensor = torch.from_numpy(waveform_np).float().to(DEVICE)
-        if tensor.dim() == 1:
-            tensor = tensor.unsqueeze(0)
+        # 1. Load Audio
+        data, sr = sf.read(audio_path, dtype="float32")
+        if data.ndim > 1: data = data.mean(axis=1)
+        if sr != 16000:
+            data = librosa.resample(data, orig_sr=sr, target_sr=16000)
 
-        # Extract features
+        # 2. Pad Short Audio (Crucial)
+        # Wav2Vec2 conv layers reduce dimensionality. 
+        # If input is too short, output is empty. We pad to ~0.1s.
+        target_len = 1600 
+        if len(data) < target_len:
+            pad_size = target_len - len(data)
+            data = np.pad(data, (0, pad_size), 'constant')
+
+        tensor = torch.from_numpy(data).float().to(DEVICE)
+        if tensor.dim() == 1: tensor = tensor.unsqueeze(0)
+
         with torch.no_grad():
+            # Extract features from the LAST Transformer Layer (Contextual)
             features, _ = model.extract_features(tensor)
-            last_hidden_state = features[-1] # [1, Frames, 768]
+            last_layer = features[-1] # Shape: [1, Frames, 768]
             
-            # Mean pooling to get a single vector [768]
-            embedding = last_hidden_state.mean(dim=1).squeeze().cpu().numpy()
+            # --- THE FIX: MAX POOLING ---
+            # Instead of averaging (which dilutes the sound with silence),
+            # we take the MAXIMUM activation across the time dimension.
+            # This captures the "Peak Character" of the phoneme, ignoring misaligned edges.
+            emb = last_layer.max(dim=1)[0] 
             
-        return embedding
+            emb = emb.squeeze().cpu().numpy()
+            
+        return emb
     except Exception as e:
-        print(f"Error extracting embedding for {audio_path}: {e}")
+        print(f"[Error] Extraction failed for {audio_path}: {e}")
         return None

@@ -1,5 +1,6 @@
 # scripts/g2p_word_mapping.py
 import json
+import re
 from pathlib import Path
 from g2p_en import G2p
 
@@ -9,37 +10,51 @@ OUT_FILE = ROOT / "metadata" / "word_phonemes.json"
 
 def main():
     if not ALIGN_FILE.exists():
-        print("ERROR: alignment.json not found at", ALIGN_FILE)
+        print("ERROR: alignment.json not found.")
         return
 
     with open(ALIGN_FILE, "r", encoding="utf-8") as f:
         words = json.load(f)
 
-
     g2p = G2p()
     out = []
+    
+    print(f"Mapping {len(words)} words to phonemes (Removing Stress Numbers)...")
+
     for i, w in enumerate(words):
-        text = w.get("word") or w.get("text") or ""
+        raw_text = w.get("word") or w.get("text") or ""
         start = w.get("start")
         end = w.get("end")
-        if text is None or start is None or end is None:
-            print(f"warning: skipping malformed entry {i}: {w}")
+        
+        # Clean word
+        clean_text = re.sub(r'[^a-zA-Z\']', '', raw_text)
+        
+        if not clean_text or start is None or end is None:
             continue
 
-        # g2p returns list like ['K', 'AE1', 'T'] for "cat"
-        phonemes = [p for p in g2p(text) if p != ' ' and p != '|' ]
+        raw_phonemes = g2p(clean_text)
+        
+        clean_phonemes = []
+        for p in raw_phonemes:
+            if p in [' ', 'NB', ',', '.', '!', '?']: continue
+            
+            # FIX: Remove digits (Stress) -> AA1 becomes AA
+            # This ensures we match 'EH1' to 'EH' reference easily
+            p_clean = ''.join([c for c in p if c.isalpha()]) 
+            clean_phonemes.append(p_clean)
+
         out.append({
             "index": i,
-            "word": text,
+            "word": clean_text,
             "start": start,
             "end": end,
-            "phonemes": phonemes
+            "phonemes": clean_phonemes
         })
 
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump(out, f, indent=2)
-    print("Saved word → phonemes to:", OUT_FILE)
+    print("Saved simplified word-to-phoneme map.")
 
 if __name__ == "__main__":
     main()

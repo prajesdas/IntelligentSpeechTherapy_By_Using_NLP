@@ -1,0 +1,387 @@
+[
+  {
+    "word": "Hello",
+    "status": "Mispronounced",
+    "score": 36.0,
+    "details": [
+      {
+        "phoneme": "HH",
+        "score": 0.2275,
+        "detected": "TH",
+        "duration": 0.027825999999999962
+      },
+      {
+        "phoneme": "AH",
+        "score": 0.4299,
+        "detected": "G",
+        "duration": 0.052174
+      },
+      {
+        "phoneme": "L",
+        "score": 0.7819,
+        "detected": "SH",
+        "duration": 0.027826000000000017
+      },
+      {
+        "phoneme": "OW",
+        "score": 0.0,
+        "detected": "N",
+        "duration": 0.052174
+      }
+    ]
+  },
+  {
+    "word": "everyone",
+    "status": "Mispronounced",
+    "score": 47.5,
+    "details": [
+      {
+        "phoneme": "EH",
+        "score": 0.4164,
+        "detected": "OY",
+        "duration": 0.08961000000000002
+      },
+      {
+        "phoneme": "V",
+        "score": 0.7787,
+        "detected": "D",
+        "duration": 0.047792999999999974
+      },
+      {
+        "phoneme": "R",
+        "score": 0.0404,
+        "detected": "OY1",
+        "duration": 0.047791999999999946
+      },
+      {
+        "phoneme": "IY",
+        "score": 0.613,
+        "detected": "UH1",
+        "duration": 0.08961000000000008
+      },
+      {
+        "phoneme": "W",
+        "score": 0.2618,
+        "detected": "UW1",
+        "duration": 0.047791999999999946
+      },
+      {
+        "phoneme": "AH",
+        "score": 0.5301,
+        "detected": "K",
+        "duration": 0.089611
+      },
+      {
+        "phoneme": "N",
+        "score": 0.6843,
+        "detected": "AA1",
+        "duration": 0.04779200000000006
+      }
+    ]
+  },
+  {
+    "word": "my",
+    "status": "Mispronounced",
+    "score": 39.6,
+    "details": [
+      {
+        "phoneme": "M",
+        "score": 0.1593,
+        "detected": "AH",
+        "duration": 0.027825999999999906
+      },
+      {
+        "phoneme": "AY",
+        "score": 0.6327,
+        "detected": "CH",
+        "duration": 0.05217399999999994
+      }
+    ]
+  },
+  {
+    "word": "name",
+    "status": "Mispronounced",
+    "score": 37.6,
+    "details": [
+      {
+        "phoneme": "N",
+        "score": 0.7862,
+        "detected": "OW",
+        "duration": 0.04129000000000005
+      },
+      {
+        "phoneme": "EY",
+        "score": 0.0382,
+        "detected": "CH",
+        "duration": 0.07742000000000004
+      },
+      {
+        "phoneme": "M",
+        "score": 0.3038,
+        "detected": "UW",
+        "duration": 0.04129000000000005
+      }
+    ]
+  },
+  {
+    "word": "is",
+    "status": "Mispronounced",
+    "score": 36.9,
+    "details": [
+      {
+        "phoneme": "IH",
+        "score": 0.2839,
+        "detected": "EH",
+        "duration": 0.13043499999999986
+      },
+      {
+        "phoneme": "Z",
+        "score": 0.455,
+        "detected": "P",
+        "duration": 0.0695650000000001
+      }
+    ]
+  },
+  {
+    "word": "Harshit",
+    "status": "Needs Improvement",
+    "score": 62.4,
+    "details": [
+      {
+        "phoneme": "HH",
+        "score": 0.5282,
+        "detected": "D",
+        "duration": 0.03612900000000008
+      },
+      {
+        "phoneme": "AA",
+        "score": 0.7322,
+        "detected": "TH",
+        "duration": 0.06774199999999997
+      },
+      {
+        "phoneme": "R",
+        "score": 0.5995,
+        "detected": "TH",
+        "duration": 0.036128999999999856
+      },
+      {
+        "phoneme": "SH",
+        "score": 0.6641,
+        "detected": "SH",
+        "duration": 0.03612900000000008
+      },
+      {
+        "phoneme": "AH",
+        "score": 0.5856,
+        "detected": "UW",
+        "duration": 0.06774199999999997
+      },
+      {
+        "phoneme": "T",
+        "score": 0.6329,
+        "detected": "UH",
+        "duration": 0.03612900000000008
+      }
+    ]
+  },
+  {
+    "word": "I",
+    "status": "Needs Improvement",
+    "score": 65.4,
+    "details": [
+      {
+        "phoneme": "AY",
+        "score": 0.6542,
+        "detected": "AA",
+        "duration": 0.11999999999999966
+      }
+    ]
+  },
+  {
+    "word": "am",
+    "status": "Needs Improvement",
+    "score": 72.4,
+    "details": [
+      {
+        "phoneme": "AE",
+        "score": 0.7426,
+        "detected": "K",
+        "duration": 0.09130400000000005
+      },
+      {
+        "phoneme": "M",
+        "score": 0.7063,
+        "detected": "EH",
+        "duration": 0.04869600000000007
+      }
+    ]
+  },
+  {
+    "word": "currently",
+    "status": "Mispronounced",
+    "score": 54.1,
+    "details": [
+      {
+        "phoneme": "K",
+        "score": 0.3391,
+        "detected": "OY",
+        "duration": 0.03740299999999985
+      },
+      {
+        "phoneme": "ER",
+        "score": 0.8131,
+        "detected": "UH",
+        "duration": 0.07012900000000011
+      },
+      {
+        "phoneme": "AH",
+        "score": 0.1816,
+        "detected": "CH",
+        "duration": 0.07013000000000025
+      },
+      {
+        "phoneme": "N",
+        "score": 0.6136,
+        "detected": "UH",
+        "duration": 0.03740299999999985
+      },
+      {
+        "phoneme": "T",
+        "score": 0.3481,
+        "detected": "AH",
+        "duration": 0.03740299999999985
+      },
+      {
+        "phoneme": "L",
+        "score": 0.7464,
+        "detected": "Y",
+        "duration": 0.03740200000000016
+      },
+      {
+        "phoneme": "IY",
+        "score": 0.7457,
+        "detected": "D",
+        "duration": 0.0701299999999998
+      }
+    ]
+  },
+  {
+    "word": "studying",
+    "status": "Mispronounced",
+    "score": 48.3,
+    "details": [
+      {
+        "phoneme": "S",
+        "score": 0.5322,
+        "detected": "AH",
+        "duration": 0.0290910000000002
+      },
+      {
+        "phoneme": "T",
+        "score": 0.7544,
+        "detected": "D",
+        "duration": 0.029090999999999756
+      },
+      {
+        "phoneme": "AH",
+        "score": 0.6678,
+        "detected": "G",
+        "duration": 0.054545000000000066
+      },
+      {
+        "phoneme": "D",
+        "score": 0.2158,
+        "detected": "UH",
+        "duration": 0.0290910000000002
+      },
+      {
+        "phoneme": "IY",
+        "score": 0.0901,
+        "detected": "G",
+        "duration": 0.05454599999999976
+      },
+      {
+        "phoneme": "IH",
+        "score": 0.7126,
+        "detected": "CH",
+        "duration": 0.054545000000000066
+      },
+      {
+        "phoneme": "NG",
+        "score": 0.4111,
+        "detected": "P",
+        "duration": 0.0290910000000002
+      }
+    ]
+  },
+  {
+    "word": "in",
+    "status": "Mispronounced",
+    "score": 44.3,
+    "details": [
+      {
+        "phoneme": "IH",
+        "score": 0.3571,
+        "detected": "AY",
+        "duration": 0.16956499999999997
+      },
+      {
+        "phoneme": "N",
+        "score": 0.5292,
+        "detected": "P",
+        "duration": 0.09043499999999982
+      }
+    ]
+  },
+  {
+    "word": "third",
+    "status": "Mispronounced",
+    "score": 59.2,
+    "details": [
+      {
+        "phoneme": "TH",
+        "score": 0.6153,
+        "detected": "EH",
+        "duration": 0.04645199999999994
+      },
+      {
+        "phoneme": "ER",
+        "score": 0.6703,
+        "detected": "W",
+        "duration": 0.08709600000000028
+      },
+      {
+        "phoneme": "D",
+        "score": 0.4909,
+        "detected": "Y",
+        "duration": 0.04645199999999994
+      }
+    ]
+  },
+  {
+    "word": "year",
+    "status": "Needs Improvement",
+    "score": 66.4,
+    "details": [
+      {
+        "phoneme": "Y",
+        "score": 0.6819,
+        "detected": "IY1",
+        "duration": 0.05161299999999969
+      },
+      {
+        "phoneme": "IH",
+        "score": 0.7525,
+        "detected": "EH",
+        "duration": 0.09677400000000036
+      },
+      {
+        "phoneme": "R",
+        "score": 0.5561,
+        "detected": "IY1",
+        "duration": 0.05161299999999969
+      }
+    ]
+  }
+]

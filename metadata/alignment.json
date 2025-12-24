@@ -1,13 +1,13 @@
 [
   {
     "word": "Hello",
-    "start": 0.288,
+    "start": 0.28,
     "end": 0.44
   },
   {
     "word": "everyone,",
     "start": 0.44,
-    "end": 0.96
+    "end": 0.9
   },
   {
     "word": "my",
@@ -27,7 +27,7 @@
   {
     "word": "Harshit.",
     "start": 1.74,
-    "end": 2.14
+    "end": 2.02
   },
   {
     "word": "I",
@@ -51,7 +51,7 @@
   },
   {
     "word": "in",
-    "start": 3.12,
+    "start": 3.18,
     "end": 3.44
   },
   {

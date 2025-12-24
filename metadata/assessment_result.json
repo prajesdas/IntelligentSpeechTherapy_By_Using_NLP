@@ -1,0 +1,420 @@
+{
+  "Overall_score": 67.3,
+  "Week_phonemes": [
+    "IH",
+    "R",
+    "W",
+    "EY",
+    "AH",
+    "OW",
+    "T",
+    "K",
+    "D",
+    "HH",
+    "IY",
+    "M"
+  ],
+  "Week_words": [
+    "Hello",
+    "everyone",
+    "my",
+    "name",
+    "is",
+    "studying",
+    "in"
+  ],
+  "Analysis_Summary": [
+    "In 'Hello', HH (51%) - Sounded like TH",
+    "In 'Hello', OW (0%) - Sounded like N",
+    "In 'everyone', R (10%) - Sounded like OY1",
+    "In 'everyone', W (53%) - Sounded like UW1",
+    "In 'my', M (39%) - Sounded like AH"
+  ],
+  "Detailed_Word_Report": [
+    {
+      "word": "Hello",
+      "status": "Mispronounced",
+      "score": 50.6,
+      "details": [
+        {
+          "phoneme": "HH",
+          "score": 51.7,
+          "detected": "TH",
+          "duration": 0.027825999999999962
+        },
+        {
+          "phoneme": "AH",
+          "score": 64.4,
+          "detected": "G",
+          "duration": 0.052174
+        },
+        {
+          "phoneme": "L",
+          "score": 86.4,
+          "detected": "SH",
+          "duration": 0.027826000000000017
+        },
+        {
+          "phoneme": "OW",
+          "score": 0,
+          "detected": "N",
+          "duration": 0.052174
+        }
+      ]
+    },
+    {
+      "word": "everyone",
+      "status": "Mispronounced",
+      "score": 62.9,
+      "details": [
+        {
+          "phoneme": "EH",
+          "score": 63.5,
+          "detected": "OY",
+          "duration": 0.08961000000000002
+        },
+        {
+          "phoneme": "V",
+          "score": 86.2,
+          "detected": "D",
+          "duration": 0.047792999999999974
+        },
+        {
+          "phoneme": "R",
+          "score": 10.1,
+          "detected": "OY1",
+          "duration": 0.047791999999999946
+        },
+        {
+          "phoneme": "IY",
+          "score": 75.8,
+          "detected": "UH1",
+          "duration": 0.08961000000000008
+        },
+        {
+          "phoneme": "W",
+          "score": 53.9,
+          "detected": "UW1",
+          "duration": 0.047791999999999946
+        },
+        {
+          "phoneme": "AH",
+          "score": 70.6,
+          "detected": "K",
+          "duration": 0.089611
+        },
+        {
+          "phoneme": "N",
+          "score": 80.3,
+          "detected": "AA1",
+          "duration": 0.04779200000000006
+        }
+      ]
+    },
+    {
+      "word": "my",
+      "status": "Mispronounced",
+      "score": 58.4,
+      "details": [
+        {
+          "phoneme": "M",
+          "score": 39.8,
+          "detected": "AH",
+          "duration": 0.027825999999999906
+        },
+        {
+          "phoneme": "AY",
+          "score": 77.0,
+          "detected": "CH",
+          "duration": 0.05217399999999994
+        }
+      ]
+    },
+    {
+      "word": "name",
+      "status": "Mispronounced",
+      "score": 50.9,
+      "details": [
+        {
+          "phoneme": "N",
+          "score": 86.6,
+          "detected": "OW",
+          "duration": 0.04129000000000005
+        },
+        {
+          "phoneme": "EY",
+          "score": 9.5,
+          "detected": "CH",
+          "duration": 0.07742000000000004
+        },
+        {
+          "phoneme": "M",
+          "score": 56.5,
+          "detected": "UW",
+          "duration": 0.04129000000000005
+        }
+      ]
+    },
+    {
+      "word": "is",
+      "status": "Mispronounced",
+      "score": 60.6,
+      "details": [
+        {
+          "phoneme": "IH",
+          "score": 55.2,
+          "detected": "EH",
+          "duration": 0.13043499999999986
+        },
+        {
+          "phoneme": "Z",
+          "score": 65.9,
+          "detected": "P",
+          "duration": 0.0695650000000001
+        }
+      ]
+    },
+    {
+      "word": "Harshit",
+      "status": "Correct",
+      "score": 76.5,
+      "details": [
+        {
+          "phoneme": "HH",
+          "score": 70.5,
+          "detected": "D",
+          "duration": 0.03612900000000008
+        },
+        {
+          "phoneme": "AA",
+          "score": 83.3,
+          "detected": "TH",
+          "duration": 0.06774199999999997
+        },
+        {
+          "phoneme": "R",
+          "score": 75.0,
+          "detected": "TH",
+          "duration": 0.036128999999999856
+        },
+        {
+          "phoneme": "SH",
+          "score": 79.0,
+          "detected": "SH",
+          "duration": 0.03612900000000008
+        },
+        {
+          "phoneme": "AH",
+          "score": 74.1,
+          "detected": "UW",
+          "duration": 0.06774199999999997
+        },
+        {
+          "phoneme": "T",
+          "score": 77.1,
+          "detected": "UH",
+          "duration": 0.03612900000000008
+        }
+      ]
+    },
+    {
+      "word": "I",
+      "status": "Correct",
+      "score": 78.4,
+      "details": [
+        {
+          "phoneme": "AY",
+          "score": 78.4,
+          "detected": "AA",
+          "duration": 0.11999999999999966
+        }
+      ]
+    },
+    {
+      "word": "am",
+      "status": "Correct",
+      "score": 82.8,
+      "details": [
+        {
+          "phoneme": "AE",
+          "score": 83.9,
+          "detected": "K",
+          "duration": 0.09130400000000005
+        },
+        {
+          "phoneme": "M",
+          "score": 81.6,
+          "detected": "EH",
+          "duration": 0.04869600000000007
+        }
+      ]
+    },
+    {
+      "word": "currently",
+      "status": "Correct",
+      "score": 70.8,
+      "details": [
+        {
+          "phoneme": "K",
+          "score": 58.7,
+          "detected": "OY",
+          "duration": 0.03740299999999985
+        },
+        {
+          "phoneme": "ER",
+          "score": 88.3,
+          "detected": "UH",
+          "duration": 0.07012900000000011
+        },
+        {
+          "phoneme": "AH",
+          "score": 45.4,
+          "detected": "CH",
+          "duration": 0.07013000000000025
+        },
+        {
+          "phoneme": "N",
+          "score": 75.8,
+          "detected": "UH",
+          "duration": 0.03740299999999985
+        },
+        {
+          "phoneme": "T",
+          "score": 59.3,
+          "detected": "AH",
+          "duration": 0.03740299999999985
+        },
+        {
+          "phoneme": "L",
+          "score": 84.2,
+          "detected": "Y",
+          "duration": 0.03740200000000016
+        },
+        {
+          "phoneme": "IY",
+          "score": 84.1,
+          "detected": "D",
+          "duration": 0.0701299999999998
+        }
+      ]
+    },
+    {
+      "word": "studying",
+      "status": "Mispronounced",
+      "score": 64.8,
+      "details": [
+        {
+          "phoneme": "S",
+          "score": 70.8,
+          "detected": "AH",
+          "duration": 0.0290910000000002
+        },
+        {
+          "phoneme": "T",
+          "score": 84.7,
+          "detected": "D",
+          "duration": 0.029090999999999756
+        },
+        {
+          "phoneme": "AH",
+          "score": 79.2,
+          "detected": "G",
+          "duration": 0.054545000000000066
+        },
+        {
+          "phoneme": "D",
+          "score": 51.0,
+          "detected": "UH",
+          "duration": 0.0290910000000002
+        },
+        {
+          "phoneme": "IY",
+          "score": 22.5,
+          "detected": "G",
+          "duration": 0.05454599999999976
+        },
+        {
+          "phoneme": "IH",
+          "score": 82.0,
+          "detected": "CH",
+          "duration": 0.054545000000000066
+        },
+        {
+          "phoneme": "NG",
+          "score": 63.2,
+          "detected": "P",
+          "duration": 0.0290910000000002
+        }
+      ]
+    },
+    {
+      "word": "in",
+      "status": "Mispronounced",
+      "score": 65.2,
+      "details": [
+        {
+          "phoneme": "IH",
+          "score": 59.8,
+          "detected": "AY",
+          "duration": 0.16956499999999997
+        },
+        {
+          "phoneme": "N",
+          "score": 70.6,
+          "detected": "P",
+          "duration": 0.09043499999999982
+        }
+      ]
+    },
+    {
+      "word": "third",
+      "status": "Correct",
+      "score": 74.5,
+      "details": [
+        {
+          "phoneme": "TH",
+          "score": 76.0,
+          "detected": "EH",
+          "duration": 0.04645199999999994
+        },
+        {
+          "phoneme": "ER",
+          "score": 79.4,
+          "detected": "W",
+          "duration": 0.08709600000000028
+        },
+        {
+          "phoneme": "D",
+          "score": 68.2,
+          "detected": "Y",
+          "duration": 0.04645199999999994
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "status": "Correct",
+      "score": 79.0,
+      "details": [
+        {
+          "phoneme": "Y",
+          "score": 80.1,
+          "detected": "IY1",
+          "duration": 0.05161299999999969
+        },
+        {
+          "phoneme": "IH",
+          "score": 84.5,
+          "detected": "EH",
+          "duration": 0.09677400000000036
+        },
+        {
+          "phoneme": "R",
+          "score": 72.3,
+          "detected": "IY1",
+          "duration": 0.05161299999999969
+        }
+      ]
+    }
+  ]
+}
