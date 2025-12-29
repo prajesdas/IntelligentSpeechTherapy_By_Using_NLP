@@ -1,67 +1,72 @@
 [
   {
-    "word": "Hello",
-    "start": 0.28,
-    "end": 0.44
+    "word": "The",
+    "start": 0.02,
+    "end": 0.22
   },
   {
-    "word": "everyone,",
-    "start": 0.44,
-    "end": 0.9
+    "word": "cat",
+    "start": 0.22,
+    "end": 0.4
   },
   {
-    "word": "my",
+    "word": "sat",
+    "start": 0.4,
+    "end": 0.52
+  },
+  {
+    "word": "on",
+    "start": 0.52,
+    "end": 0.72
+  },
+  {
+    "word": "the",
+    "start": 0.72,
+    "end": 0.88
+  },
+  {
+    "word": "mat,",
+    "start": 0.88,
+    "end": 1.0
+  },
+  {
+    "word": "she",
     "start": 1.3,
-    "end": 1.38
+    "end": 1.42
   },
   {
-    "word": "name",
-    "start": 1.38,
-    "end": 1.54
+    "word": "sells",
+    "start": 1.42,
+    "end": 1.66
   },
   {
-    "word": "is",
-    "start": 1.54,
-    "end": 1.74
-  },
-  {
-    "word": "Harshit.",
-    "start": 1.74,
-    "end": 2.02
+    "word": "seashells,",
+    "start": 1.66,
+    "end": 2.22
   },
   {
     "word": "I",
-    "start": 2.22,
-    "end": 2.34
+    "start": 2.5,
+    "end": 2.62
   },
   {
-    "word": "am",
-    "start": 2.34,
-    "end": 2.48
+    "word": "like",
+    "start": 2.62,
+    "end": 2.78
   },
   {
-    "word": "currently",
-    "start": 2.48,
-    "end": 2.84
+    "word": "intelligent",
+    "start": 2.78,
+    "end": 3.28
   },
   {
-    "word": "studying",
-    "start": 2.84,
-    "end": 3.12
+    "word": "speech",
+    "start": 3.34,
+    "end": 3.6
   },
   {
-    "word": "in",
-    "start": 3.18,
-    "end": 3.44
-  },
-  {
-    "word": "third",
-    "start": 3.44,
-    "end": 3.62
-  },
-  {
-    "word": "year.",
-    "start": 3.62,
-    "end": 3.82
+    "word": "therapy.",
+    "start": 3.6,
+    "end": 3.94
   }
 ]

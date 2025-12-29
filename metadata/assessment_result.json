@@ -1,418 +1,427 @@
 {
-  "Overall_score": 67.3,
+  "Overall_score": 73.0,
   "Week_phonemes": [
-    "IH",
-    "R",
-    "W",
-    "EY",
+    "P",
+    "S",
+    "AA",
     "AH",
-    "OW",
-    "T",
-    "K",
-    "D",
-    "HH",
-    "IY",
-    "M"
+    "AE"
   ],
   "Week_words": [
-    "Hello",
-    "everyone",
-    "my",
-    "name",
-    "is",
-    "studying",
-    "in"
+    "cat",
+    "sat",
+    "on",
+    "the"
   ],
   "Analysis_Summary": [
-    "In 'Hello', HH (51%) - Sounded like TH",
-    "In 'Hello', OW (0%) - Sounded like N",
-    "In 'everyone', R (10%) - Sounded like OY1",
-    "In 'everyone', W (53%) - Sounded like UW1",
-    "In 'my', M (39%) - Sounded like AH"
+    "In 'cat', AE (0%) - Sounded like IH0",
+    "In 'sat', AE (10%) - Sounded like OY1",
+    "In 'on', AA (53%) - Sounded like UW1",
+    "In 'the', AH (39%) - Sounded like OY1",
+    "In 'intelligent', AH (57%) - Sounded like AY"
   ],
   "Detailed_Word_Report": [
     {
-      "word": "Hello",
-      "status": "Mispronounced",
-      "score": 50.6,
+      "word": "The",
+      "status": "Correct",
+      "score": 72.8,
       "details": [
         {
-          "phoneme": "HH",
-          "score": 51.7,
-          "detected": "TH",
-          "duration": 0.027825999999999962
+          "phoneme": "DH",
+          "score": 81.1,
+          "weight": 1.1,
+          "detected": "B"
         },
         {
           "phoneme": "AH",
           "score": 64.4,
-          "detected": "G",
-          "duration": 0.052174
+          "weight": 1.0,
+          "detected": "AY"
+        }
+      ]
+    },
+    {
+      "word": "cat",
+      "status": "Mispronounced",
+      "score": 49.6,
+      "details": [
+        {
+          "phoneme": "K",
+          "score": 85.4,
+          "weight": 1.2,
+          "detected": "B"
         },
         {
-          "phoneme": "L",
-          "score": 86.4,
-          "detected": "SH",
-          "duration": 0.027826000000000017
-        },
-        {
-          "phoneme": "OW",
+          "phoneme": "AE",
           "score": 0,
-          "detected": "N",
-          "duration": 0.052174
-        }
-      ]
-    },
-    {
-      "word": "everyone",
-      "status": "Mispronounced",
-      "score": 62.9,
-      "details": [
-        {
-          "phoneme": "EH",
-          "score": 63.5,
-          "detected": "OY",
-          "duration": 0.08961000000000002
-        },
-        {
-          "phoneme": "V",
-          "score": 86.2,
-          "detected": "D",
-          "duration": 0.047792999999999974
-        },
-        {
-          "phoneme": "R",
-          "score": 10.1,
-          "detected": "OY1",
-          "duration": 0.047791999999999946
-        },
-        {
-          "phoneme": "IY",
-          "score": 75.8,
-          "detected": "UH1",
-          "duration": 0.08961000000000008
-        },
-        {
-          "phoneme": "W",
-          "score": 53.9,
-          "detected": "UW1",
-          "duration": 0.047791999999999946
-        },
-        {
-          "phoneme": "AH",
-          "score": 70.6,
-          "detected": "K",
-          "duration": 0.089611
-        },
-        {
-          "phoneme": "N",
-          "score": 80.3,
-          "detected": "AA1",
-          "duration": 0.04779200000000006
-        }
-      ]
-    },
-    {
-      "word": "my",
-      "status": "Mispronounced",
-      "score": 58.4,
-      "details": [
-        {
-          "phoneme": "M",
-          "score": 39.8,
-          "detected": "AH",
-          "duration": 0.027825999999999906
-        },
-        {
-          "phoneme": "AY",
-          "score": 77.0,
-          "detected": "CH",
-          "duration": 0.05217399999999994
-        }
-      ]
-    },
-    {
-      "word": "name",
-      "status": "Mispronounced",
-      "score": 50.9,
-      "details": [
-        {
-          "phoneme": "N",
-          "score": 86.6,
-          "detected": "OW",
-          "duration": 0.04129000000000005
-        },
-        {
-          "phoneme": "EY",
-          "score": 9.5,
-          "detected": "CH",
-          "duration": 0.07742000000000004
-        },
-        {
-          "phoneme": "M",
-          "score": 56.5,
-          "detected": "UW",
-          "duration": 0.04129000000000005
-        }
-      ]
-    },
-    {
-      "word": "is",
-      "status": "Mispronounced",
-      "score": 60.6,
-      "details": [
-        {
-          "phoneme": "IH",
-          "score": 55.2,
-          "detected": "EH",
-          "duration": 0.13043499999999986
-        },
-        {
-          "phoneme": "Z",
-          "score": 65.9,
-          "detected": "P",
-          "duration": 0.0695650000000001
-        }
-      ]
-    },
-    {
-      "word": "Harshit",
-      "status": "Correct",
-      "score": 76.5,
-      "details": [
-        {
-          "phoneme": "HH",
-          "score": 70.5,
-          "detected": "D",
-          "duration": 0.03612900000000008
-        },
-        {
-          "phoneme": "AA",
-          "score": 83.3,
-          "detected": "TH",
-          "duration": 0.06774199999999997
-        },
-        {
-          "phoneme": "R",
-          "score": 75.0,
-          "detected": "TH",
-          "duration": 0.036128999999999856
-        },
-        {
-          "phoneme": "SH",
-          "score": 79.0,
-          "detected": "SH",
-          "duration": 0.03612900000000008
-        },
-        {
-          "phoneme": "AH",
-          "score": 74.1,
-          "detected": "UW",
-          "duration": 0.06774199999999997
+          "weight": 1.0,
+          "detected": "IH0"
         },
         {
           "phoneme": "T",
-          "score": 77.1,
-          "detected": "UH",
-          "duration": 0.03612900000000008
+          "score": 63.5,
+          "weight": 1.2,
+          "detected": "AO"
+        }
+      ]
+    },
+    {
+      "word": "sat",
+      "status": "Mispronounced",
+      "score": 59.8,
+      "details": [
+        {
+          "phoneme": "S",
+          "score": 82.9,
+          "weight": 1.1,
+          "detected": "V"
+        },
+        {
+          "phoneme": "AE",
+          "score": 10.1,
+          "weight": 1.0,
+          "detected": "OY1"
+        },
+        {
+          "phoneme": "T",
+          "score": 86.4,
+          "weight": 1.2,
+          "detected": "UH1"
+        }
+      ]
+    },
+    {
+      "word": "on",
+      "status": "Mispronounced",
+      "score": 69.9,
+      "details": [
+        {
+          "phoneme": "AA",
+          "score": 53.9,
+          "weight": 1.0,
+          "detected": "UW1"
+        },
+        {
+          "phoneme": "N",
+          "score": 85.9,
+          "weight": 1.0,
+          "detected": "M"
+        }
+      ]
+    },
+    {
+      "word": "the",
+      "status": "Mispronounced",
+      "score": 58.9,
+      "details": [
+        {
+          "phoneme": "DH",
+          "score": 78.0,
+          "weight": 1.1,
+          "detected": "NG"
+        },
+        {
+          "phoneme": "AH",
+          "score": 39.8,
+          "weight": 1.0,
+          "detected": "OY1"
+        }
+      ]
+    },
+    {
+      "word": "mat",
+      "status": "Correct",
+      "score": 81.4,
+      "details": [
+        {
+          "phoneme": "M",
+          "score": 81.6,
+          "weight": 1.0,
+          "detected": "ZH"
+        },
+        {
+          "phoneme": "AE",
+          "score": 86.3,
+          "weight": 1.0,
+          "detected": "OW"
+        },
+        {
+          "phoneme": "T",
+          "score": 76.4,
+          "weight": 1.2,
+          "detected": "ZH"
+        }
+      ]
+    },
+    {
+      "word": "she",
+      "status": "Correct",
+      "score": 77.9,
+      "details": [
+        {
+          "phoneme": "SH",
+          "score": 75.5,
+          "weight": 1.0,
+          "detected": "P"
+        },
+        {
+          "phoneme": "IY",
+          "score": 80.3,
+          "weight": 1.0,
+          "detected": "Z"
+        }
+      ]
+    },
+    {
+      "word": "sells",
+      "status": "Correct",
+      "score": 84.7,
+      "details": [
+        {
+          "phoneme": "S",
+          "score": 88.7,
+          "weight": 1.1,
+          "detected": "W"
+        },
+        {
+          "phoneme": "EH",
+          "score": 72.2,
+          "weight": 1.0,
+          "detected": "B"
+        },
+        {
+          "phoneme": "L",
+          "score": 86.6,
+          "weight": 1.0,
+          "detected": "OY1"
+        },
+        {
+          "phoneme": "Z",
+          "score": 91.4,
+          "weight": 1.1,
+          "detected": "B"
+        }
+      ]
+    },
+    {
+      "word": "seashells",
+      "status": "Correct",
+      "score": 80.5,
+      "details": [
+        {
+          "phoneme": "S",
+          "score": 89.7,
+          "weight": 1.1,
+          "detected": "B"
+        },
+        {
+          "phoneme": "IY",
+          "score": 83.3,
+          "weight": 1.0,
+          "detected": "AY"
+        },
+        {
+          "phoneme": "SH",
+          "score": 73.8,
+          "weight": 1.0,
+          "detected": "F"
+        },
+        {
+          "phoneme": "EH",
+          "score": 73.5,
+          "weight": 1.0,
+          "detected": "L"
+        },
+        {
+          "phoneme": "L",
+          "score": 87.8,
+          "weight": 1.0,
+          "detected": "K"
+        },
+        {
+          "phoneme": "Z",
+          "score": 75.1,
+          "weight": 1.1,
+          "detected": "Z"
         }
       ]
     },
     {
       "word": "I",
       "status": "Correct",
-      "score": 78.4,
+      "score": 80.1,
       "details": [
         {
           "phoneme": "AY",
-          "score": 78.4,
-          "detected": "AA",
-          "duration": 0.11999999999999966
+          "score": 80.1,
+          "weight": 1.0,
+          "detected": "AE1"
         }
       ]
     },
     {
-      "word": "am",
+      "word": "like",
       "status": "Correct",
-      "score": 82.8,
+      "score": 81.1,
       "details": [
         {
-          "phoneme": "AE",
-          "score": 83.9,
-          "detected": "K",
-          "duration": 0.09130400000000005
+          "phoneme": "L",
+          "score": 88.3,
+          "weight": 1.0,
+          "detected": "F"
         },
         {
-          "phoneme": "M",
-          "score": 81.6,
-          "detected": "EH",
-          "duration": 0.04869600000000007
-        }
-      ]
-    },
-    {
-      "word": "currently",
-      "status": "Correct",
-      "score": 70.8,
-      "details": [
+          "phoneme": "AY",
+          "score": 79.4,
+          "weight": 1.0,
+          "detected": "B"
+        },
         {
           "phoneme": "K",
-          "score": 58.7,
-          "detected": "OY",
-          "duration": 0.03740299999999985
-        },
+          "score": 75.6,
+          "weight": 1.2,
+          "detected": "OY1"
+        }
+      ]
+    },
+    {
+      "word": "intelligent",
+      "status": "Correct",
+      "score": 76.8,
+      "details": [
         {
-          "phoneme": "ER",
-          "score": 88.3,
-          "detected": "UH",
-          "duration": 0.07012900000000011
-        },
-        {
-          "phoneme": "AH",
-          "score": 45.4,
-          "detected": "CH",
-          "duration": 0.07013000000000025
+          "phoneme": "IH",
+          "score": 69.2,
+          "weight": 1.0,
+          "detected": "F"
         },
         {
           "phoneme": "N",
-          "score": 75.8,
-          "detected": "UH",
-          "duration": 0.03740299999999985
+          "score": 84.9,
+          "weight": 1.0,
+          "detected": "S"
         },
         {
           "phoneme": "T",
-          "score": 59.3,
-          "detected": "AH",
-          "duration": 0.03740299999999985
+          "score": 81.5,
+          "weight": 1.2,
+          "detected": "OY1"
+        },
+        {
+          "phoneme": "EH",
+          "score": 70.0,
+          "weight": 1.0,
+          "detected": "OY1"
         },
         {
           "phoneme": "L",
-          "score": 84.2,
-          "detected": "Y",
-          "duration": 0.03740200000000016
-        },
-        {
-          "phoneme": "IY",
-          "score": 84.1,
-          "detected": "D",
-          "duration": 0.0701299999999998
-        }
-      ]
-    },
-    {
-      "word": "studying",
-      "status": "Mispronounced",
-      "score": 64.8,
-      "details": [
-        {
-          "phoneme": "S",
-          "score": 70.8,
-          "detected": "AH",
-          "duration": 0.0290910000000002
-        },
-        {
-          "phoneme": "T",
-          "score": 84.7,
-          "detected": "D",
-          "duration": 0.029090999999999756
+          "score": 85.1,
+          "weight": 1.0,
+          "detected": "B"
         },
         {
           "phoneme": "AH",
-          "score": 79.2,
-          "detected": "G",
-          "duration": 0.054545000000000066
+          "score": 73.5,
+          "weight": 1.0,
+          "detected": "G"
         },
         {
-          "phoneme": "D",
-          "score": 51.0,
-          "detected": "UH",
-          "duration": 0.0290910000000002
+          "phoneme": "JH",
+          "score": 78.8,
+          "weight": 1.0,
+          "detected": "OY1"
         },
         {
-          "phoneme": "IY",
-          "score": 22.5,
-          "detected": "G",
-          "duration": 0.05454599999999976
-        },
-        {
-          "phoneme": "IH",
-          "score": 82.0,
-          "detected": "CH",
-          "duration": 0.054545000000000066
-        },
-        {
-          "phoneme": "NG",
-          "score": 63.2,
-          "detected": "P",
-          "duration": 0.0290910000000002
-        }
-      ]
-    },
-    {
-      "word": "in",
-      "status": "Mispronounced",
-      "score": 65.2,
-      "details": [
-        {
-          "phoneme": "IH",
-          "score": 59.8,
-          "detected": "AY",
-          "duration": 0.16956499999999997
+          "phoneme": "AH",
+          "score": 57.8,
+          "weight": 1.0,
+          "detected": "AY"
         },
         {
           "phoneme": "N",
-          "score": 70.6,
-          "detected": "P",
-          "duration": 0.09043499999999982
+          "score": 80.1,
+          "weight": 1.0,
+          "detected": "B"
+        },
+        {
+          "phoneme": "T",
+          "score": 87.3,
+          "weight": 1.2,
+          "detected": "NG"
         }
       ]
     },
     {
-      "word": "third",
+      "word": "speech",
       "status": "Correct",
-      "score": 74.5,
+      "score": 75.5,
+      "details": [
+        {
+          "phoneme": "S",
+          "score": 59.8,
+          "weight": 1.1,
+          "detected": "G"
+        },
+        {
+          "phoneme": "P",
+          "score": 90.2,
+          "weight": 1.2,
+          "detected": "W"
+        },
+        {
+          "phoneme": "IY",
+          "score": 76.0,
+          "weight": 1.0,
+          "detected": "M"
+        },
+        {
+          "phoneme": "CH",
+          "score": 76.1,
+          "weight": 1.0,
+          "detected": "P"
+        }
+      ]
+    },
+    {
+      "word": "therapy",
+      "status": "Correct",
+      "score": 73.6,
       "details": [
         {
           "phoneme": "TH",
-          "score": 76.0,
-          "detected": "EH",
-          "duration": 0.04645199999999994
+          "score": 81.0,
+          "weight": 1.2,
+          "detected": "IH0"
         },
         {
-          "phoneme": "ER",
-          "score": 79.4,
-          "detected": "W",
-          "duration": 0.08709600000000028
-        },
-        {
-          "phoneme": "D",
-          "score": 68.2,
-          "detected": "Y",
-          "duration": 0.04645199999999994
-        }
-      ]
-    },
-    {
-      "word": "year",
-      "status": "Correct",
-      "score": 79.0,
-      "details": [
-        {
-          "phoneme": "Y",
-          "score": 80.1,
-          "detected": "IY1",
-          "duration": 0.05161299999999969
-        },
-        {
-          "phoneme": "IH",
-          "score": 84.5,
-          "detected": "EH",
-          "duration": 0.09677400000000036
+          "phoneme": "EH",
+          "score": 76.5,
+          "weight": 1.0,
+          "detected": "IY1"
         },
         {
           "phoneme": "R",
-          "score": 72.3,
-          "detected": "IY1",
-          "duration": 0.05161299999999969
+          "score": 83.1,
+          "weight": 1.1,
+          "detected": "L"
+        },
+        {
+          "phoneme": "AH",
+          "score": 65.5,
+          "weight": 1.0,
+          "detected": "IY1"
+        },
+        {
+          "phoneme": "P",
+          "score": 52.8,
+          "weight": 1.2,
+          "detected": "Z"
+        },
+        {
+          "phoneme": "IY",
+          "score": 82.5,
+          "weight": 1.0,
+          "detected": "D"
         }
       ]
     }

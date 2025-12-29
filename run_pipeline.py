@@ -6,7 +6,7 @@ from pathlib import Path
 
 # --- CONFIGURATION ---
 # Change this path to your new audio file!
-AUDIO_FILE = "data/user_audio/WhatsApp Audio 2025-12-09 at 15.14.34_0900bf20.mp3"
+AUDIO_FILE = "data/user_audio/test_user.wav"
 # ---------------------
 
 ROOT = Path(__file__).resolve().parent

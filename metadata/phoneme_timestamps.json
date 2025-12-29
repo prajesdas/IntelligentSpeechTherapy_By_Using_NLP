@@ -1,345 +1,359 @@
 [
   {
     "word_index": 0,
-    "word": "Hello",
-    "phoneme": "HH",
-    "start": 0.28,
-    "end": 0.307826
+    "word": "The",
+    "phoneme": "DH",
+    "start": 0.02,
+    "end": 0.089565
   },
   {
     "word_index": 0,
-    "word": "Hello",
+    "word": "The",
     "phoneme": "AH",
-    "start": 0.307826,
-    "end": 0.36
-  },
-  {
-    "word_index": 0,
-    "word": "Hello",
-    "phoneme": "L",
-    "start": 0.36,
-    "end": 0.387826
-  },
-  {
-    "word_index": 0,
-    "word": "Hello",
-    "phoneme": "OW",
-    "start": 0.387826,
-    "end": 0.44
+    "start": 0.089565,
+    "end": 0.22
   },
   {
     "word_index": 1,
-    "word": "everyone",
-    "phoneme": "EH",
-    "start": 0.44,
-    "end": 0.52961
+    "word": "cat",
+    "phoneme": "K",
+    "start": 0.22,
+    "end": 0.266452
   },
   {
     "word_index": 1,
-    "word": "everyone",
-    "phoneme": "V",
-    "start": 0.52961,
-    "end": 0.577403
+    "word": "cat",
+    "phoneme": "AE",
+    "start": 0.266452,
+    "end": 0.353548
   },
   {
     "word_index": 1,
-    "word": "everyone",
-    "phoneme": "R",
-    "start": 0.577403,
-    "end": 0.625195
-  },
-  {
-    "word_index": 1,
-    "word": "everyone",
-    "phoneme": "IY",
-    "start": 0.625195,
-    "end": 0.714805
-  },
-  {
-    "word_index": 1,
-    "word": "everyone",
-    "phoneme": "W",
-    "start": 0.714805,
-    "end": 0.762597
-  },
-  {
-    "word_index": 1,
-    "word": "everyone",
-    "phoneme": "AH",
-    "start": 0.762597,
-    "end": 0.852208
-  },
-  {
-    "word_index": 1,
-    "word": "everyone",
-    "phoneme": "N",
-    "start": 0.852208,
-    "end": 0.9
-  },
-  {
-    "word_index": 2,
-    "word": "my",
-    "phoneme": "M",
-    "start": 1.3,
-    "end": 1.327826
-  },
-  {
-    "word_index": 2,
-    "word": "my",
-    "phoneme": "AY",
-    "start": 1.327826,
-    "end": 1.38
-  },
-  {
-    "word_index": 3,
-    "word": "name",
-    "phoneme": "N",
-    "start": 1.38,
-    "end": 1.42129
-  },
-  {
-    "word_index": 3,
-    "word": "name",
-    "phoneme": "EY",
-    "start": 1.42129,
-    "end": 1.49871
-  },
-  {
-    "word_index": 3,
-    "word": "name",
-    "phoneme": "M",
-    "start": 1.49871,
-    "end": 1.54
-  },
-  {
-    "word_index": 4,
-    "word": "is",
-    "phoneme": "IH",
-    "start": 1.54,
-    "end": 1.670435
-  },
-  {
-    "word_index": 4,
-    "word": "is",
-    "phoneme": "Z",
-    "start": 1.670435,
-    "end": 1.74
-  },
-  {
-    "word_index": 5,
-    "word": "Harshit",
-    "phoneme": "HH",
-    "start": 1.74,
-    "end": 1.776129
-  },
-  {
-    "word_index": 5,
-    "word": "Harshit",
-    "phoneme": "AA",
-    "start": 1.776129,
-    "end": 1.843871
-  },
-  {
-    "word_index": 5,
-    "word": "Harshit",
-    "phoneme": "R",
-    "start": 1.843871,
-    "end": 1.88
-  },
-  {
-    "word_index": 5,
-    "word": "Harshit",
-    "phoneme": "SH",
-    "start": 1.88,
-    "end": 1.916129
-  },
-  {
-    "word_index": 5,
-    "word": "Harshit",
-    "phoneme": "AH",
-    "start": 1.916129,
-    "end": 1.983871
-  },
-  {
-    "word_index": 5,
-    "word": "Harshit",
+    "word": "cat",
     "phoneme": "T",
-    "start": 1.983871,
-    "end": 2.02
+    "start": 0.353548,
+    "end": 0.4
+  },
+  {
+    "word_index": 2,
+    "word": "sat",
+    "phoneme": "S",
+    "start": 0.4,
+    "end": 0.430968
+  },
+  {
+    "word_index": 2,
+    "word": "sat",
+    "phoneme": "AE",
+    "start": 0.430968,
+    "end": 0.489032
+  },
+  {
+    "word_index": 2,
+    "word": "sat",
+    "phoneme": "T",
+    "start": 0.489032,
+    "end": 0.52
+  },
+  {
+    "word_index": 3,
+    "word": "on",
+    "phoneme": "AA",
+    "start": 0.52,
+    "end": 0.650435
+  },
+  {
+    "word_index": 3,
+    "word": "on",
+    "phoneme": "N",
+    "start": 0.650435,
+    "end": 0.72
+  },
+  {
+    "word_index": 4,
+    "word": "the",
+    "phoneme": "DH",
+    "start": 0.72,
+    "end": 0.775652
+  },
+  {
+    "word_index": 4,
+    "word": "the",
+    "phoneme": "AH",
+    "start": 0.775652,
+    "end": 0.88
+  },
+  {
+    "word_index": 5,
+    "word": "mat",
+    "phoneme": "M",
+    "start": 0.88,
+    "end": 0.910968
+  },
+  {
+    "word_index": 5,
+    "word": "mat",
+    "phoneme": "AE",
+    "start": 0.910968,
+    "end": 0.969032
+  },
+  {
+    "word_index": 5,
+    "word": "mat",
+    "phoneme": "T",
+    "start": 0.969032,
+    "end": 1.0
   },
   {
     "word_index": 6,
+    "word": "she",
+    "phoneme": "SH",
+    "start": 1.3,
+    "end": 1.341739
+  },
+  {
+    "word_index": 6,
+    "word": "she",
+    "phoneme": "IY",
+    "start": 1.341739,
+    "end": 1.42
+  },
+  {
+    "word_index": 7,
+    "word": "sells",
+    "phoneme": "S",
+    "start": 1.42,
+    "end": 1.469231
+  },
+  {
+    "word_index": 7,
+    "word": "sells",
+    "phoneme": "EH",
+    "start": 1.469231,
+    "end": 1.561538
+  },
+  {
+    "word_index": 7,
+    "word": "sells",
+    "phoneme": "L",
+    "start": 1.561538,
+    "end": 1.610769
+  },
+  {
+    "word_index": 7,
+    "word": "sells",
+    "phoneme": "Z",
+    "start": 1.610769,
+    "end": 1.66
+  },
+  {
+    "word_index": 8,
+    "word": "seashells",
+    "phoneme": "S",
+    "start": 1.66,
+    "end": 1.732258
+  },
+  {
+    "word_index": 8,
+    "word": "seashells",
+    "phoneme": "IY",
+    "start": 1.732258,
+    "end": 1.867742
+  },
+  {
+    "word_index": 8,
+    "word": "seashells",
+    "phoneme": "SH",
+    "start": 1.867742,
+    "end": 1.94
+  },
+  {
+    "word_index": 8,
+    "word": "seashells",
+    "phoneme": "EH",
+    "start": 1.94,
+    "end": 2.075484
+  },
+  {
+    "word_index": 8,
+    "word": "seashells",
+    "phoneme": "L",
+    "start": 2.075484,
+    "end": 2.147742
+  },
+  {
+    "word_index": 8,
+    "word": "seashells",
+    "phoneme": "Z",
+    "start": 2.147742,
+    "end": 2.22
+  },
+  {
+    "word_index": 9,
     "word": "I",
     "phoneme": "AY",
-    "start": 2.22,
-    "end": 2.34
+    "start": 2.5,
+    "end": 2.62
   },
   {
-    "word_index": 7,
-    "word": "am",
-    "phoneme": "AE",
-    "start": 2.34,
-    "end": 2.431304
-  },
-  {
-    "word_index": 7,
-    "word": "am",
-    "phoneme": "M",
-    "start": 2.431304,
-    "end": 2.48
-  },
-  {
-    "word_index": 8,
-    "word": "currently",
-    "phoneme": "K",
-    "start": 2.48,
-    "end": 2.517403
-  },
-  {
-    "word_index": 8,
-    "word": "currently",
-    "phoneme": "ER",
-    "start": 2.517403,
-    "end": 2.587532
-  },
-  {
-    "word_index": 8,
-    "word": "currently",
-    "phoneme": "AH",
-    "start": 2.587532,
-    "end": 2.657662
-  },
-  {
-    "word_index": 8,
-    "word": "currently",
-    "phoneme": "N",
-    "start": 2.657662,
-    "end": 2.695065
-  },
-  {
-    "word_index": 8,
-    "word": "currently",
-    "phoneme": "T",
-    "start": 2.695065,
-    "end": 2.732468
-  },
-  {
-    "word_index": 8,
-    "word": "currently",
+    "word_index": 10,
+    "word": "like",
     "phoneme": "L",
-    "start": 2.732468,
-    "end": 2.76987
-  },
-  {
-    "word_index": 8,
-    "word": "currently",
-    "phoneme": "IY",
-    "start": 2.76987,
-    "end": 2.84
-  },
-  {
-    "word_index": 9,
-    "word": "studying",
-    "phoneme": "S",
-    "start": 2.84,
-    "end": 2.869091
-  },
-  {
-    "word_index": 9,
-    "word": "studying",
-    "phoneme": "T",
-    "start": 2.869091,
-    "end": 2.898182
-  },
-  {
-    "word_index": 9,
-    "word": "studying",
-    "phoneme": "AH",
-    "start": 2.898182,
-    "end": 2.952727
-  },
-  {
-    "word_index": 9,
-    "word": "studying",
-    "phoneme": "D",
-    "start": 2.952727,
-    "end": 2.981818
-  },
-  {
-    "word_index": 9,
-    "word": "studying",
-    "phoneme": "IY",
-    "start": 2.981818,
-    "end": 3.036364
-  },
-  {
-    "word_index": 9,
-    "word": "studying",
-    "phoneme": "IH",
-    "start": 3.036364,
-    "end": 3.090909
-  },
-  {
-    "word_index": 9,
-    "word": "studying",
-    "phoneme": "NG",
-    "start": 3.090909,
-    "end": 3.12
+    "start": 2.62,
+    "end": 2.66129
   },
   {
     "word_index": 10,
-    "word": "in",
-    "phoneme": "IH",
-    "start": 3.18,
-    "end": 3.349565
+    "word": "like",
+    "phoneme": "AY",
+    "start": 2.66129,
+    "end": 2.73871
   },
   {
     "word_index": 10,
-    "word": "in",
+    "word": "like",
+    "phoneme": "K",
+    "start": 2.73871,
+    "end": 2.78
+  },
+  {
+    "word_index": 11,
+    "word": "intelligent",
+    "phoneme": "IH",
+    "start": 2.78,
+    "end": 2.849444
+  },
+  {
+    "word_index": 11,
+    "word": "intelligent",
     "phoneme": "N",
-    "start": 3.349565,
-    "end": 3.44
+    "start": 2.849444,
+    "end": 2.886481
   },
   {
     "word_index": 11,
-    "word": "third",
+    "word": "intelligent",
+    "phoneme": "T",
+    "start": 2.886481,
+    "end": 2.923519
+  },
+  {
+    "word_index": 11,
+    "word": "intelligent",
+    "phoneme": "EH",
+    "start": 2.923519,
+    "end": 2.992963
+  },
+  {
+    "word_index": 11,
+    "word": "intelligent",
+    "phoneme": "L",
+    "start": 2.992963,
+    "end": 3.03
+  },
+  {
+    "word_index": 11,
+    "word": "intelligent",
+    "phoneme": "AH",
+    "start": 3.03,
+    "end": 3.099444
+  },
+  {
+    "word_index": 11,
+    "word": "intelligent",
+    "phoneme": "JH",
+    "start": 3.099444,
+    "end": 3.136481
+  },
+  {
+    "word_index": 11,
+    "word": "intelligent",
+    "phoneme": "AH",
+    "start": 3.136481,
+    "end": 3.205926
+  },
+  {
+    "word_index": 11,
+    "word": "intelligent",
+    "phoneme": "N",
+    "start": 3.205926,
+    "end": 3.242963
+  },
+  {
+    "word_index": 11,
+    "word": "intelligent",
+    "phoneme": "T",
+    "start": 3.242963,
+    "end": 3.28
+  },
+  {
+    "word_index": 12,
+    "word": "speech",
+    "phoneme": "S",
+    "start": 3.34,
+    "end": 3.393333
+  },
+  {
+    "word_index": 12,
+    "word": "speech",
+    "phoneme": "P",
+    "start": 3.393333,
+    "end": 3.446667
+  },
+  {
+    "word_index": 12,
+    "word": "speech",
+    "phoneme": "IY",
+    "start": 3.446667,
+    "end": 3.546667
+  },
+  {
+    "word_index": 12,
+    "word": "speech",
+    "phoneme": "CH",
+    "start": 3.546667,
+    "end": 3.6
+  },
+  {
+    "word_index": 13,
+    "word": "therapy",
     "phoneme": "TH",
-    "start": 3.44,
-    "end": 3.486452
+    "start": 3.6,
+    "end": 3.63942
   },
   {
-    "word_index": 11,
-    "word": "third",
-    "phoneme": "ER",
-    "start": 3.486452,
-    "end": 3.573548
+    "word_index": 13,
+    "word": "therapy",
+    "phoneme": "EH",
+    "start": 3.63942,
+    "end": 3.713333
   },
   {
-    "word_index": 11,
-    "word": "third",
-    "phoneme": "D",
-    "start": 3.573548,
-    "end": 3.62
-  },
-  {
-    "word_index": 12,
-    "word": "year",
-    "phoneme": "Y",
-    "start": 3.62,
-    "end": 3.671613
-  },
-  {
-    "word_index": 12,
-    "word": "year",
-    "phoneme": "IH",
-    "start": 3.671613,
-    "end": 3.768387
-  },
-  {
-    "word_index": 12,
-    "word": "year",
+    "word_index": 13,
+    "word": "therapy",
     "phoneme": "R",
-    "start": 3.768387,
-    "end": 3.82
+    "start": 3.713333,
+    "end": 3.752754
+  },
+  {
+    "word_index": 13,
+    "word": "therapy",
+    "phoneme": "AH",
+    "start": 3.752754,
+    "end": 3.826667
+  },
+  {
+    "word_index": 13,
+    "word": "therapy",
+    "phoneme": "P",
+    "start": 3.826667,
+    "end": 3.866087
+  },
+  {
+    "word_index": 13,
+    "word": "therapy",
+    "phoneme": "IY",
+    "start": 3.866087,
+    "end": 3.94
   }
 ]

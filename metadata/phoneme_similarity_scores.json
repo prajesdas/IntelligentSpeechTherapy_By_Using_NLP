@@ -2,168 +2,168 @@
   {
     "file": "0000_five_F.wav",
     "phoneme": "F",
-    "similarity": 0.7199,
-    "best_match_phoneme": "DH",
-    "best_match_score": 0.7927
+    "similarity": 0.5816,
+    "best_match_phoneme": "OW",
+    "best_match_score": 0.8314
   },
   {
     "file": "0000_hello_HH.wav",
     "phoneme": "HH",
-    "similarity": 0.1361,
+    "similarity": 0.343,
     "best_match_phoneme": "UH1",
     "best_match_score": 0.8609
   },
   {
     "file": "0000_the_DH.wav",
     "phoneme": "DH",
-    "similarity": 0.2275,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9666
+    "similarity": 0.6981,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9079
   },
   {
     "file": "0001_five_AY.wav",
     "phoneme": "AY",
-    "similarity": 0.6443,
-    "best_match_phoneme": "OY",
-    "best_match_score": 0.8808
+    "similarity": 0.7894,
+    "best_match_phoneme": "AO",
+    "best_match_score": 0.865
   },
   {
     "file": "0001_hello_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.3933,
-    "best_match_phoneme": "IH0",
-    "best_match_score": 0.8584
+    "similarity": 0.622,
+    "best_match_phoneme": "UW",
+    "best_match_score": 0.8685
   },
   {
     "file": "0001_hello_AH0.wav",
     "phoneme": "AH0",
     "similarity": 0.1941,
-    "best_match_phoneme": "N",
-    "best_match_score": 0.8807
+    "best_match_phoneme": "UW1",
+    "best_match_score": 0.8355
   },
   {
     "file": "0001_the_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.2337,
-    "best_match_phoneme": "G",
-    "best_match_score": 0.7564
+    "similarity": 0.5321,
+    "best_match_phoneme": "AY",
+    "best_match_score": 0.7881
   },
   {
     "file": "0001_the_AH0.wav",
     "phoneme": "AH0",
     "similarity": 0.4299,
-    "best_match_phoneme": "G",
-    "best_match_score": 0.7564
+    "best_match_phoneme": "AY",
+    "best_match_score": 0.7881
   },
   {
     "file": "0002_cat_K.wav",
     "phoneme": "K",
-    "similarity": 0.3464,
+    "similarity": 0.3095,
     "best_match_phoneme": "AA1",
     "best_match_score": 0.5089
   },
   {
     "file": "0002_five_V.wav",
     "phoneme": "V",
-    "similarity": 0.3592,
-    "best_match_phoneme": "ZH",
-    "best_match_score": 0.7994
+    "similarity": 0.6443,
+    "best_match_phoneme": "P",
+    "best_match_score": 0.8633
   },
   {
     "file": "0002_hello_L.wav",
     "phoneme": "L",
-    "similarity": 0.7819,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8365
+    "similarity": 0.7657,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9037
   },
   {
     "file": "0003_big_B.wav",
     "phoneme": "B",
-    "similarity": 0.4658,
-    "best_match_phoneme": "F",
-    "best_match_score": 0.771
+    "similarity": 0.6219,
+    "best_match_phoneme": "M",
+    "best_match_score": 0.7677
   },
   {
     "file": "0003_cat_AE.wav",
     "phoneme": "AE",
-    "similarity": 0.7712,
+    "similarity": 0.7931,
     "best_match_phoneme": "HH",
-    "best_match_score": 0.8116
+    "best_match_score": 0.8278
   },
   {
     "file": "0003_cat_AE1.wav",
     "phoneme": "AE1",
     "similarity": 0.6495,
     "best_match_phoneme": "HH",
-    "best_match_score": 0.8116
+    "best_match_score": 0.8278
   },
   {
     "file": "0003_hello_OW.wav",
     "phoneme": "OW",
-    "similarity": 0.1762,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.8466
+    "similarity": 0.4147,
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.8971
   },
   {
     "file": "0003_hello_OW1.wav",
     "phoneme": "OW1",
     "similarity": 0.0,
-    "best_match_phoneme": "N",
-    "best_match_score": 0.9129
+    "best_match_phoneme": "IH0",
+    "best_match_score": 0.8525
   },
   {
     "file": "0004_big_IH.wav",
     "phoneme": "IH",
-    "similarity": 0.1461,
+    "similarity": 0.404,
     "best_match_phoneme": "AE1",
     "best_match_score": 0.8327
   },
   {
     "file": "0004_cat_T.wav",
     "phoneme": "T",
-    "similarity": 0.7062,
+    "similarity": 0.8343,
     "best_match_phoneme": "UW1",
     "best_match_score": 0.9497
   },
   {
     "file": "0004_everyone_EH.wav",
     "phoneme": "EH",
-    "similarity": 0.7219,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.8432
+    "similarity": 0.63,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8116
   },
   {
     "file": "0004_everyone_EH1.wav",
     "phoneme": "EH1",
     "similarity": 0.4164,
-    "best_match_phoneme": "OY",
-    "best_match_score": 0.8206
+    "best_match_phoneme": "AO",
+    "best_match_score": 0.8321
   },
   {
     "file": "0005_big_G.wav",
     "phoneme": "G",
-    "similarity": 0.164,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9253
+    "similarity": 0.5886,
+    "best_match_phoneme": "F",
+    "best_match_score": 0.8357
   },
   {
     "file": "0005_everyone_V.wav",
     "phoneme": "V",
-    "similarity": 0.4311,
-    "best_match_phoneme": "W",
-    "best_match_score": 0.8291
+    "similarity": 0.6286,
+    "best_match_phoneme": "P",
+    "best_match_score": 0.825
   },
   {
     "file": "0005_sat_S.wav",
     "phoneme": "S",
-    "similarity": 0.7787,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.8515
+    "similarity": 0.7262,
+    "best_match_phoneme": "V",
+    "best_match_score": 0.9067
   },
   {
     "file": "0006_birds_B.wav",
     "phoneme": "B",
-    "similarity": 0.8093,
+    "similarity": 0.6596,
     "best_match_phoneme": "UH1",
     "best_match_score": 0.9174
   },
@@ -171,13 +171,13 @@
     "file": "0006_everyone_R.wav",
     "phoneme": "R",
     "similarity": 0.6983,
-    "best_match_phoneme": "P",
-    "best_match_score": 0.8848
+    "best_match_phoneme": "W",
+    "best_match_score": 0.9095
   },
   {
     "file": "0006_sat_AE.wav",
     "phoneme": "AE",
-    "similarity": 0.3265,
+    "similarity": 0.3688,
     "best_match_phoneme": "OY1",
     "best_match_score": 0.9158
   },
@@ -191,49 +191,49 @@
   {
     "file": "0007_birds_ER.wav",
     "phoneme": "ER",
-    "similarity": 0.6013,
-    "best_match_phoneme": "OW",
-    "best_match_score": 0.8647
+    "similarity": 0.7621,
+    "best_match_phoneme": "OY",
+    "best_match_score": 0.8381
   },
   {
     "file": "0007_everyone_IY.wav",
     "phoneme": "IY",
     "similarity": 0.511,
-    "best_match_phoneme": "IH",
-    "best_match_score": 0.8169
+    "best_match_phoneme": "K",
+    "best_match_score": 0.8722
   },
   {
     "file": "0007_everyone_IY0.wav",
     "phoneme": "IY0",
     "similarity": 0.5609,
-    "best_match_phoneme": "AW",
-    "best_match_score": 0.8211
+    "best_match_phoneme": "UW",
+    "best_match_score": 0.8993
   },
   {
     "file": "0007_sat_T.wav",
     "phoneme": "T",
-    "similarity": 0.613,
+    "similarity": 0.7821,
     "best_match_phoneme": "UH1",
     "best_match_score": 0.8866
   },
   {
     "file": "0008_birds_D.wav",
     "phoneme": "D",
-    "similarity": 0.7777,
+    "similarity": 0.7178,
     "best_match_phoneme": "UH1",
     "best_match_score": 0.9255
   },
   {
     "file": "0008_everyone_W.wav",
     "phoneme": "W",
-    "similarity": 0.6077,
+    "similarity": 0.527,
     "best_match_phoneme": "UH1",
     "best_match_score": 0.9131
   },
   {
     "file": "0008_on_AA.wav",
     "phoneme": "AA",
-    "similarity": 0.4762,
+    "similarity": 0.5332,
     "best_match_phoneme": "UW1",
     "best_match_score": 0.8836
   },
@@ -247,499 +247,499 @@
   {
     "file": "0009_birds_Z.wav",
     "phoneme": "Z",
-    "similarity": 0.5233,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.847
+    "similarity": 0.6134,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.7471
   },
   {
     "file": "0009_everyone_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.6017,
-    "best_match_phoneme": "OY1",
-    "best_match_score": 0.7128
+    "similarity": 0.7265,
+    "best_match_phoneme": "K",
+    "best_match_score": 0.8196
   },
   {
     "file": "0009_everyone_AH2.wav",
     "phoneme": "AH2",
     "similarity": 0.0,
     "best_match_phoneme": "G",
-    "best_match_score": 0.7296
+    "best_match_score": 0.7494
   },
   {
     "file": "0009_on_N.wav",
     "phoneme": "N",
-    "similarity": 0.5301,
-    "best_match_phoneme": "K",
-    "best_match_score": 0.7876
+    "similarity": 0.7751,
+    "best_match_phoneme": "M",
+    "best_match_score": 0.8548
   },
   {
     "file": "0010_everyone_N.wav",
     "phoneme": "N",
-    "similarity": 0.6961,
-    "best_match_phoneme": "EY",
-    "best_match_score": 0.8042
+    "similarity": 0.6733,
+    "best_match_phoneme": "T",
+    "best_match_score": 0.8416
   },
   {
     "file": "0010_flew_F.wav",
     "phoneme": "F",
-    "similarity": 0.4037,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8859
+    "similarity": 0.6566,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8715
   },
   {
     "file": "0010_the_DH.wav",
     "phoneme": "DH",
-    "similarity": 0.6843,
-    "best_match_phoneme": "AA1",
-    "best_match_score": 0.8164
+    "similarity": 0.6481,
+    "best_match_phoneme": "NG",
+    "best_match_score": 0.837
   },
   {
     "file": "0011_everyone_,.wav",
     "phoneme": ",",
     "similarity": 0.0,
-    "best_match_phoneme": "HH",
-    "best_match_score": 0.8167
+    "best_match_phoneme": "AO",
+    "best_match_score": 0.7959
   },
   {
     "file": "0011_flew_L.wav",
     "phoneme": "L",
-    "similarity": 0.2884,
-    "best_match_phoneme": "IH0",
-    "best_match_score": 0.8447
+    "similarity": 0.3443,
+    "best_match_phoneme": "UW",
+    "best_match_score": 0.859
   },
   {
     "file": "0011_my_M.wav",
     "phoneme": "M",
-    "similarity": 0.7276,
-    "best_match_phoneme": "W",
-    "best_match_score": 0.8598
+    "similarity": 0.6286,
+    "best_match_phoneme": "UW",
+    "best_match_score": 0.8897
   },
   {
     "file": "0011_the_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.9553,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9553
+    "similarity": 0.6846,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8628
   },
   {
     "file": "0011_the_AH0.wav",
     "phoneme": "AH0",
     "similarity": 0.1593,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9553
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8628
   },
   {
     "file": "0012_flew_UW.wav",
     "phoneme": "UW",
-    "similarity": 0.5274,
-    "best_match_phoneme": "OW",
-    "best_match_score": 0.8176
+    "similarity": 0.4447,
+    "best_match_phoneme": "OY",
+    "best_match_score": 0.8079
   },
   {
     "file": "0012_mat_M.wav",
     "phoneme": "M",
-    "similarity": 0.7906,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.9117
+    "similarity": 0.6627,
+    "best_match_phoneme": "V",
+    "best_match_score": 0.862
   },
   {
     "file": "0012_my_AY.wav",
     "phoneme": "AY",
-    "similarity": 0.1524,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.8957
+    "similarity": 0.3231,
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.929
   },
   {
     "file": "0012_my_M.wav",
     "phoneme": "M",
-    "similarity": 0.6327,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9118
+    "similarity": 0.7053,
+    "best_match_phoneme": "ZH",
+    "best_match_score": 0.9588
   },
   {
     "file": "0013_mat_AE.wav",
     "phoneme": "AE",
-    "similarity": 0.3758,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.903
+    "similarity": 0.4352,
+    "best_match_phoneme": "CH",
+    "best_match_score": 0.9081
   },
   {
     "file": "0013_mat_AE1.wav",
     "phoneme": "AE1",
     "similarity": 0.0786,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.903
+    "best_match_phoneme": "CH",
+    "best_match_score": 0.9081
   },
   {
     "file": "0013_my_AY1.wav",
     "phoneme": "AY1",
     "similarity": 0.4701,
-    "best_match_phoneme": "F",
-    "best_match_score": 0.8089
+    "best_match_phoneme": "AH",
+    "best_match_score": 0.8408
   },
   {
     "file": "0013_name_N.wav",
     "phoneme": "N",
-    "similarity": 0.3776,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.8642
+    "similarity": 0.6657,
+    "best_match_phoneme": "ZH",
+    "best_match_score": 0.9065
   },
   {
     "file": "0013_over_OW.wav",
     "phoneme": "OW",
-    "similarity": 0.7862,
+    "similarity": 0.7802,
     "best_match_phoneme": "OW",
-    "best_match_score": 0.7862
+    "best_match_score": 0.7802
   },
   {
     "file": "0014_mat_T.wav",
     "phoneme": "T",
-    "similarity": 0.6,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.8571
+    "similarity": 0.4971,
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.8284
   },
   {
     "file": "0014_name_EY.wav",
     "phoneme": "EY",
-    "similarity": 0.5306,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.7084
+    "similarity": 0.3847,
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.6993
   },
   {
     "file": "0014_name_N.wav",
     "phoneme": "N",
-    "similarity": 0.3934,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.9481
+    "similarity": 0.7946,
+    "best_match_phoneme": "L",
+    "best_match_score": 0.9445
   },
   {
     "file": "0014_over_V.wav",
     "phoneme": "V",
-    "similarity": 0.0382,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9461
+    "similarity": 0.6228,
+    "best_match_phoneme": "ZH",
+    "best_match_score": 0.8616
   },
   {
     "file": "0015_mat_,.wav",
     "phoneme": ",",
     "similarity": 0.0,
-    "best_match_phoneme": "M",
-    "best_match_score": 0.9617
+    "best_match_phoneme": "UW1",
+    "best_match_score": 0.9164
   },
   {
     "file": "0015_name_EY1.wav",
     "phoneme": "EY1",
     "similarity": 0.0,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9307
+    "best_match_phoneme": "CH",
+    "best_match_score": 0.7769
   },
   {
     "file": "0015_name_M.wav",
     "phoneme": "M",
-    "similarity": 0.6507,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9449
+    "similarity": 0.668,
+    "best_match_phoneme": "ZH",
+    "best_match_score": 0.8657
   },
   {
     "file": "0015_over_ER.wav",
     "phoneme": "ER",
-    "similarity": 0.6903,
-    "best_match_phoneme": "M",
-    "best_match_score": 0.7175
+    "similarity": 0.5385,
+    "best_match_phoneme": "D",
+    "best_match_score": 0.7591
   },
   {
     "file": "0015_she_SH.wav",
     "phoneme": "SH",
-    "similarity": 0.3038,
-    "best_match_phoneme": "UW",
-    "best_match_score": 0.755
+    "similarity": 0.6073,
+    "best_match_phoneme": "P",
+    "best_match_score": 0.7723
   },
   {
     "file": "0016_is_IH.wav",
     "phoneme": "IH",
-    "similarity": 0.4508,
-    "best_match_phoneme": "AW",
-    "best_match_score": 0.721
+    "similarity": 0.4708,
+    "best_match_phoneme": "UW",
+    "best_match_score": 0.7126
   },
   {
     "file": "0016_name_M.wav",
     "phoneme": "M",
-    "similarity": 0.7452,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8197
+    "similarity": 0.7098,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8895
   },
   {
     "file": "0016_she_IY.wav",
     "phoneme": "IY",
     "similarity": 0.3835,
-    "best_match_phoneme": "NG",
-    "best_match_score": 0.9241
+    "best_match_phoneme": "L",
+    "best_match_score": 0.8691
   },
   {
     "file": "0016_she_IY1.wav",
     "phoneme": "IY1",
     "similarity": 0.5822,
-    "best_match_phoneme": "NG",
-    "best_match_score": 0.9241
+    "best_match_phoneme": "L",
+    "best_match_score": 0.8691
   },
   {
     "file": "0016_she_SH.wav",
     "phoneme": "SH",
-    "similarity": 0.6238,
+    "similarity": 0.6909,
     "best_match_phoneme": "IY1",
     "best_match_score": 0.8607
   },
   {
     "file": "0016_the_DH.wav",
     "phoneme": "DH",
-    "similarity": 0.2839,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.907
+    "similarity": 0.6852,
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.9001
   },
   {
     "file": "0017_is_IH1.wav",
     "phoneme": "IH1",
     "similarity": 0.37,
-    "best_match_phoneme": "DH",
-    "best_match_score": 0.8344
+    "best_match_phoneme": "OW",
+    "best_match_score": 0.8627
   },
   {
     "file": "0017_is_Z.wav",
     "phoneme": "Z",
-    "similarity": 0.5891,
-    "best_match_phoneme": "AW",
-    "best_match_score": 0.7345
+    "similarity": 0.2162,
+    "best_match_phoneme": "UW",
+    "best_match_score": 0.7313
   },
   {
     "file": "0017_sells_S.wav",
     "phoneme": "S",
-    "similarity": 0.6063,
+    "similarity": 0.7244,
     "best_match_phoneme": "K",
-    "best_match_score": 0.9054
+    "best_match_score": 0.8948
   },
   {
     "file": "0017_she_IY1.wav",
     "phoneme": "IY1",
     "similarity": 0.5987,
     "best_match_phoneme": "D",
-    "best_match_score": 0.8606
+    "best_match_score": 0.8456
   },
   {
     "file": "0017_the_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.455,
-    "best_match_phoneme": "P",
-    "best_match_score": 0.8684
+    "similarity": 0.8196,
+    "best_match_phoneme": "W",
+    "best_match_score": 0.9055
   },
   {
     "file": "0018_harshit_HH.wav",
     "phoneme": "HH",
-    "similarity": 0.4489,
-    "best_match_phoneme": "JH",
-    "best_match_score": 0.7021
+    "similarity": 0.5959,
+    "best_match_phoneme": "T",
+    "best_match_score": 0.7242
   },
   {
     "file": "0018_is_Z.wav",
     "phoneme": "Z",
-    "similarity": 0.7381,
-    "best_match_phoneme": "M",
-    "best_match_score": 0.8694
+    "similarity": 0.6792,
+    "best_match_phoneme": "IH",
+    "best_match_score": 0.8793
   },
   {
     "file": "0018_river_R.wav",
     "phoneme": "R",
     "similarity": 0.3859,
-    "best_match_phoneme": "W",
-    "best_match_score": 0.6824
+    "best_match_phoneme": "UW",
+    "best_match_score": 0.6606
   },
   {
     "file": "0018_sells_EH.wav",
     "phoneme": "EH",
-    "similarity": 0.831,
-    "best_match_phoneme": "K",
-    "best_match_score": 0.9466
+    "similarity": 0.7779,
+    "best_match_phoneme": "L",
+    "best_match_score": 0.8915
   },
   {
     "file": "0018_sells_EH1.wav",
     "phoneme": "EH1",
     "similarity": 0.3254,
-    "best_match_phoneme": "K",
-    "best_match_score": 0.9466
+    "best_match_phoneme": "L",
+    "best_match_score": 0.8915
   },
   {
     "file": "0018_sells_S.wav",
     "phoneme": "S",
-    "similarity": 0.5282,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.8714
+    "similarity": 0.5554,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9323
   },
   {
     "file": "0019_harshit_AA.wav",
     "phoneme": "AA",
-    "similarity": 0.9288,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.9288
+    "similarity": 0.7487,
+    "best_match_phoneme": "ZH",
+    "best_match_score": 0.8899
   },
   {
     "file": "0019_harshit_HH.wav",
     "phoneme": "HH",
-    "similarity": 0.2263,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.9289
+    "similarity": 0.3612,
+    "best_match_phoneme": "L",
+    "best_match_score": 0.9238
   },
   {
     "file": "0019_river_IH.wav",
     "phoneme": "IH",
-    "similarity": 0.8321,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.9114
+    "similarity": 0.7616,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9115
   },
   {
     "file": "0019_sells_EH1.wav",
     "phoneme": "EH1",
     "similarity": 0.1788,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9541
+    "best_match_phoneme": "ZH",
+    "best_match_score": 0.8862
   },
   {
     "file": "0019_sells_L.wav",
     "phoneme": "L",
-    "similarity": 0.7322,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9608
+    "similarity": 0.7855,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8802
   },
   {
     "file": "0020_harshit_AA1.wav",
     "phoneme": "AA1",
     "similarity": 0.4373,
-    "best_match_phoneme": "NG",
-    "best_match_score": 0.9497
+    "best_match_phoneme": "L",
+    "best_match_score": 0.8744
   },
   {
     "file": "0020_harshit_R.wav",
     "phoneme": "R",
     "similarity": 0.5472,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9114
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8698
   },
   {
     "file": "0020_river_V.wav",
     "phoneme": "V",
-    "similarity": 0.0467,
+    "similarity": 0.8111,
     "best_match_phoneme": "UH1",
     "best_match_score": 0.8159
   },
   {
     "file": "0020_sells_L.wav",
     "phoneme": "L",
-    "similarity": 0.6161,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8883
+    "similarity": 0.6376,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9008
   },
   {
     "file": "0020_sells_Z.wav",
     "phoneme": "Z",
-    "similarity": 0.5995,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9276
+    "similarity": 0.8627,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8892
   },
   {
     "file": "0021_harshit_R.wav",
     "phoneme": "R",
     "similarity": 0.6143,
-    "best_match_phoneme": "AE",
-    "best_match_score": 0.7073
+    "best_match_phoneme": "W",
+    "best_match_score": 0.718
   },
   {
     "file": "0021_harshit_SH.wav",
     "phoneme": "SH",
-    "similarity": 0.7973,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.8565
+    "similarity": 0.6233,
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.9086
   },
   {
     "file": "0021_river_ER.wav",
     "phoneme": "ER",
-    "similarity": 0.5004,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9064
+    "similarity": 0.3599,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9276
   },
   {
     "file": "0021_seashells_S.wav",
     "phoneme": "S",
-    "similarity": 0.4726,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.8673
+    "similarity": 0.572,
+    "best_match_phoneme": "D",
+    "best_match_score": 0.8217
   },
   {
     "file": "0021_sells_Z.wav",
     "phoneme": "Z",
-    "similarity": 0.6641,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8573
+    "similarity": 0.8357,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9037
   },
   {
     "file": "0022_harshit_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.6487,
-    "best_match_phoneme": "K",
-    "best_match_score": 0.9091
+    "similarity": 0.8685,
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.8738
   },
   {
     "file": "0022_harshit_SH.wav",
     "phoneme": "SH",
-    "similarity": 0.1639,
+    "similarity": 0.5224,
     "best_match_phoneme": "G",
-    "best_match_score": 0.7653
+    "best_match_score": 0.7391
   },
   {
     "file": "0022_please_P.wav",
     "phoneme": "P",
-    "similarity": 0.4522,
-    "best_match_phoneme": "AW",
-    "best_match_score": 0.7973
+    "similarity": 0.6244,
+    "best_match_phoneme": "UW",
+    "best_match_score": 0.7765
   },
   {
     "file": "0022_seashells_IY.wav",
     "phoneme": "IY",
     "similarity": 0.3498,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.874
+    "best_match_phoneme": "CH",
+    "best_match_score": 0.8832
   },
   {
     "file": "0022_seashells_IY1.wav",
     "phoneme": "IY1",
     "similarity": 0.6053,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.874
+    "best_match_phoneme": "CH",
+    "best_match_score": 0.8832
   },
   {
     "file": "0022_seashells_S.wav",
     "phoneme": "S",
-    "similarity": 0.5856,
-    "best_match_phoneme": "UW",
-    "best_match_score": 0.8105
+    "similarity": 0.7325,
+    "best_match_phoneme": "AY",
+    "best_match_score": 0.8099
   },
   {
     "file": "0023_harshit_AH0.wav",
     "phoneme": "AH0",
     "similarity": 0.2933,
-    "best_match_phoneme": "IH0",
-    "best_match_score": 0.8267
+    "best_match_phoneme": "UW",
+    "best_match_score": 0.8574
   },
   {
     "file": "0023_harshit_T.wav",
     "phoneme": "T",
-    "similarity": 0.7241,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9641
+    "similarity": 0.6099,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8548
   },
   {
     "file": "0023_please_L.wav",
     "phoneme": "L",
-    "similarity": 0.4503,
-    "best_match_phoneme": "M",
-    "best_match_score": 0.8228
+    "similarity": 0.5156,
+    "best_match_phoneme": "UW1",
+    "best_match_score": 0.8092
   },
   {
     "file": "0023_seashells_IY1.wav",
@@ -751,58 +751,58 @@
   {
     "file": "0023_seashells_SH.wav",
     "phoneme": "SH",
-    "similarity": 0.6329,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9671
+    "similarity": 0.5811,
+    "best_match_phoneme": "F",
+    "best_match_score": 0.8315
   },
   {
     "file": "0024_harshit_T.wav",
     "phoneme": "T",
-    "similarity": 0.531,
-    "best_match_phoneme": "P",
-    "best_match_score": 0.8081
+    "similarity": 0.7334,
+    "best_match_phoneme": "W",
+    "best_match_score": 0.8463
   },
   {
     "file": "0024_i_AY.wav",
     "phoneme": "AY",
-    "similarity": 0.6664,
-    "best_match_phoneme": "G",
-    "best_match_score": 0.7353
+    "similarity": 0.7522,
+    "best_match_phoneme": "OY",
+    "best_match_score": 0.7657
   },
   {
     "file": "0024_please_IY.wav",
     "phoneme": "IY",
     "similarity": 0.4004,
-    "best_match_phoneme": "M",
-    "best_match_score": 0.8982
+    "best_match_phoneme": "K",
+    "best_match_score": 0.8708
   },
   {
     "file": "0024_seashells_EH.wav",
     "phoneme": "EH",
-    "similarity": 0.6335,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9278
+    "similarity": 0.5654,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8618
   },
   {
     "file": "0024_seashells_EH2.wav",
     "phoneme": "EH2",
     "similarity": 0.0,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9278
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8618
   },
   {
     "file": "0024_seashells_SH.wav",
     "phoneme": "SH",
-    "similarity": 0.6542,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.9721
+    "similarity": 0.5757,
+    "best_match_phoneme": "L",
+    "best_match_score": 0.9561
   },
   {
     "file": "0025_am_AE.wav",
     "phoneme": "AE",
-    "similarity": 0.4181,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.845
+    "similarity": 0.4645,
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.8464
   },
   {
     "file": "0025_harshit_..wav",
@@ -814,28 +814,28 @@
   {
     "file": "0025_please_Z.wav",
     "phoneme": "Z",
-    "similarity": 0.5947,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9647
+    "similarity": 0.7488,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8981
   },
   {
     "file": "0025_seashells_EH2.wav",
     "phoneme": "EH2",
     "similarity": 0.0,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9624
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.829
   },
   {
     "file": "0025_seashells_L.wav",
     "phoneme": "L",
-    "similarity": 0.7426,
+    "similarity": 0.805,
     "best_match_phoneme": "K",
-    "best_match_score": 0.9284
+    "best_match_score": 0.9148
   },
   {
     "file": "0026_am_M.wav",
     "phoneme": "M",
-    "similarity": 0.7429,
+    "similarity": 0.6358,
     "best_match_phoneme": "OY1",
     "best_match_score": 0.914
   },
@@ -843,183 +843,183 @@
     "file": "0026_i_AY1.wav",
     "phoneme": "AY1",
     "similarity": 0.5912,
-    "best_match_phoneme": "G",
-    "best_match_score": 0.7353
+    "best_match_phoneme": "OY",
+    "best_match_score": 0.7657
   },
   {
     "file": "0026_seashells_L.wav",
     "phoneme": "L",
-    "similarity": 0.2714,
-    "best_match_phoneme": "IY",
-    "best_match_score": 0.7896
+    "similarity": 0.303,
+    "best_match_phoneme": "OW",
+    "best_match_score": 0.8402
   },
   {
     "file": "0026_seashells_Z.wav",
     "phoneme": "Z",
-    "similarity": 0.6516,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9094
+    "similarity": 0.7962,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.9077
   },
   {
     "file": "0026_take_T.wav",
     "phoneme": "T",
-    "similarity": 0.7063,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.9095
+    "similarity": 0.601,
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.8889
   },
   {
     "file": "0027_am_AE1.wav",
     "phoneme": "AE1",
     "similarity": 0.0495,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.8766
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8826
   },
   {
     "file": "0027_currently_K.wav",
     "phoneme": "K",
-    "similarity": 0.675,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.8282
+    "similarity": 0.8395,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9372
   },
   {
     "file": "0027_i_AY.wav",
     "phoneme": "AY",
-    "similarity": 0.1769,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9314
+    "similarity": 0.3667,
+    "best_match_phoneme": "F",
+    "best_match_score": 0.8223
   },
   {
     "file": "0027_i_AY1.wav",
     "phoneme": "AY1",
     "similarity": 0.2056,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9314
+    "best_match_phoneme": "F",
+    "best_match_score": 0.8223
   },
   {
     "file": "0027_seashells_Z.wav",
     "phoneme": "Z",
-    "similarity": 0.543,
-    "best_match_phoneme": "NG",
-    "best_match_score": 0.9239
+    "similarity": 0.8384,
+    "best_match_phoneme": "L",
+    "best_match_score": 0.9133
   },
   {
     "file": "0027_take_EY.wav",
     "phoneme": "EY",
-    "similarity": 0.3391,
-    "best_match_phoneme": "OY",
-    "best_match_score": 0.8151
+    "similarity": 0.6812,
+    "best_match_phoneme": "AE1",
+    "best_match_score": 0.8119
   },
   {
     "file": "0028_am_M.wav",
     "phoneme": "M",
-    "similarity": 0.795,
-    "best_match_phoneme": "AW",
-    "best_match_score": 0.9161
+    "similarity": 0.5534,
+    "best_match_phoneme": "JH",
+    "best_match_score": 0.8594
   },
   {
     "file": "0028_currently_ER.wav",
     "phoneme": "ER",
-    "similarity": 0.5297,
+    "similarity": 0.408,
     "best_match_phoneme": "UW1",
     "best_match_score": 0.8443
   },
   {
     "file": "0028_like_L.wav",
     "phoneme": "L",
-    "similarity": 0.3549,
-    "best_match_phoneme": "UW",
-    "best_match_score": 0.7804
+    "similarity": 0.4124,
+    "best_match_phoneme": "P",
+    "best_match_score": 0.8576
   },
   {
     "file": "0028_seashells_,.wav",
     "phoneme": ",",
     "similarity": 0.0,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9783
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8875
   },
   {
     "file": "0028_take_K.wav",
     "phoneme": "K",
-    "similarity": 0.8131,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9119
+    "similarity": 0.8123,
+    "best_match_phoneme": "F",
+    "best_match_score": 0.858
   },
   {
     "file": "0029_currently_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.2512,
-    "best_match_phoneme": "IY",
-    "best_match_score": 0.784
+    "similarity": 0.5497,
+    "best_match_phoneme": "OW",
+    "best_match_score": 0.8182
   },
   {
     "file": "0029_currently_K.wav",
     "phoneme": "K",
-    "similarity": 0.7847,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.8667
+    "similarity": 0.8323,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8811
   },
   {
     "file": "0029_i_AY1.wav",
     "phoneme": "AY1",
     "similarity": 0.2056,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9314
+    "best_match_phoneme": "F",
+    "best_match_score": 0.8223
   },
   {
     "file": "0029_like_AY.wav",
     "phoneme": "AY",
-    "similarity": 0.153,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9341
+    "similarity": 0.3336,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8328
   },
   {
     "file": "0029_like_AY1.wav",
     "phoneme": "AY1",
     "similarity": 0.1546,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9341
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8328
   },
   {
     "file": "0029_this_DH.wav",
     "phoneme": "DH",
-    "similarity": 0.1816,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9248
+    "similarity": 0.6705,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8825
   },
   {
     "file": "0030_currently_ER1.wav",
     "phoneme": "ER1",
     "similarity": 0.5651,
-    "best_match_phoneme": "G",
-    "best_match_score": 0.8019
+    "best_match_phoneme": "OY",
+    "best_match_score": 0.8266
   },
   {
     "file": "0030_currently_N.wav",
     "phoneme": "N",
-    "similarity": 0.7995,
-    "best_match_phoneme": "M",
-    "best_match_score": 0.8846
+    "similarity": 0.5966,
+    "best_match_phoneme": "UW1",
+    "best_match_score": 0.8659
   },
   {
     "file": "0030_like_K.wav",
     "phoneme": "K",
-    "similarity": 0.611,
-    "best_match_phoneme": "F",
-    "best_match_score": 0.8307
+    "similarity": 0.5685,
+    "best_match_phoneme": "W",
+    "best_match_score": 0.8059
   },
   {
     "file": "0030_like_L.wav",
     "phoneme": "L",
-    "similarity": 0.7391,
-    "best_match_phoneme": "NG",
-    "best_match_score": 0.8949
+    "similarity": 0.8536,
+    "best_match_phoneme": "K",
+    "best_match_score": 0.8555
   },
   {
     "file": "0030_this_IH.wav",
     "phoneme": "IH",
-    "similarity": 0.6136,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9589
+    "similarity": 0.6097,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8176
   },
   {
     "file": "0031_currently_AH0.wav",
@@ -1031,420 +1031,420 @@
   {
     "file": "0031_currently_T.wav",
     "phoneme": "T",
-    "similarity": 0.6235,
-    "best_match_phoneme": "N",
-    "best_match_score": 0.908
+    "similarity": 0.8168,
+    "best_match_phoneme": "JH",
+    "best_match_score": 0.8543
   },
   {
     "file": "0031_intelligent_IH.wav",
     "phoneme": "IH",
-    "similarity": 0.8087,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8535
+    "similarity": 0.7067,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9113
   },
   {
     "file": "0031_intelligent_IH0.wav",
     "phoneme": "IH0",
     "similarity": 0.3677,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8535
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9113
   },
   {
     "file": "0031_like_AY1.wav",
     "phoneme": "AY1",
     "similarity": 0.1255,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9374
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8215
   },
   {
     "file": "0031_this_S.wav",
     "phoneme": "S",
-    "similarity": 0.3481,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.7796
+    "similarity": 0.5067,
+    "best_match_phoneme": "F",
+    "best_match_score": 0.6956
   },
   {
     "file": "0032_cheese_CH.wav",
     "phoneme": "CH",
-    "similarity": 0.5422,
-    "best_match_phoneme": "Z",
-    "best_match_score": 0.8953
+    "similarity": 0.6273,
+    "best_match_phoneme": "UW1",
+    "best_match_score": 0.835
   },
   {
     "file": "0032_currently_L.wav",
     "phoneme": "L",
-    "similarity": 0.7234,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9395
+    "similarity": 0.773,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8196
   },
   {
     "file": "0032_currently_N.wav",
     "phoneme": "N",
-    "similarity": 0.3132,
-    "best_match_phoneme": "AA1",
-    "best_match_score": 0.7869
+    "similarity": 0.6825,
+    "best_match_phoneme": "HH",
+    "best_match_score": 0.8317
   },
   {
     "file": "0032_intelligent_N.wav",
     "phoneme": "N",
-    "similarity": 0.5526,
+    "similarity": 0.5376,
     "best_match_phoneme": "OY1",
     "best_match_score": 0.9295
   },
   {
     "file": "0032_like_K.wav",
     "phoneme": "K",
-    "similarity": 0.7464,
-    "best_match_phoneme": "Y",
-    "best_match_score": 0.8678
+    "similarity": 0.7591,
+    "best_match_phoneme": "S",
+    "best_match_score": 0.9121
   },
   {
     "file": "0033_cheese_IY.wav",
     "phoneme": "IY",
     "similarity": 0.376,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8831
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8722
   },
   {
     "file": "0033_currently_IY.wav",
     "phoneme": "IY",
     "similarity": 0.4206,
-    "best_match_phoneme": "T",
-    "best_match_score": 0.8141
+    "best_match_phoneme": "K",
+    "best_match_score": 0.8657
   },
   {
     "file": "0033_currently_T.wav",
     "phoneme": "T",
-    "similarity": 0.4802,
-    "best_match_phoneme": "DH",
-    "best_match_score": 0.8335
+    "similarity": 0.6586,
+    "best_match_phoneme": "AE",
+    "best_match_score": 0.8177
   },
   {
     "file": "0033_intelligent_IH0.wav",
     "phoneme": "IH0",
     "similarity": 0.677,
-    "best_match_phoneme": "M",
-    "best_match_score": 0.9312
+    "best_match_phoneme": "K",
+    "best_match_score": 0.9316
   },
   {
     "file": "0033_intelligent_T.wav",
     "phoneme": "T",
-    "similarity": 0.7457,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.8965
+    "similarity": 0.7037,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8492
   },
   {
     "file": "0034_cheese_Z.wav",
     "phoneme": "Z",
-    "similarity": 0.5658,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9517
+    "similarity": 0.7576,
+    "best_match_phoneme": "D",
+    "best_match_score": 0.8251
   },
   {
     "file": "0034_currently_L.wav",
     "phoneme": "L",
-    "similarity": 0.7078,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9099
+    "similarity": 0.7747,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8073
   },
   {
     "file": "0034_intelligent_EH.wav",
     "phoneme": "EH",
-    "similarity": 0.7565,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9292
+    "similarity": 0.6191,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8154
   },
   {
     "file": "0034_intelligent_EH1.wav",
     "phoneme": "EH1",
     "similarity": 0.1643,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9292
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8154
   },
   {
     "file": "0034_intelligent_N.wav",
     "phoneme": "N",
-    "similarity": 0.3899,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.9704
+    "similarity": 0.7617,
+    "best_match_phoneme": "ZH",
+    "best_match_score": 0.9662
   },
   {
     "file": "0034_studying_S.wav",
     "phoneme": "S",
-    "similarity": 0.5322,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9247
+    "similarity": 0.5193,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8699
   },
   {
     "file": "0035_currently_IY0.wav",
     "phoneme": "IY0",
     "similarity": 0.3417,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.9013
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.904
   },
   {
     "file": "0035_intelligent_L.wav",
     "phoneme": "L",
-    "similarity": 0.0654,
-    "best_match_phoneme": "AW",
-    "best_match_score": 0.7953
+    "similarity": 0.1323,
+    "best_match_phoneme": "UW",
+    "best_match_score": 0.8028
   },
   {
     "file": "0035_intelligent_T.wav",
     "phoneme": "T",
-    "similarity": 0.766,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8465
+    "similarity": 0.6899,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9457
   },
   {
     "file": "0035_studying_T.wav",
     "phoneme": "T",
-    "similarity": 0.8484,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.9025
+    "similarity": 0.7195,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9351
   },
   {
     "file": "0035_to_T.wav",
     "phoneme": "T",
-    "similarity": 0.7544,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.8811
+    "similarity": 0.7616,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8617
   },
   {
     "file": "0036_intelligent_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.7205,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8555
+    "similarity": 0.6841,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8632
   },
   {
     "file": "0036_intelligent_AH0.wav",
     "phoneme": "AH0",
     "similarity": 0.0962,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8555
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8632
   },
   {
     "file": "0036_intelligent_EH1.wav",
     "phoneme": "EH1",
     "similarity": 0.209,
-    "best_match_phoneme": "IH",
-    "best_match_score": 0.8479
+    "best_match_phoneme": "K",
+    "best_match_score": 0.8959
   },
   {
     "file": "0036_studying_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.2094,
-    "best_match_phoneme": "G",
-    "best_match_score": 0.776
+    "similarity": 0.4702,
+    "best_match_phoneme": "OY",
+    "best_match_score": 0.8062
   },
   {
     "file": "0036_studying_S.wav",
     "phoneme": "S",
-    "similarity": 0.5164,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9278
+    "similarity": 0.5067,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.88
   },
   {
     "file": "0036_to_UW.wav",
     "phoneme": "UW",
-    "similarity": 0.6678,
+    "similarity": 0.5764,
     "best_match_phoneme": "G",
-    "best_match_score": 0.8084
+    "best_match_score": 0.8182
   },
   {
     "file": "0037_intelligent_JH.wav",
     "phoneme": "JH",
-    "similarity": 0.7489,
+    "similarity": 0.8261,
     "best_match_phoneme": "UH1",
     "best_match_score": 0.9075
   },
   {
     "file": "0037_intelligent_L.wav",
     "phoneme": "L",
-    "similarity": 0.6031,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.8041
+    "similarity": 0.6538,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.7789
   },
   {
     "file": "0037_studying_D.wav",
     "phoneme": "D",
-    "similarity": 0.8843,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9504
+    "similarity": 0.7803,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.899
   },
   {
     "file": "0037_studying_T.wav",
     "phoneme": "T",
-    "similarity": 0.7385,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9741
+    "similarity": 0.658,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8441
   },
   {
     "file": "0037_the_DH.wav",
     "phoneme": "DH",
-    "similarity": 0.2158,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9685
+    "similarity": 0.6603,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8569
   },
   {
     "file": "0038_intelligent_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.8971,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9265
+    "similarity": 0.7634,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.874
   },
   {
     "file": "0038_intelligent_AH0.wav",
     "phoneme": "AH0",
     "similarity": 0.1875,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9265
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.874
   },
   {
     "file": "0038_studying_AH1.wav",
     "phoneme": "AH1",
     "similarity": 0.1504,
-    "best_match_phoneme": "SH",
-    "best_match_score": 0.8003
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8892
   },
   {
     "file": "0038_studying_IY.wav",
     "phoneme": "IY",
     "similarity": 0.7849,
-    "best_match_phoneme": "AO",
-    "best_match_score": 0.8311
+    "best_match_phoneme": "W",
+    "best_match_score": 0.8659
   },
   {
     "file": "0038_the_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.0901,
-    "best_match_phoneme": "G",
-    "best_match_score": 0.7299
+    "similarity": 0.3251,
+    "best_match_phoneme": "AY",
+    "best_match_score": 0.6696
   },
   {
     "file": "0039_intelligent_JH.wav",
     "phoneme": "JH",
-    "similarity": 0.5197,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9305
+    "similarity": 0.5948,
+    "best_match_phoneme": "V",
+    "best_match_score": 0.8553
   },
   {
     "file": "0039_intelligent_N.wav",
     "phoneme": "N",
-    "similarity": 0.483,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.7815
+    "similarity": 0.5556,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.728
   },
   {
     "file": "0039_store_S.wav",
     "phoneme": "S",
-    "similarity": 0.5689,
-    "best_match_phoneme": "IH",
-    "best_match_score": 0.8586
+    "similarity": 0.5479,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9117
   },
   {
     "file": "0039_studying_D.wav",
     "phoneme": "D",
-    "similarity": 0.8097,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.938
+    "similarity": 0.7468,
+    "best_match_phoneme": "ZH",
+    "best_match_score": 0.8976
   },
   {
     "file": "0039_studying_IH.wav",
     "phoneme": "IH",
-    "similarity": 0.7126,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9219
+    "similarity": 0.6809,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.834
   },
   {
     "file": "0040_intelligent_AH0.wav",
     "phoneme": "AH0",
     "similarity": 0.1132,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.8999
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9455
   },
   {
     "file": "0040_intelligent_T.wav",
     "phoneme": "T",
-    "similarity": 0.6683,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9366
+    "similarity": 0.5787,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8313
   },
   {
     "file": "0040_store_T.wav",
     "phoneme": "T",
-    "similarity": 0.8114,
+    "similarity": 0.7635,
     "best_match_phoneme": "D",
-    "best_match_score": 0.8581
+    "best_match_score": 0.9025
   },
   {
     "file": "0040_studying_IY0.wav",
     "phoneme": "IY0",
     "similarity": 0.2161,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.8619
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8227
   },
   {
     "file": "0040_studying_NG.wav",
     "phoneme": "NG",
-    "similarity": 0.4111,
-    "best_match_phoneme": "P",
-    "best_match_score": 0.7784
+    "similarity": 0.7966,
+    "best_match_phoneme": "NG",
+    "best_match_score": 0.7966
   },
   {
     "file": "0041_in_IH.wav",
     "phoneme": "IH",
-    "similarity": 0.2692,
+    "similarity": 0.4801,
     "best_match_phoneme": "AY",
-    "best_match_score": 0.7445
+    "best_match_score": 0.757
   },
   {
     "file": "0041_intelligent_N.wav",
     "phoneme": "N",
-    "similarity": 0.4432,
-    "best_match_phoneme": "AH",
-    "best_match_score": 0.9662
+    "similarity": 0.6236,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8372
   },
   {
     "file": "0041_speech_S.wav",
     "phoneme": "S",
-    "similarity": 0.4895,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9007
+    "similarity": 0.4944,
+    "best_match_phoneme": "B",
+    "best_match_score": 0.9279
   },
   {
     "file": "0041_store_AO.wav",
     "phoneme": "AO",
-    "similarity": 0.2767,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.912
+    "similarity": 0.0404,
+    "best_match_phoneme": "ZH",
+    "best_match_score": 0.863
   },
   {
     "file": "0041_studying_IH0.wav",
     "phoneme": "IH0",
     "similarity": 0.3571,
-    "best_match_phoneme": "AY",
-    "best_match_score": 0.6596
+    "best_match_phoneme": "G",
+    "best_match_score": 0.6706
   },
   {
     "file": "0042_in_N.wav",
     "phoneme": "N",
-    "similarity": 0.5681,
-    "best_match_phoneme": "R",
-    "best_match_score": 0.7962
+    "similarity": 0.7374,
+    "best_match_phoneme": "SH",
+    "best_match_score": 0.8603
   },
   {
     "file": "0042_intelligent_T.wav",
     "phoneme": "T",
-    "similarity": 0.6551,
+    "similarity": 0.6218,
     "best_match_phoneme": "OY1",
     "best_match_score": 0.9095
   },
   {
     "file": "0042_speech_P.wav",
     "phoneme": "P",
-    "similarity": 0.5855,
+    "similarity": 0.7561,
     "best_match_phoneme": "UW1",
     "best_match_score": 0.889
   },
@@ -1452,139 +1452,139 @@
     "file": "0042_store_R.wav",
     "phoneme": "R",
     "similarity": 0.5925,
-    "best_match_phoneme": "AO",
-    "best_match_score": 0.8267
+    "best_match_phoneme": "HH",
+    "best_match_score": 0.8049
   },
   {
     "file": "0042_studying_NG.wav",
     "phoneme": "NG",
-    "similarity": 0.5292,
-    "best_match_phoneme": "P",
-    "best_match_score": 0.8681
+    "similarity": 0.844,
+    "best_match_phoneme": "W",
+    "best_match_score": 0.8525
   },
   {
     "file": "0043_in_IH0.wav",
     "phoneme": "IH0",
     "similarity": 0.6733,
-    "best_match_phoneme": "M",
-    "best_match_score": 0.8717
+    "best_match_phoneme": "IH",
+    "best_match_score": 0.8823
   },
   {
     "file": "0043_speech_IY.wav",
     "phoneme": "IY",
     "similarity": 0.1603,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.8509
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.8698
   },
   {
     "file": "0043_speech_IY1.wav",
     "phoneme": "IY1",
     "similarity": 0.4171,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.8509
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.8698
   },
   {
     "file": "0043_speech_S.wav",
     "phoneme": "S",
-    "similarity": 0.4956,
+    "similarity": 0.5004,
     "best_match_phoneme": "OY1",
     "best_match_score": 0.9125
   },
   {
     "file": "0043_third_TH.wav",
     "phoneme": "TH",
-    "similarity": 0.6153,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.7443
+    "similarity": 0.6156,
+    "best_match_phoneme": "M",
+    "best_match_score": 0.7738
   },
   {
     "file": "0044_in_N.wav",
     "phoneme": "N",
-    "similarity": 0.8576,
-    "best_match_phoneme": "S",
-    "best_match_score": 0.8591
+    "similarity": 0.254,
+    "best_match_phoneme": "UH1",
+    "best_match_score": 0.8343
   },
   {
     "file": "0044_speech_CH.wav",
     "phoneme": "CH",
-    "similarity": 0.865,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9663
+    "similarity": 0.8122,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8293
   },
   {
     "file": "0044_speech_P.wav",
     "phoneme": "P",
-    "similarity": 0.4137,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9668
+    "similarity": 0.5623,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8251
   },
   {
     "file": "0044_third_ER.wav",
     "phoneme": "ER",
-    "similarity": 0.6703,
-    "best_match_phoneme": "W",
-    "best_match_score": 0.7978
+    "similarity": 0.6179,
+    "best_match_phoneme": "P",
+    "best_match_score": 0.7809
   },
   {
     "file": "0045_speech_IY1.wav",
     "phoneme": "IY1",
     "similarity": 0.591,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.8804
+    "best_match_phoneme": "K",
+    "best_match_score": 0.9002
   },
   {
     "file": "0045_therapy_TH.wav",
     "phoneme": "TH",
-    "similarity": 0.2021,
-    "best_match_phoneme": "G",
-    "best_match_score": 0.7375
+    "similarity": 0.6166,
+    "best_match_phoneme": "AY",
+    "best_match_score": 0.7162
   },
   {
     "file": "0045_third_D.wav",
     "phoneme": "D",
-    "similarity": 0.2614,
-    "best_match_phoneme": "DH",
-    "best_match_score": 0.8161
+    "similarity": 0.5456,
+    "best_match_phoneme": "OY",
+    "best_match_score": 0.8415
   },
   {
     "file": "0045_third_TH.wav",
     "phoneme": "TH",
-    "similarity": 0.4909,
-    "best_match_phoneme": "Y",
-    "best_match_score": 0.8349
+    "similarity": 0.6959,
+    "best_match_phoneme": "IH0",
+    "best_match_score": 0.8301
   },
   {
     "file": "0046_speech_CH.wav",
     "phoneme": "CH",
-    "similarity": 0.8472,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.941
+    "similarity": 0.8323,
+    "best_match_phoneme": "L",
+    "best_match_score": 0.8657
   },
   {
     "file": "0046_therapy_EH.wav",
     "phoneme": "EH",
-    "similarity": 0.631,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9528
+    "similarity": 0.6091,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8623
   },
   {
     "file": "0046_therapy_EH1.wav",
     "phoneme": "EH1",
     "similarity": 0.2404,
-    "best_match_phoneme": "UH",
-    "best_match_score": 0.9528
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.8623
   },
   {
     "file": "0046_third_ER1.wav",
     "phoneme": "ER1",
     "similarity": 0.6828,
-    "best_match_phoneme": "AE",
-    "best_match_score": 0.7911
+    "best_match_phoneme": "G",
+    "best_match_score": 0.7914
   },
   {
     "file": "0046_year_Y.wav",
     "phoneme": "Y",
-    "similarity": 0.6819,
+    "similarity": 0.6234,
     "best_match_phoneme": "IY1",
     "best_match_score": 0.7963
   },
@@ -1592,34 +1592,34 @@
     "file": "0047_therapy_R.wav",
     "phoneme": "R",
     "similarity": 0.5804,
-    "best_match_phoneme": "D",
-    "best_match_score": 0.8397
+    "best_match_phoneme": "UH1",
+    "best_match_score": 0.8089
   },
   {
     "file": "0047_therapy_TH.wav",
     "phoneme": "TH",
-    "similarity": 0.6197,
+    "similarity": 0.5699,
     "best_match_phoneme": "UW1",
     "best_match_score": 0.918
   },
   {
     "file": "0047_third_D.wav",
     "phoneme": "D",
-    "similarity": 0.5007,
+    "similarity": 0.6446,
     "best_match_phoneme": "DH",
-    "best_match_score": 0.6656
+    "best_match_score": 0.7062
   },
   {
     "file": "0047_year_IH.wav",
     "phoneme": "IH",
-    "similarity": 0.7525,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.9639
+    "similarity": 0.7295,
+    "best_match_phoneme": "L",
+    "best_match_score": 0.9517
   },
   {
     "file": "0048_therapy_AH.wav",
     "phoneme": "AH",
-    "similarity": 0.1029,
+    "similarity": 0.3272,
     "best_match_phoneme": "AE1",
     "best_match_score": 0.7922
   },
@@ -1634,27 +1634,27 @@
     "file": "0048_therapy_EH1.wav",
     "phoneme": "EH1",
     "similarity": 0.3439,
-    "best_match_phoneme": "R",
-    "best_match_score": 0.8035
+    "best_match_phoneme": "M",
+    "best_match_score": 0.8394
   },
   {
     "file": "0048_year_R.wav",
     "phoneme": "R",
     "similarity": 0.8645,
-    "best_match_phoneme": "M",
-    "best_match_score": 0.8738
+    "best_match_phoneme": "R",
+    "best_match_score": 0.8645
   },
   {
     "file": "0048_year_Y.wav",
     "phoneme": "Y",
-    "similarity": 0.5561,
+    "similarity": 0.4482,
     "best_match_phoneme": "IY1",
     "best_match_score": 0.7898
   },
   {
     "file": "0049_therapy_P.wav",
     "phoneme": "P",
-    "similarity": 0.4556,
+    "similarity": 0.5773,
     "best_match_phoneme": "UH1",
     "best_match_score": 0.865
   },
@@ -1662,57 +1662,57 @@
     "file": "0049_therapy_R.wav",
     "phoneme": "R",
     "similarity": 0.6244,
-    "best_match_phoneme": "CH",
-    "best_match_score": 0.9348
+    "best_match_phoneme": "B",
+    "best_match_score": 0.8983
   },
   {
     "file": "0049_year_IH1.wav",
     "phoneme": "IH1",
     "similarity": 0.2445,
-    "best_match_phoneme": "EH",
-    "best_match_score": 0.9423
+    "best_match_phoneme": "Z",
+    "best_match_score": 0.909
   },
   {
     "file": "0050_therapy_AH0.wav",
     "phoneme": "AH0",
     "similarity": 0.1388,
-    "best_match_phoneme": "AA",
-    "best_match_score": 0.9661
+    "best_match_phoneme": "ZH",
+    "best_match_score": 0.9369
   },
   {
     "file": "0050_therapy_IY.wav",
     "phoneme": "IY",
     "similarity": 0.4455,
     "best_match_phoneme": "K",
-    "best_match_score": 0.8914
+    "best_match_score": 0.9211
   },
   {
     "file": "0050_therapy_IY0.wav",
     "phoneme": "IY0",
     "similarity": 0.3965,
     "best_match_phoneme": "K",
-    "best_match_score": 0.8914
+    "best_match_score": 0.9211
   },
   {
     "file": "0050_year_R.wav",
     "phoneme": "R",
     "similarity": 0.7201,
     "best_match_phoneme": "D",
-    "best_match_score": 0.8948
+    "best_match_score": 0.8658
   },
   {
     "file": "0051_therapy_P.wav",
     "phoneme": "P",
-    "similarity": 0.3968,
-    "best_match_phoneme": "TH",
-    "best_match_score": 0.9587
+    "similarity": 0.5729,
+    "best_match_phoneme": "OY1",
+    "best_match_score": 0.885
   },
   {
     "file": "0051_year_..wav",
     "phoneme": ".",
     "similarity": 0.0,
-    "best_match_phoneme": "M",
-    "best_match_score": 0.8873
+    "best_match_phoneme": "UW1",
+    "best_match_score": 0.8713
   },
   {
     "file": "0052_therapy_IY0.wav",
