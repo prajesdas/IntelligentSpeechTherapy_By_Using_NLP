@@ -30,14 +30,4 @@ The system aims to:
 
 ---
 
-## Project Structure
-#IntelligentSpeechTherapy_NLP/
-├── data/
-│ └── sentences.txt
-├── metadata/
-│ └── sentence_phonemes.json
-├── scripts/
-│ └── prepare_phonemes.py
-├── venv/
-└── requirements.txt
----
+
