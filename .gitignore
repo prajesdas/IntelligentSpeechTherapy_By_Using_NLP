@@ -1,0 +1,45 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python bytecode and cache files
+*.pyc
+__pycache__/
+
+# Instance folder for Flask applications
+instance/
+
+# Database files (e.g., SQLite databases)
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+migrations/
+NLP/
+
+# Environment variables
+.env
+
+# Editor and IDE specific files
+.idea/  # IntelliJ IDEA
+.vscode/ # VS Code
+*.sublime-project
+*.sublime-workspace
+
+# Test-related files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Operating System specific files
+.DS_Store
+Thumbs.db

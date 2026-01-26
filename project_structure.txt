@@ -1,0 +1,2681 @@
+Folder PATH listing for volume New Volume
+Volume serial number is A6D6-B4D0
+D:.
+����migrations
+�   ����versions
+�   �   ����__pycache__
+�   ����__pycache__
+����models
+�   ����embeddings
+����modules
+�   ����assessments
+�   �   ����__pycache__
+�   ����auth
+�   �   ����__pycache__
+�   ����practice
+�   �   ����__pycache__
+�   ����sentences
+�       ����__pycache__
+����screenshots
+����scripts
+����uploads
+����venv
+�   ����Include
+�   �   ����site
+�   �       ����python3.12
+�   �           ����greenlet
+�   ����Lib
+�   �   ����site-packages
+�   �       ����alembic
+�   �       �   ����autogenerate
+�   �       �   �   ����__pycache__
+�   �       �   ����ddl
+�   �       �   �   ����__pycache__
+�   �       �   ����operations
+�   �       �   �   ����__pycache__
+�   �       �   ����runtime
+�   �       �   �   ����__pycache__
+�   �       �   ����script
+�   �       �   �   ����__pycache__
+�   �       �   ����templates
+�   �       �   �   ����async
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����generic
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����multidb
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pyproject
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pyproject_async
+�   �       �   �       ����__pycache__
+�   �       �   ����testing
+�   �       �   �   ����plugin
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����suite
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����util
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����alembic-1.17.2.dist-info
+�   �       �   ����licenses
+�   �       ����audioread
+�   �       �   ����__pycache__
+�   �       ����audioread-3.1.0.dist-info
+�   �       �   ����licenses
+�   �       ����bcrypt
+�   �       �   ����__pycache__
+�   �       ����bcrypt-5.0.0.dist-info
+�   �       ����blinker
+�   �       �   ����__pycache__
+�   �       ����blinker-1.9.0.dist-info
+�   �       ����certifi
+�   �       �   ����__pycache__
+�   �       ����certifi-2025.11.12.dist-info
+�   �       �   ����licenses
+�   �       ����cffi
+�   �       �   ����__pycache__
+�   �       ����cffi-2.0.0.dist-info
+�   �       �   ����licenses
+�   �       ����charset_normalizer
+�   �       �   ����cli
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����charset_normalizer-3.4.4.dist-info
+�   �       �   ����licenses
+�   �       ����click
+�   �       �   ����__pycache__
+�   �       ����click-8.3.1.dist-info
+�   �       �   ����licenses
+�   �       ����colorama
+�   �       �   ����tests
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����colorama-0.4.6.dist-info
+�   �       �   ����licenses
+�   �       ����decorator-5.2.1.dist-info
+�   �       ����dotenv
+�   �       �   ����__pycache__
+�   �       ����filelock
+�   �       �   ����__pycache__
+�   �       ����filelock-3.20.0.dist-info
+�   �       �   ����licenses
+�   �       ����flask
+�   �       �   ����json
+�   �       �   �   ����__pycache__
+�   �       �   ����sansio
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����flask-3.1.2.dist-info
+�   �       �   ����licenses
+�   �       ����Flask_Bcrypt-1.0.1.dist-info
+�   �       ����flask_cors
+�   �       �   ����__pycache__
+�   �       ����flask_cors-6.0.2.dist-info
+�   �       ����flask_jwt_extended
+�   �       �   ����__pycache__
+�   �       ����Flask_JWT_Extended-4.7.1.dist-info
+�   �       ����flask_migrate
+�   �       �   ����templates
+�   �       �   �   ����aioflask
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����aioflask-multidb
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����flask
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����flask-multidb
+�   �       �   �       ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����Flask_Migrate-4.1.0.dist-info
+�   �       ����flask_sqlalchemy
+�   �       �   ����__pycache__
+�   �       ����flask_sqlalchemy-3.1.1.dist-info
+�   �       ����fsspec
+�   �       �   ����implementations
+�   �       �   �   ����__pycache__
+�   �       �   ����tests
+�   �       �   �   ����abstract
+�   �       �   �       ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����fsspec-2025.12.0.dist-info
+�   �       �   ����licenses
+�   �       ����functorch
+�   �       �   ����compile
+�   �       �   �   ����__pycache__
+�   �       �   ����dim
+�   �       �   �   ����__pycache__
+�   �       �   ����einops
+�   �       �   �   ����__pycache__
+�   �       �   ����experimental
+�   �       �   �   ����__pycache__
+�   �       �   ����_src
+�   �       �   �   ����aot_autograd
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����eager_transforms
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����make_functional
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����vmap
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����greenlet
+�   �       �   ����platform
+�   �       �   �   ����__pycache__
+�   �       �   ����tests
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����greenlet-3.2.4.dist-info
+�   �       �   ����licenses
+�   �       ����idna
+�   �       �   ����__pycache__
+�   �       ����idna-3.11.dist-info
+�   �       �   ����licenses
+�   �       ����itsdangerous
+�   �       �   ����__pycache__
+�   �       ����itsdangerous-2.2.0.dist-info
+�   �       ����jinja2
+�   �       �   ����__pycache__
+�   �       ����jinja2-3.1.6.dist-info
+�   �       �   ����licenses
+�   �       ����joblib
+�   �       �   ����externals
+�   �       �   �   ����cloudpickle
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����loky
+�   �       �   �   �   ����backend
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����test
+�   �       �   �   ����data
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����joblib-1.5.3.dist-info
+�   �       �   ����licenses
+�   �       ����jwt
+�   �       �   ����__pycache__
+�   �       ����lazy_loader
+�   �       �   ����tests
+�   �       �   �   ����fake_pkg
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����lazy_loader-0.4.dist-info
+�   �       ����librosa
+�   �       �   ����core
+�   �       �   �   ����__pycache__
+�   �       �   ����feature
+�   �       �   �   ����__pycache__
+�   �       �   ����util
+�   �       �   �   ����example_data
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����librosa-0.11.0.dist-info
+�   �       ����llvmlite
+�   �       �   ����binding
+�   �       �   �   ����__pycache__
+�   �       �   ����ir
+�   �       �   �   ����__pycache__
+�   �       �   ����tests
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����llvmlite-0.46.0.dist-info
+�   �       �   ����licenses
+�   �       ����llvmlite.libs
+�   �       ����mako
+�   �       �   ����ext
+�   �       �   �   ����__pycache__
+�   �       �   ����testing
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����mako-1.3.10.dist-info
+�   �       �   ����licenses
+�   �       ����markupsafe
+�   �       �   ����__pycache__
+�   �       ����markupsafe-3.0.3.dist-info
+�   �       �   ����licenses
+�   �       ����more_itertools
+�   �       �   ����__pycache__
+�   �       ����more_itertools-10.8.0.dist-info
+�   �       �   ����licenses
+�   �       ����mpmath
+�   �       �   ����calculus
+�   �       �   �   ����__pycache__
+�   �       �   ����functions
+�   �       �   �   ����__pycache__
+�   �       �   ����libmp
+�   �       �   �   ����__pycache__
+�   �       �   ����matrices
+�   �       �   �   ����__pycache__
+�   �       �   ����tests
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����mpmath-1.3.0.dist-info
+�   �       ����msgpack
+�   �       �   ����__pycache__
+�   �       ����msgpack-1.1.2.dist-info
+�   �       �   ����licenses
+�   �       ����networkx
+�   �       �   ����algorithms
+�   �       �   �   ����approximation
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����assortativity
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����bipartite
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����centrality
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����coloring
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����community
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����components
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����connectivity
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����flow
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����isomorphism
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����link_analysis
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����minors
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����operators
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����shortest_paths
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����traversal
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tree
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����classes
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����drawing
+�   �       �   �   ����tests
+�   �       �   �   �   ����baseline
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����generators
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����linalg
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����readwrite
+�   �       �   �   ����json_graph
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����tests
+�   �       �   �   ����__pycache__
+�   �       �   ����utils
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����networkx-3.6.1.dist-info
+�   �       �   ����licenses
+�   �       ����numba
+�   �       �   ����cext
+�   �       �   �   ����__pycache__
+�   �       �   ����cloudpickle
+�   �       �   �   ����__pycache__
+�   �       �   ����core
+�   �       �   �   ����annotations
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����datamodel
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����rewrites
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����runtime
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����typeconv
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����types
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����typing
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����unsafe
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����cpython
+�   �       �   �   ����unsafe
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����cuda
+�   �       �   �   ����cudadrv
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����kernels
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����simulator
+�   �       �   �   �   ����cudadrv
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����cudadrv
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����cudapy
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����cudasim
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����data
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����doc_examples
+�   �       �   �   �   �   ����ffi
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����nocuda
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����experimental
+�   �       �   �   ����jitclass
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����misc
+�   �       �   �   ����help
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����np
+�   �       �   �   ����math
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����polynomial
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����random
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����ufunc
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����unsafe
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����parfors
+�   �       �   �   ����__pycache__
+�   �       �   ����pycc
+�   �       �   �   ����__pycache__
+�   �       �   ����scripts
+�   �       �   �   ����__pycache__
+�   �       �   ����stencils
+�   �       �   �   ����__pycache__
+�   �       �   ����testing
+�   �       �   �   ����__pycache__
+�   �       �   ����tests
+�   �       �   �   ����doc_examples
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����gdb
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����npyufunc
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pycc_distutils_usecase
+�   �       �   �   �   ����nested
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����typed
+�   �       �   �   ����__pycache__
+�   �       �   ����types
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����numba-0.63.1.dist-info
+�   �       �   ����licenses
+�   �       ����numpy
+�   �       �   ����char
+�   �       �   �   ����__pycache__
+�   �       �   ����core
+�   �       �   �   ����__pycache__
+�   �       �   ����ctypeslib
+�   �       �   �   ����__pycache__
+�   �       �   ����doc
+�   �       �   �   ����__pycache__
+�   �       �   ����f2py
+�   �       �   �   ����src
+�   �       �   �   ����tests
+�   �       �   �   �   ����src
+�   �       �   �   �   �   ����abstract_interface
+�   �       �   �   �   �   ����array_from_pyobj
+�   �       �   �   �   �   ����assumed_shape
+�   �       �   �   �   �   ����block_docstring
+�   �       �   �   �   �   ����callback
+�   �       �   �   �   �   ����cli
+�   �       �   �   �   �   ����common
+�   �       �   �   �   �   ����crackfortran
+�   �       �   �   �   �   ����f2cmap
+�   �       �   �   �   �   ����isocintrin
+�   �       �   �   �   �   ����kind
+�   �       �   �   �   �   ����mixed
+�   �       �   �   �   �   ����modules
+�   �       �   �   �   �   �   ����gh25337
+�   �       �   �   �   �   �   ����gh26920
+�   �       �   �   �   �   ����negative_bounds
+�   �       �   �   �   �   ����parameter
+�   �       �   �   �   �   ����quoted_character
+�   �       �   �   �   �   ����regression
+�   �       �   �   �   �   ����return_character
+�   �       �   �   �   �   ����return_complex
+�   �       �   �   �   �   ����return_integer
+�   �       �   �   �   �   ����return_logical
+�   �       �   �   �   �   ����return_real
+�   �       �   �   �   �   ����routines
+�   �       �   �   �   �   ����size
+�   �       �   �   �   �   ����string
+�   �       �   �   �   �   ����value_attrspec
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_backends
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����fft
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����lib
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����linalg
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����ma
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����matrixlib
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����polynomial
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����random
+�   �       �   �   ����lib
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_examples
+�   �       �   �   �   ����cffi
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����cython
+�   �       �   �   �   ����numba
+�   �       �   �   �       ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����rec
+�   �       �   �   ����__pycache__
+�   �       �   ����strings
+�   �       �   �   ����__pycache__
+�   �       �   ����testing
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_private
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����tests
+�   �       �   �   ����__pycache__
+�   �       �   ����typing
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   �   ����fail
+�   �       �   �   �   �   ����misc
+�   �       �   �   �   �   ����pass
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����reveal
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_core
+�   �       �   �   ����include
+�   �       �   �   �   ����numpy
+�   �       �   �   �       ����random
+�   �       �   �   ����lib
+�   �       �   �   �   ����npy-pkg-config
+�   �       �   �   �   ����pkgconfig
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   ����examples
+�   �       �   �   �   �   ����cython
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����limited_api
+�   �       �   �   �   �       ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_pyinstaller
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_typing
+�   �       �   �   ����__pycache__
+�   �       �   ����_utils
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����numpy-2.3.5.dist-info
+�   �       ����numpy.libs
+�   �       ����openai_whisper-20250625.dist-info
+�   �       �   ����licenses
+�   �       ����packaging
+�   �       �   ����licenses
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����packaging-25.0.dist-info
+�   �       �   ����licenses
+�   �       ����pip
+�   �       �   ����_internal
+�   �       �   �   ����cli
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����commands
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����distributions
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����index
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����locations
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����metadata
+�   �       �   �   �   ����importlib
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����models
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����network
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����operations
+�   �       �   �   �   ����build
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����install
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����req
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����resolution
+�   �       �   �   �   ����legacy
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����resolvelib
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����utils
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����vcs
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_vendor
+�   �       �   �   ����cachecontrol
+�   �       �   �   �   ����caches
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����certifi
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����dependency_groups
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����distlib
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����distro
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����idna
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����msgpack
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����packaging
+�   �       �   �   �   ����licenses
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pkg_resources
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����platformdirs
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pygments
+�   �       �   �   �   ����filters
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����formatters
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����lexers
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����styles
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pyproject_hooks
+�   �       �   �   �   ����_in_process
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����requests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����resolvelib
+�   �       �   �   �   ����resolvers
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����rich
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tomli
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tomli_w
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����truststore
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����urllib3
+�   �       �   �   �   ����contrib
+�   �       �   �   �   �   ����_securetransport
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����packages
+�   �       �   �   �   �   ����backports
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����util
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����pip-25.3.dist-info
+�   �       �   ����licenses
+�   �       �       ����src
+�   �       �           ����pip
+�   �       �               ����_vendor
+�   �       �                   ����cachecontrol
+�   �       �                   ����certifi
+�   �       �                   ����dependency_groups
+�   �       �                   ����distlib
+�   �       �                   ����distro
+�   �       �                   ����idna
+�   �       �                   ����msgpack
+�   �       �                   ����packaging
+�   �       �                   ����pkg_resources
+�   �       �                   ����platformdirs
+�   �       �                   ����pygments
+�   �       �                   ����pyproject_hooks
+�   �       �                   ����requests
+�   �       �                   ����resolvelib
+�   �       �                   ����rich
+�   �       �                   ����tomli
+�   �       �                   ����tomli_w
+�   �       �                   ����truststore
+�   �       �                   ����urllib3
+�   �       ����pkg_resources
+�   �       �   ����extern
+�   �       �   �   ����__pycache__
+�   �       �   ����_vendor
+�   �       �   �   ����backports
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����importlib_resources
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����jaraco
+�   �       �   �   �   ����functools
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����text
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����more_itertools
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����packaging
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����platformdirs
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����platformdirs
+�   �       �   ����__pycache__
+�   �       ����platformdirs-4.5.1.dist-info
+�   �       �   ����licenses
+�   �       ����pooch
+�   �       �   ����tests
+�   �       �   �   ����data
+�   �       �   �   �   ����store
+�   �       �   �   �       ����subdir
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����pooch-1.8.2.dist-info
+�   �       ����psycopg2
+�   �       �   ����__pycache__
+�   �       ����psycopg2-2.9.11.dist-info
+�   �       �   ����licenses
+�   �       ����psycopg2.libs
+�   �       ����pycparser
+�   �       �   ����ply
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����pycparser-2.23.dist-info
+�   �       ����PyJWT-2.10.1.dist-info
+�   �       ����python_dotenv-1.2.1.dist-info
+�   �       �   ����licenses
+�   �       ����regex
+�   �       �   ����tests
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����regex-2025.11.3.dist-info
+�   �       �   ����licenses
+�   �       ����requests
+�   �       �   ����__pycache__
+�   �       ����requests-2.32.5.dist-info
+�   �       �   ����licenses
+�   �       ����scikit_learn-1.8.0.dist-info
+�   �       �   ����licenses
+�   �       ����scipy
+�   �       �   ����cluster
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����constants
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����datasets
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����differentiate
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����fft
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_pocketfft
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����fftpack
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����integrate
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_ivp
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_rules
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����interpolate
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����io
+�   �       �   �   ����arff
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����data
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����matlab
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����data
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_fast_matrix_market
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_harwell_boeing
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����linalg
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   ����_cython_examples
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����misc
+�   �       �   �   ����__pycache__
+�   �       �   ����ndimage
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����odr
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����optimize
+�   �       �   �   ����cython_optimize
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����_cython_examples
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_highspy
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_lsq
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_shgo_lib
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_trlib
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_trustregion_constr
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����signal
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����windows
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����sparse
+�   �       �   �   ����csgraph
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����linalg
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_dsolve
+�   �       �   �   �   �   ����tests
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_eigen
+�   �       �   �   �   �   ����arpack
+�   �       �   �   �   �   �   ����tests
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����lobpcg
+�   �       �   �   �   �   �   ����tests
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����tests
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_isolve
+�   �       �   �   �   �   ����tests
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_propack
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����spatial
+�   �       �   �   ����qhull_src
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����transform
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����special
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_cython_examples
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_precompute
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����stats
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   �   ����levy_stable
+�   �       �   �   �   �   ����nist_anova
+�   �       �   �   �   �   ����nist_linregress
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_levy_stable
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_rcont
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_unuran
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_lib
+�   �       �   �   ����array_api_compat
+�   �       �   �   �   ����common
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����cupy
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����dask
+�   �       �   �   �   �   ����array
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����numpy
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����torch
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����array_api_extra
+�   �       �   �   �   ����_lib
+�   �       �   �   �   �   ����_utils
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����cobyqa
+�   �       �   �   �   ����subsolvers
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����utils
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pyprima
+�   �       �   �   �   ����cobyla
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����common
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_uarray
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����scipy-1.16.3.dist-info
+�   �       ����scipy.libs
+�   �       ����setuptools
+�   �       �   ����command
+�   �       �   �   ����__pycache__
+�   �       �   ����compat
+�   �       �   �   ����__pycache__
+�   �       �   ����config
+�   �       �   �   ����_validate_pyproject
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����extern
+�   �       �   �   ����__pycache__
+�   �       �   ����_distutils
+�   �       �   �   ����command
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����compat
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_vendor
+�   �       �   �   �   ����packaging
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_vendor
+�   �       �   �   ����backports
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����importlib_metadata
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����importlib_resources
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����jaraco
+�   �       �   �   �   ����functools
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����text
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����more_itertools
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����packaging
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tomli
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����wheel
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����setuptools-70.2.0.dist-info
+�   �       ����sklearn
+�   �       �   ����.libs
+�   �       �   ����cluster
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_hdbscan
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����compose
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����covariance
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����cross_decomposition
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����datasets
+�   �       �   �   ����data
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����descr
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����images
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����data
+�   �       �   �   �   �   ����openml
+�   �       �   �   �   �   �   ����id_1
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_1119
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_1590
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_2
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_292
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_3
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_40589
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_40675
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_40945
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_40966
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_42074
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_42585
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_561
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_61
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����id_62
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����decomposition
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����ensemble
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_hist_gradient_boosting
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����experimental
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����externals
+�   �       �   �   ����array_api_compat
+�   �       �   �   �   ����common
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����cupy
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����dask
+�   �       �   �   �   �   ����array
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����numpy
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����torch
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����array_api_extra
+�   �       �   �   �   ����_lib
+�   �       �   �   �   �   ����_utils
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_numpydoc
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_packaging
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_scipy
+�   �       �   �   �   ����sparse
+�   �       �   �   �   �   ����csgraph
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����feature_extraction
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����feature_selection
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����frozen
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����gaussian_process
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����impute
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����inspection
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_plot
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����linear_model
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_glm
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����manifold
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����metrics
+�   �       �   �   ����cluster
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_pairwise_distances_reduction
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_plot
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����mixture
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����model_selection
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����neighbors
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����neural_network
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����preprocessing
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����semi_supervised
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����svm
+�   �       �   �   ����src
+�   �       �   �   �   ����liblinear
+�   �       �   �   �   ����libsvm
+�   �       �   �   �   ����newrand
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����tests
+�   �       �   �   ����__pycache__
+�   �       �   ����tree
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����utils
+�   �       �   �   ����src
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_repr_html
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_test_common
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_build_utils
+�   �       �   �   ����__pycache__
+�   �       �   ����_loss
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__check_build
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����soundfile-0.13.1.dist-info
+�   �       ����soxr
+�   �       �   ����__pycache__
+�   �       ����soxr-1.0.0.dist-info
+�   �       �   ����licenses
+�   �       ����sqlalchemy
+�   �       �   ����connectors
+�   �       �   �   ����__pycache__
+�   �       �   ����cyextension
+�   �       �   �   ����__pycache__
+�   �       �   ����dialects
+�   �       �   �   ����mssql
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����mysql
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����oracle
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����postgresql
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����sqlite
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����engine
+�   �       �   �   ����__pycache__
+�   �       �   ����event
+�   �       �   �   ����__pycache__
+�   �       �   ����ext
+�   �       �   �   ����asyncio
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����declarative
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����mypy
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����future
+�   �       �   �   ����__pycache__
+�   �       �   ����orm
+�   �       �   �   ����__pycache__
+�   �       �   ����pool
+�   �       �   �   ����__pycache__
+�   �       �   ����sql
+�   �       �   �   ����__pycache__
+�   �       �   ����testing
+�   �       �   �   ����fixtures
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����plugin
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����suite
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����util
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����sqlalchemy-2.0.44.dist-info
+�   �       �   ����licenses
+�   �       ����stable_ts-2.19.1.dist-info
+�   �       �   ����licenses
+�   �       ����stable_whisper
+�   �       �   ����audio
+�   �       �   �   ����__pycache__
+�   �       �   ����non_whisper
+�   �       �   �   ����__pycache__
+�   �       �   ����stabilization
+�   �       �   �   ����__pycache__
+�   �       �   ����whisper_word_level
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����sympy
+�   �       �   ����algebras
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����assumptions
+�   �       �   �   ����handlers
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����predicates
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����relation
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����benchmarks
+�   �       �   �   ����__pycache__
+�   �       �   ����calculus
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����categories
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����codegen
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����combinatorics
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����concrete
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����core
+�   �       �   �   ����benchmarks
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����crypto
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����diffgeom
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����discrete
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����external
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����functions
+�   �       �   �   ����combinatorial
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����elementary
+�   �       �   �   �   ����benchmarks
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����special
+�   �       �   �   �   ����benchmarks
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����geometry
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����holonomic
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����integrals
+�   �       �   �   ����benchmarks
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����interactive
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����liealgebras
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����logic
+�   �       �   �   ����algorithms
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����utilities
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����matrices
+�   �       �   �   ����benchmarks
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����expressions
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����multipledispatch
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����ntheory
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����parsing
+�   �       �   �   ����autolev
+�   �       �   �   �   ����test-examples
+�   �       �   �   �   �   ����pydy-example-repo
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_antlr
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����c
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����fortran
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����latex
+�   �       �   �   �   ����lark
+�   �       �   �   �   �   ����grammar
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_antlr
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����physics
+�   �       �   �   ����biomechanics
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����continuum_mechanics
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����control
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����hep
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����mechanics
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����optics
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����quantum
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����units
+�   �       �   �   �   ����definitions
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����systems
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����vector
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����plotting
+�   �       �   �   ����backends
+�   �       �   �   �   ����matplotlibbackend
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����textbackend
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����intervalmath
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pygletplot
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����polys
+�   �       �   �   ����agca
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����benchmarks
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����domains
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����matrices
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����numberfields
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����printing
+�   �       �   �   ����pretty
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����sandbox
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����series
+�   �       �   �   ����benchmarks
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����sets
+�   �       �   �   ����handlers
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����simplify
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����solvers
+�   �       �   �   ����benchmarks
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����diophantine
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����ode
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����stats
+�   �       �   �   ����sampling
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����strategies
+�   �       �   �   ����branch
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����tensor
+�   �       �   �   ����array
+�   �       �   �   �   ����expressions
+�   �       �   �   �   �   ����tests
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����testing
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����unify
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����utilities
+�   �       �   �   ����mathml
+�   �       �   �   �   ����data
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_compilation
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����vector
+�   �       �   �   ����tests
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����sympy-1.14.0.dist-info
+�   �       �   ����licenses
+�   �       ����threadpoolctl-3.6.0.dist-info
+�   �       �   ����licenses
+�   �       ����tiktoken
+�   �       �   ����__pycache__
+�   �       ����tiktoken-0.12.0.dist-info
+�   �       �   ����licenses
+�   �       ����tiktoken_ext
+�   �       �   ����__pycache__
+�   �       ����torch
+�   �       �   ����accelerator
+�   �       �   �   ����__pycache__
+�   �       �   ����amp
+�   �       �   �   ����__pycache__
+�   �       �   ����ao
+�   �       �   �   ����nn
+�   �       �   �   �   ����intrinsic
+�   �       �   �   �   �   ����modules
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����qat
+�   �       �   �   �   �   �   ����modules
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����quantized
+�   �       �   �   �   �   �   ����dynamic
+�   �       �   �   �   �   �   �   ����modules
+�   �       �   �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����modules
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����qat
+�   �       �   �   �   �   ����dynamic
+�   �       �   �   �   �   �   ����modules
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����modules
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����quantizable
+�   �       �   �   �   �   ����modules
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����quantized
+�   �       �   �   �   �   ����dynamic
+�   �       �   �   �   �   �   ����modules
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����modules
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����reference
+�   �       �   �   �   �   �   ����modules
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����sparse
+�   �       �   �   �   �   ����quantized
+�   �       �   �   �   �   �   ����dynamic
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����ns
+�   �       �   �   �   ����fx
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pruning
+�   �       �   �   �   ����scheduler
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����sparsifier
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_experimental
+�   �       �   �   �   �   ����activation_sparsifier
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����data_scheduler
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����data_sparsifier
+�   �       �   �   �   �   �   ����lightning
+�   �       �   �   �   �   �   �   ����callbacks
+�   �       �   �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����pruner
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����quantization
+�   �       �   �   �   ����backend_config
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����fx
+�   �       �   �   �   �   ����_model_report
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����pt2e
+�   �       �   �   �   �   ����representation
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����quantizer
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����autograd
+�   �       �   �   ����_functions
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����backends
+�   �       �   �   ����cpu
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����cuda
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����cudnn
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����cusparselt
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����kleidiai
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����mha
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����miopen
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����mkl
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����mkldnn
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����mps
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����nnpack
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����openmp
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����opt_einsum
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����quantized
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����xeon
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����xnnpack
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_coreml
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_nnapi
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����bin
+�   �       �   ����compiler
+�   �       �   �   ����__pycache__
+�   �       �   ����contrib
+�   �       �   �   ����__pycache__
+�   �       �   ����cpu
+�   �       �   �   ����amp
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����csrc
+�   �       �   �   ����inductor
+�   �       �   �       ����aoti_runtime
+�   �       �   ����cuda
+�   �       �   �   ����amp
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����distributed
+�   �       �   �   ����algorithms
+�   �       �   �   �   ����ddp_comm_hooks
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����model_averaging
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_checkpoint
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_comm_hooks
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_optimizer_overlap
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_quantization
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����autograd
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����checkpoint
+�   �       �   �   �   ����_experimental
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����elastic
+�   �       �   �   �   ����agent
+�   �       �   �   �   �   ����server
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����events
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����metrics
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����multiprocessing
+�   �       �   �   �   �   ����errors
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����subprocess_handler
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����rendezvous
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����timer
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����utils
+�   �       �   �   �   �   ����data
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����fsdp
+�   �       �   �   �   ����_fully_shard
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����launcher
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����nn
+�   �       �   �   �   ����api
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����jit
+�   �       �   �   �   �   ����templates
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����optim
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pipelining
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����rpc
+�   �       �   �   �   ����_testing
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tensor
+�   �       �   �   �   ����debug
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����experimental
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����parallel
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_ops
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_composable
+�   �       �   �   �   ����fsdp
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_shard
+�   �       �   �   �   ����checkpoint
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����sharded_optim
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����sharded_tensor
+�   �       �   �   �   �   ����_ops
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����sharding_plan
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����sharding_spec
+�   �       �   �   �   �   ����chunk_sharding_spec_ops
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_sharded_tensor
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_sharding_spec
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_symmetric_memory
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_tensor
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_tools
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����distributions
+�   �       �   �   ����__pycache__
+�   �       �   ����export
+�   �       �   �   ����experimental
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����passes
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pt2_archive
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����fft
+�   �       �   �   ����__pycache__
+�   �       �   ����func
+�   �       �   �   ����__pycache__
+�   �       �   ����futures
+�   �       �   �   ����__pycache__
+�   �       �   ����fx
+�   �       �   �   ����experimental
+�   �       �   �   �   ����migrate_gradual_types
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����unification
+�   �       �   �   �   �   ����multipledispatch
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����passes
+�   �       �   �   �   ����backends
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����dialect
+�   �       �   �   �   �   ����common
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����infra
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����tests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����utils
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����include
+�   �       �   �   ����ATen
+�   �       �   �   �   ����core
+�   �       �   �   �   �   ����boxing
+�   �       �   �   �   �   �   ����impl
+�   �       �   �   �   �   ����dispatch
+�   �       �   �   �   �   ����op_registration
+�   �       �   �   �   ����cpu
+�   �       �   �   �   �   ����vec
+�   �       �   �   �   �       ����sve
+�   �       �   �   �   �       ����vec128
+�   �       �   �   �   �       ����vec256
+�   �       �   �   �   �       �   ����vsx
+�   �       �   �   �   �       �   ����zarch
+�   �       �   �   �   �       ����vec512
+�   �       �   �   �   ����cuda
+�   �       �   �   �   �   ����detail
+�   �       �   �   �   �   ����tunable
+�   �       �   �   �   ����cudnn
+�   �       �   �   �   ����detail
+�   �       �   �   �   ����functorch
+�   �       �   �   �   ����hip
+�   �       �   �   �   �   ����impl
+�   �       �   �   �   ����metal
+�   �       �   �   �   ����miopen
+�   �       �   �   �   ����mps
+�   �       �   �   �   ����native
+�   �       �   �   �   �   ����ao_sparse
+�   �       �   �   �   �   �   ����quantized
+�   �       �   �   �   �   �       ����cpu
+�   �       �   �   �   �   ����cpu
+�   �       �   �   �   �   ����cuda
+�   �       �   �   �   �   ����hip
+�   �       �   �   �   �   �   ����bgemm_kernels
+�   �       �   �   �   �   ����kleidiai
+�   �       �   �   �   �   ����mkldnn
+�   �       �   �   �   �   �   ����xpu
+�   �       �   �   �   �   �       ����detail
+�   �       �   �   �   �   ����mps
+�   �       �   �   �   �   �   ����kernels
+�   �       �   �   �   �   �   ����operations
+�   �       �   �   �   �   ����mtia
+�   �       �   �   �   �   ����nested
+�   �       �   �   �   �   ����quantized
+�   �       �   �   �   �   �   ����cpu
+�   �       �   �   �   �   �   ����cudnn
+�   �       �   �   �   �   ����transformers
+�   �       �   �   �   �   �   ����cuda
+�   �       �   �   �   �   �   �   ����flash_attn
+�   �       �   �   �   �   �   �   ����mem_eff_attention
+�   �       �   �   �   �   �   �       ����epilogue
+�   �       �   �   �   �   �   �       ����gemm
+�   �       �   �   �   �   �   �       ����iterators
+�   �       �   �   �   �   �   �       ����kernels
+�   �       �   �   �   �   �   �       ����transform
+�   �       �   �   �   �   �   ����hip
+�   �       �   �   �   �   �       ����flash_attn
+�   �       �   �   �   �   �           ����ck
+�   �       �   �   �   �   ����utils
+�   �       �   �   �   ����ops
+�   �       �   �   �   ����quantized
+�   �       �   �   �   ����xpu
+�   �       �   �   �       ����detail
+�   �       �   �   ����c10
+�   �       �   �   �   ����core
+�   �       �   �   �   �   ����impl
+�   �       �   �   �   ����cuda
+�   �       �   �   �   �   ����impl
+�   �       �   �   �   ����macros
+�   �       �   �   �   ����metal
+�   �       �   �   �   ����mobile
+�   �       �   �   �   ����test
+�   �       �   �   �   �   ����util
+�   �       �   �   �   ����util
+�   �       �   �   �   ����xpu
+�   �       �   �   �       ����impl
+�   �       �   �   �       ����test
+�   �       �   �   �           ����impl
+�   �       �   �   ����caffe2
+�   �       �   �   �   ����core
+�   �       �   �   �   ����perfkernels
+�   �       �   �   �   ����serialize
+�   �       �   �   �   ����utils
+�   �       �   �   �       ����threadpool
+�   �       �   �   ����fmt
+�   �       �   �   ����fp16
+�   �       �   �   ����google
+�   �       �   �   �   ����protobuf
+�   �       �   �   �       ����compiler
+�   �       �   �   �       �   ����cpp
+�   �       �   �   �       �   ����csharp
+�   �       �   �   �       �   ����java
+�   �       �   �   �       �   ����js
+�   �       �   �   �       �   ����objectivec
+�   �       �   �   �       �   ����php
+�   �       �   �   �       �   ����python
+�   �       �   �   �       �   ����ruby
+�   �       �   �   �       ����io
+�   �       �   �   �       ����stubs
+�   �       �   �   �       ����util
+�   �       �   �   ����kineto
+�   �       �   �   ����legacy
+�   �       �   �   ����mimalloc-2.2
+�   �       �   �   ����oneapi
+�   �       �   �   �   ����dnnl
+�   �       �   �   ����pybind11
+�   �       �   �   �   ����conduit
+�   �       �   �   �   ����detail
+�   �       �   �   �   ����eigen
+�   �       �   �   �   ����stl
+�   �       �   �   ����torch
+�   �       �   �       ����csrc
+�   �       �   �       �   ����api
+�   �       �   �       �   �   ����include
+�   �       �   �       �   �       ����torch
+�   �       �   �       �   �           ����data
+�   �       �   �       �   �           �   ����dataloader
+�   �       �   �       �   �           �   ����datasets
+�   �       �   �       �   �           �   ����detail
+�   �       �   �       �   �           �   ����samplers
+�   �       �   �       �   �           �   ����transforms
+�   �       �   �       �   �           ����detail
+�   �       �   �       �   �           ����nativert
+�   �       �   �       �   �           ����nn
+�   �       �   �       �   �           �   ����functional
+�   �       �   �       �   �           �   ����modules
+�   �       �   �       �   �           �   �   ����container
+�   �       �   �       �   �           �   ����options
+�   �       �   �       �   �           �   ����parallel
+�   �       �   �       �   �           �   ����utils
+�   �       �   �       �   �           ����optim
+�   �       �   �       �   �           �   ����schedulers
+�   �       �   �       �   �           ����python
+�   �       �   �       �   �           ����serialize
+�   �       �   �       �   ����autograd
+�   �       �   �       �   �   ����functions
+�   �       �   �       �   �   ����generated
+�   �       �   �       �   �   ����utils
+�   �       �   �       �   ����cpu
+�   �       �   �       �   ����cuda
+�   �       �   �       �   ����distributed
+�   �       �   �       �   �   ����autograd
+�   �       �   �       �   �   �   ����context
+�   �       �   �       �   �   �   ����engine
+�   �       �   �       �   �   �   ����functions
+�   �       �   �       �   �   �   ����rpc_messages
+�   �       �   �       �   �   ����c10d
+�   �       �   �       �   �   �   ����control_collectives
+�   �       �   �       �   �   �   ����control_plane
+�   �       �   �       �   �   �   ����cuda
+�   �       �   �       �   �   �   ����quantization
+�   �       �   �       �   �   �   ����symm_mem
+�   �       �   �       �   �   ����rpc
+�   �       �   �       �   �       ����metrics
+�   �       �   �       �   �       ����profiler
+�   �       �   �       �   �       ����testing
+�   �       �   �       �   ����dynamo
+�   �       �   �       �   ����export
+�   �       �   �       �   ����functionalization
+�   �       �   �       �   ����functorch
+�   �       �   �       �   ����fx
+�   �       �   �       �   ����inductor
+�   �       �   �       �   �   ����aoti_eager
+�   �       �   �       �   �   ����aoti_include
+�   �       �   �       �   �   ����aoti_package
+�   �       �   �       �   �   ����aoti_runner
+�   �       �   �       �   �   ����aoti_runtime
+�   �       �   �       �   �   ����aoti_torch
+�   �       �   �       �   �   �   ����c
+�   �       �   �       �   �   �   ����generated
+�   �       �   �       �   �   ����cpp_wrapper
+�   �       �   �       �   �       ����device_internal
+�   �       �   �       �   ����instruction_counter
+�   �       �   �       �   ����jit
+�   �       �   �       �   �   ����api
+�   �       �   �       �   �   ����backends
+�   �       �   �       �   �   �   ����coreml
+�   �       �   �       �   �   �   �   ����cpp
+�   �       �   �       �   �   �   �   ����objc
+�   �       �   �       �   �   �   ����xnnpack
+�   �       �   �       �   �   �       ����compiler
+�   �       �   �       �   �   �       ����executor
+�   �       �   �       �   �   �       ����serialization
+�   �       �   �       �   �   ����codegen
+�   �       �   �       �   �   �   ����cuda
+�   �       �   �       �   �   �   ����fuser
+�   �       �   �       �   �   �   �   ����cpu
+�   �       �   �       �   �   �   �   ����cuda
+�   �       �   �       �   �   �   ����onednn
+�   �       �   �       �   �   ����cuda
+�   �       �   �       �   �   ����frontend
+�   �       �   �       �   �   ����ir
+�   �       �   �       �   �   ����mobile
+�   �       �   �       �   �   �   ����compatibility
+�   �       �   �       �   �   �   ����model_tracer
+�   �       �   �       �   �   �   ����nnc
+�   �       �   �       �   �   �   ����train
+�   �       �   �       �   �   �       ����optim
+�   �       �   �       �   �   ����operator_upgraders
+�   �       �   �       �   �   ����passes
+�   �       �   �       �   �   �   ����dbr_quantization
+�   �       �   �       �   �   �   ����onnx
+�   �       �   �       �   �   �   �   ����pattern_conversion
+�   �       �   �       �   �   �   ����quantization
+�   �       �   �       �   �   �   ����utils
+�   �       �   �       �   �   ����python
+�   �       �   �       �   �   ����runtime
+�   �       �   �       �   �   �   ����interpreter
+�   �       �   �       �   �   �   ����static
+�   �       �   �       �   �   ����serialization
+�   �       �   �       �   �   ����tensorexpr
+�   �       �   �       �   �   �   ����operators
+�   �       �   �       �   �   ����testing
+�   �       �   �       �   ����lazy
+�   �       �   �       �   �   ����backend
+�   �       �   �       �   �   ����core
+�   �       �   �       �   �   �   ����internal_ops
+�   �       �   �       �   �   �   ����ops
+�   �       �   �       �   �   ����generated
+�   �       �   �       �   �   ����python
+�   �       �   �       �   �   ����ts_backend
+�   �       �   �       �   �       ����ops
+�   �       �   �       �   ����monitor
+�   �       �   �       �   ����mps
+�   �       �   �       �   ����mtia
+�   �       �   �       �   �   ����profiler
+�   �       �   �       �   ����multiprocessing
+�   �       �   �       �   ����onnx
+�   �       �   �       �   ����profiler
+�   �       �   �       �   �   ����orchestration
+�   �       �   �       �   �   ����python
+�   �       �   �       �   �   ����standalone
+�   �       �   �       �   �   ����stubs
+�   �       �   �       �   �   ����unwind
+�   �       �   �       �   ����stable
+�   �       �   �       �   ����tensor
+�   �       �   �       �   ����utils
+�   �       �   �       �   ����xpu
+�   �       �   �       ����headeronly
+�   �       �   �           ����core
+�   �       �   �           ����cpu
+�   �       �   �           �   ����vec
+�   �       �   �           �       ����vec256
+�   �       �   �           ����macros
+�   �       �   �           ����util
+�   �       �   ����jit
+�   �       �   �   ����mobile
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_passes
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����lib
+�   �       �   �   ����libshm
+�   �       �   �   ����libshm_windows
+�   �       �   ����linalg
+�   �       �   �   ����__pycache__
+�   �       �   ����masked
+�   �       �   �   ����maskedtensor
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����monitor
+�   �       �   �   ����__pycache__
+�   �       �   ����mps
+�   �       �   �   ����__pycache__
+�   �       �   ����mtia
+�   �       �   �   ����__pycache__
+�   �       �   ����multiprocessing
+�   �       �   �   ����__pycache__
+�   �       �   ����nested
+�   �       �   �   ����_internal
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����nn
+�   �       �   �   ����attention
+�   �       �   �   �   ����experimental
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����backends
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����intrinsic
+�   �       �   �   �   ����modules
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����qat
+�   �       �   �   �   �   ����modules
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����quantized
+�   �       �   �   �   �   ����dynamic
+�   �       �   �   �   �   �   ����modules
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����modules
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����modules
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����parallel
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����qat
+�   �       �   �   �   ����dynamic
+�   �       �   �   �   �   ����modules
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����modules
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����quantizable
+�   �       �   �   �   ����modules
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����quantized
+�   �       �   �   �   ����dynamic
+�   �       �   �   �   �   ����modules
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����modules
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_reference
+�   �       �   �   �   �   ����modules
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����utils
+�   �       �   �   �   ����_expanded_weights
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����numa
+�   �       �   �   ����__pycache__
+�   �       �   ����onnx
+�   �       �   �   ����ops
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_internal
+�   �       �   �   �   ����exporter
+�   �       �   �   �   �   ����_torchlib
+�   �       �   �   �   �   �   ����ops
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����fx
+�   �       �   �   �   �   ����passes
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����torchscript_exporter
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����optim
+�   �       �   �   ����_multi_tensor
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����package
+�   �       �   �   ����analyze
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����profiler
+�   �       �   �   ����__pycache__
+�   �       �   ����quantization
+�   �       �   �   ����fx
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����share
+�   �       �   �   ����cmake
+�   �       �   �       ����ATen
+�   �       �   �       ����Caffe2
+�   �       �   �       �   ����Modules_CUDA_fix
+�   �       �   �       �   �   ����upstream
+�   �       �   �       �   �       ����FindCUDA
+�   �       �   �       �   ����public
+�   �       �   �       ����Torch
+�   �       �   ����signal
+�   �       �   �   ����windows
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����sparse
+�   �       �   �   ����__pycache__
+�   �       �   ����special
+�   �       �   �   ����__pycache__
+�   �       �   ����testing
+�   �       �   �   ����_internal
+�   �       �   �   �   ����codegen
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����data
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����distributed
+�   �       �   �   �   �   ����nn
+�   �       �   �   �   �   �   ����api
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����rpc
+�   �       �   �   �   �   �   ����examples
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����jit
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����_shard
+�   �       �   �   �   �   �   ����sharded_tensor
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����_tensor
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����generated
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����opinfo
+�   �       �   �   �   �   ����definitions
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����optests
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����test_module
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����utils
+�   �       �   �   ����backcompat
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����benchmark
+�   �       �   �   �   ����examples
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����op_fuzzers
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����utils
+�   �       �   �   �   �   ����valgrind_wrapper
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����bottleneck
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����data
+�   �       �   �   �   ����datapipes
+�   �       �   �   �   �   ����dataframe
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����iter
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����map
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����utils
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����_utils
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����hipify
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����jit
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����model_dump
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����serialization
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����tensorboard
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����viz
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_strobelight
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_sympy
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����xpu
+�   �       �   �   ����__pycache__
+�   �       �   ����_awaits
+�   �       �   �   ����__pycache__
+�   �       �   ����_C
+�   �       �   �   ����_dynamo
+�   �       �   �   ����_export
+�   �       �   ����_custom_op
+�   �       �   �   ����__pycache__
+�   �       �   ����_C_flatbuffer
+�   �       �   ����_decomp
+�   �       �   �   ����__pycache__
+�   �       �   ����_dispatch
+�   �       �   �   ����__pycache__
+�   �       �   ����_dynamo
+�   �       �   �   ����backends
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����polyfills
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����repro
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����variables
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_export
+�   �       �   �   ����db
+�   �       �   �   �   ����examples
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����passes
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����pass_infra
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����serde
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_functorch
+�   �       �   �   ����_activation_checkpointing
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_aot_autograd
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_higher_order_ops
+�   �       �   �   ����__pycache__
+�   �       �   ����_inductor
+�   �       �   �   ����analysis
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����autoheuristic
+�   �       �   �   �   ����artifacts
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����codegen
+�   �       �   �   �   ����aoti_runtime
+�   �       �   �   �   ����cuda
+�   �       �   �   �   �   ����cutlass_lib_extensions
+�   �       �   �   �   �   �   ����cutlass_mock_imports
+�   �       �   �   �   �   �   �   ����cuda
+�   �       �   �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   �   ����pydot
+�   �       �   �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   �   ����scipy
+�   �       �   �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   �   ����__pycache__
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����cutedsl
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����mtia
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����rocm
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����xpu
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����compile_worker
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����fx_passes
+�   �       �   �   �   ����serialized_patterns
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����kernel
+�   �       �   �   �   ����flex
+�   �       �   �   �   �   ����templates
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����package
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����runtime
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����template_heuristics
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_lazy
+�   �       �   �   ����__pycache__
+�   �       �   ����_library
+�   �       �   �   ����__pycache__
+�   �       �   ����_logging
+�   �       �   �   ����__pycache__
+�   �       �   ����_numpy
+�   �       �   �   ����testing
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_prims
+�   �       �   �   ����__pycache__
+�   �       �   ����_prims_common
+�   �       �   �   ����__pycache__
+�   �       �   ����_refs
+�   �       �   �   ����linalg
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����nn
+�   �       �   �   �   ����functional
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����special
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����_strobelight
+�   �       �   �   ����__pycache__
+�   �       �   ����_subclasses
+�   �       �   �   ����__pycache__
+�   �       �   ����_vendor
+�   �       �   �   ����packaging
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����torch-2.9.1+cpu.dist-info
+�   �       ����torchaudio
+�   �       �   ����compliance
+�   �       �   �   ����__pycache__
+�   �       �   ����datasets
+�   �       �   �   ����__pycache__
+�   �       �   ����functional
+�   �       �   �   ����__pycache__
+�   �       �   ����lib
+�   �       �   �   ����__pycache__
+�   �       �   ����models
+�   �       �   �   ����decoder
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����squim
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����wav2vec2
+�   �       �   �   �   ����utils
+�   �       �   �   �   �   ����__pycache__
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����pipelines
+�   �       �   �   ����_tts
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����_wav2vec2
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����transforms
+�   �       �   �   ����__pycache__
+�   �       �   ����utils
+�   �       �   �   ����__pycache__
+�   �       �   ����_extension
+�   �       �   �   ����__pycache__
+�   �       �   ����_internal
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����torchaudio-2.9.1+cpu.dist-info
+�   �       �   ����licenses
+�   �       ����torchgen
+�   �       �   ����aoti
+�   �       �   �   ����__pycache__
+�   �       �   ����api
+�   �       �   �   ����types
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����dest
+�   �       �   �   ����__pycache__
+�   �       �   ����operator_versions
+�   �       �   �   ����__pycache__
+�   �       �   ����packaged
+�   �       �   �   ����ATen
+�   �       �   �   �   ����native
+�   �       �   �   �   ����templates
+�   �       �   �   ����autograd
+�   �       �   �       ����templates
+�   �       �   �       ����__pycache__
+�   �       �   ����selective_build
+�   �       �   �   ����__pycache__
+�   �       �   ����static_runtime
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����tqdm
+�   �       �   ����contrib
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����tqdm-4.67.1.dist-info
+�   �       ����typing_extensions-4.15.0.dist-info
+�   �       �   ����licenses
+�   �       ����urllib3
+�   �       �   ����contrib
+�   �       �   �   ����emscripten
+�   �       �   �   �   ����__pycache__
+�   �       �   �   ����__pycache__
+�   �       �   ����http2
+�   �       �   �   ����__pycache__
+�   �       �   ����util
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����urllib3-2.6.2.dist-info
+�   �       �   ����licenses
+�   �       ����werkzeug
+�   �       �   ����datastructures
+�   �       �   �   ����__pycache__
+�   �       �   ����debug
+�   �       �   �   ����shared
+�   �       �   �   ����__pycache__
+�   �       �   ����middleware
+�   �       �   �   ����__pycache__
+�   �       �   ����routing
+�   �       �   �   ����__pycache__
+�   �       �   ����sansio
+�   �       �   �   ����__pycache__
+�   �       �   ����wrappers
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����werkzeug-3.1.4.dist-info
+�   �       �   ����licenses
+�   �       ����whisper
+�   �       �   ����assets
+�   �       �   ����normalizers
+�   �       �   �   ����__pycache__
+�   �       �   ����__pycache__
+�   �       ����_distutils_hack
+�   �       �   ����__pycache__
+�   �       ����_soundfile_data
+�   �       �   ����__pycache__
+�   �       ����__pycache__
+�   ����Scripts
+�   ����share
+�       ����man
+�           ����man1
+����__pycache__
